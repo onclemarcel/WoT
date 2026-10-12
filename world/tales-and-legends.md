@@ -38,7 +38,7 @@ Every tale named so far, in the order the chapters give them. The last column sa
 | Warders and Trollocs, Ogier and Aiel | Ch. 4, Thom | Creatures "from stories", says Perrin | All real; a Warder is watching from the crowd |
 | The Thousand Tales of Anla, the Wise Counselor | Ch. 4, Thom | Advice tales | Often read as Ann Landers, the advice columnist |
 | Jaem the Giant-Slayer | Ch. 4, Thom | A hero tale | Echoes Jack the Giant-Killer |
-| How Susa Tamed Jain Farstrider | Ch. 4, Thom | A comic tale about a famous adventurer | Jain Farstrider is real; he returns as Noal |
+| How Susa Tamed Jain Farstrider | Ch. 4, Thom | A comic tale about a famous adventurer; in Ch. 5 Tam owns a book of his travels | Jain Farstrider is real; he returns as Noal |
 | Mara and the Three Foolish Kings | Ch. 4, Thom | A woman outwitting kings, Egwene's kind of story | Not explained in Book 1 |
 | Lenn, who flew to the moon in an eagle of fire | Ch. 4, Egwene's request | An ancient adventure | Apollo and the lunar module Eagle; John Glenn |
 | Salya, walking among the stars | Ch. 4, Egwene's request | Lenn's daughter's adventure | Sally Ride |

@@ -73,6 +73,19 @@ Tam's past breaks the surface in this chapter, and almost every detail of the sw
 | The Trollocs came in force, with a Fade, to an isolated farm on Winternight | Bad luck | The Shadow knows the Two Rivers holds a boy it wants, and is hunting houses with young men of the right age |
 | Tam's wound burns with fever within hours | An infected cut | Trolloc and Fade blades carry a sickness beyond ordinary medicine; Nynaeve's herbs may not be enough |
 
+## Reader's notes
+
+Your close-reading notes on Chapter 5, with what the later books make of each. Tam's past is followed in [WoT Character — Tam](../../characters/tam.md), the Shadow's servants in [WoT Thread — The Shadow](../../threads/shadow.md), and Jain Farstrider in [WoT — Tales and Legends](../../world/tales-and-legends.md).
+
+| Note | Reading |
+| --- | --- |
+| Unease at the start: Tam circles the buildings, tastes the well water, and both keep spear and bow at hand during chores | The chapter runs on tension and release. Unease in the yard, relief by the fire ("no false Dragon here"), then the lock, the chest and the sword pull the tension back up before the door breaks. The relief is short on purpose: it gives the attack something to break. |
+| *The Travels of Jain Farstrider* on the table | It ties back to Thom's "How Susa Tamed Jain Farstrider" in Chapter 4. Jain was a real traveller in this world, not only a tale, and the book is a quiet hint that Tam has seen the world too. Jain Farstrider will matter much later in the series; the less said here, the better. |
+| Tam's past as a soldier: the blade, and checking things when worried | He reads the ground like a scout, and tasting the well is a check for poison. Later books make him a veteran of the Aiel War and a former officer in a foreign army, and the heron blade shows he is a blademaster. Here the text says only "a long time ago, a long way from here". |
+| Then things go fast: Tam masters the doorway, Rand flees, Tam leads the Trollocs away toward the mountains and comes back hurt; Rand's first kill is by chance | The pace changes with the sentences: short, broken, all action. Tam's lure works because he runs toward the voice he last heard and then away from Rand. Rand's kill is half luck: he raises the blade as Narg lunges, and the Trolloc's weight does the rest. "The mountains" are most likely the Mountains of Mist to the west, which the text does not name here. |
+| Trollocs can speak, and they fear Myrddraal | They have their own harsh tongue, and Narg also speaks broken human words. Their fear shows the chain of command: Trollocs obey Fades out of terror, and serve without loyalty. |
+| Tam's blade looks unbreakable | It chops seasoned ash like an axe and stays razor-sharp. Later books explain this as a blade made with the One Power long ago; such blades do not dull or break. The chapter shows only the sharpness. |
+
 ## Thread setup
 
 Chapter 5 turns the Shadow thread from signs into an attack, and gives Rand's origin its strongest clue so far. Thread names follow the Story Map.
@@ -99,4 +112,4 @@ Chapter 5 turns the Shadow thread from signs into an attack, and gives Rand's or
 
 ## Sources
 
-Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column and the remark that a Fade is not twenty feet tall come from later books, from memory. Details most worth confirming: that a heron-mark blade marks a blademaster and is Power-wrought; that Tam fought as a soldier abroad (the Aiel War and beyond); that Kari al'Thor was Tam's wife and not Rand's birth mother; and that Tam's fever comes from a tainted Shadowspawn blade, as Moiraine later explains.
+Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column and the remark that a Fade is not twenty feet tall come from later books, from memory. Details most worth confirming: that a heron-mark blade marks a blademaster and is Power-wrought; that Tam fought as a soldier abroad (the Aiel War and beyond); that Kari al'Thor was Tam's wife and not Rand's birth mother; and that Tam's fever comes from a tainted Shadowspawn blade, as Moiraine later explains. The Reader's notes add two more from memory: that Jain Farstrider was a real traveller who returns later in the series, and that Tam served as an officer in a foreign army.
