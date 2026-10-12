@@ -8,6 +8,8 @@ Characters: [WoT Character — Thom](../../characters/thom.md) · [WoT Character
 
 World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md)
 
+Tales: [WoT — Tales and Legends](../../world/tales-and-legends.md)
+
 Chapter 4 brings the last stranger, the gleeman Thom Merrilin, and then sends Rand home. Thom's performance turns the outside world into a show of stories, but his wariness of Moiraine and his scorn for Fain say he knows more than he tells. The chapter ends on relief: Tam believes Rand about the black rider, and "that others knew and believed made all the difference". The reader, who knows a horror is coming on Winternight, feels that relief as a trap.
 
 ## Setting
@@ -78,6 +80,26 @@ Thom fills the chapter with jokes and boasts, and almost every one points at som
 | Tam leaves early for the farm | Prudence | The farm is where the danger will strike on Winternight |
 | Rand's bow, which few men can draw | A strong young man | A weapon he made himself and can use; it will matter within a day |
 | Cenn compared to "a black-veiled Aiel" | An insult from stories | Aiel veil their faces before they kill; the Aiel will matter to Rand more than to anyone |
+
+## Reader's notes
+
+Your close-reading notes on Chapter 4, with what the later books make of each. Tales are collected in [WoT — Tales and Legends](../../world/tales-and-legends.md).
+
+| Note | Reading |
+| --- | --- |
+| Thom's baggy sleeves and big pockets | A gleeman's costume on first reading; in fact they hide his juggling balls, his pipe, and the throwing knives he will use later. |
+| Blue again: Lan's eyes, Moiraine's blue gown and stone, Thom's eyes | Blue marks outsiders in a land of dark eyes. Moiraine's blue also points to her Ajah, the Blue. That Lan and Thom, the two men who will be bound to her, both have blue eyes is a pleasing pattern, but the text never makes it a code. |
+| Why is Thom in Emond's Field? | Officially the Council hired him for Festival. His irony ("exalted rank of Master Gleeman") shows a fallen court bard hiding in a backwater. Later he joins the flight partly to save a young man from Aes Sedai, as he could not save his nephew. The timing is also the Pattern at work: ta'veren draw people to them. |
+| "As tall as an Aielman", then "almost the size of an Ogier" | The first is a true observation; the second is cover, to make the first sound like a joke. |
+| Watch Hill, Deven Ride, Taren Ferry | All three are Two Rivers villages. Baerlon, Caemlyn and Lugard are the first places named beyond it. |
+| Thom's history in one sentence | Collected, with every tale he names, in the Tales and Legends card. |
+| Moiraine and Thom | Sharp on both sides. "Some stories I like, and some I do not" is a warning from a woman who cannot lie. "A simple gleeman; that and nothing more" is a lie from a man who can. |
+| Nynaeve is never soft | Her anger is her authority, and often her fear. The reader sees her tenderness only later, in her care for the boys she follows out of the Two Rivers and in her love for Lan. |
+| Tam: "Battles don't interest me" | True of a man who has fought them. |
+| "We can see no reason for Aes Sedai to come here" | The text never says Tam recognised Moiraine. He had seen Aes Sedai in the Aiel War, and he found Rand on Dragonmount; strangers asking about young men would worry him. Read it as Council reasoning that Tam may privately doubt. |
+| Tam takes Rand home for Winternight | His stated reason: with both away, the stranger could make mischief at the farm. It also takes Rand away from the strangers. It will put both of them where the attack falls. |
+| "Tinkers" | Mat names them without explanation: the Tuatha'an, wandering people of the Way of the Leaf, met in Book 1. |
+| Tam believes the black rider | The trigger is in the text: four solid lads, Rand, Perrin, Lem Thane and Ban Crawe, all saw it, and "only young men see this fellow". He reasons like a soldier from reports, not from foreknowledge. |
 
 ## Thread setup
 

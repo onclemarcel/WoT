@@ -14,7 +14,9 @@ Chapter 4 shows Thom almost entirely from outside, through a performance, and ev
 - **How he looks:** lean, stooped, spry; snowy hair and mustaches; a face "gnarled like a tree that had seen hard times"; piercing blue eyes; a cloak of a hundred coloured patches.
 - **How he sounds:** a voice that fills a great room even in the open air, and drops to scorn when he names Fain.
 - **What he wants:** an audience, a warm bed, a strong brandy, and distance from Aes Sedai and wars ("fools kill other fools for foolish causes").
-- **What he hides:** why a court bard ended up in a backwater; why he stops juggling the moment Moiraine appears; how he knows that a boy's height is "as tall as an Aielman".
+- **What he hides:** why a court bard ended up in a backwater; why he stops juggling the moment Moiraine appears; how he knows that a boy's height is "as tall as an Aielman" (and why he covers it by calling Perrin "almost the size of an Ogier").
+- **Why he is here:** the Council hired him for Festival, and a fallen court bard is safest in a backwater. He arrives just as an Aes Sedai, a Darkfriend peddler and a Myrddraal close on three boys; the Pattern pulls people toward ta'veren, and his later motive, saving a young man from Aes Sedai as he could not save Owyn, grows from here.
+- **What he already knows:** he knows Fain by sight and by reputation, and brings Baerlon's news. His ironic lines ("You lads are widely traveled, then, it seems") show a man who has seen far more than he says.
 - **His stance:** prickly and vain, but quick to apologise when Egwene calls out his mockery.
 
 ## Arc
