@@ -28,6 +28,7 @@ TITLES = {
     "WoT — Manetheren": "world/manetheren.md",
     "WoT — Stedding": "world/stedding.md",
     "EotW Ch. 3 — The Peddler": "chapters/b01-eye-of-the-world/ch03-the-peddler.md",
+    "EotW Ch. 4 — The Gleeman": "chapters/b01-eye-of-the-world/ch04-the-gleeman.md",
     "WoT Character — Padan Fain": "characters/padan-fain.md",
     "WoT Character — Rand": "characters/rand.md",
     "WoT Character — Mat": "characters/mat.md",

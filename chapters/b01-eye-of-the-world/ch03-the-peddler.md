@@ -4,6 +4,8 @@ Oct 12, 2026 · @OncleMarcel
 
 Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 2 — Strangers](ch02-strangers.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
+Next: [EotW Ch. 4 — The Gleeman](ch04-the-gleeman.md)
+
 Characters: [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md)
 
 World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Illian](../../world/illian.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Children of the Light](../../world/children-of-the-light.md)

@@ -6,7 +6,7 @@ Up: [WoT — World Index](index.md) · History: [WoT — Manetheren](manetheren.
 
 The Two Rivers is the heroes' home: a remote farming district at the edge of Andor that has forgotten both its kingdom and the world. Chapter 3 makes the point plainly: when the peddler brings news of war and a false Dragon, the village answers with half-remembered stories, because it has no other way to know.
 
-- **Where:** between the Taren to the north and the White River to the south, with the Mountains of Mist to the west.
+- **Where:** closed on every side but one. The Taren is to the north, crossed at Taren Ferry, the only way in. The Mountains of Mist close the west and the Mire the east. To the south the White River churns over rocks, with the Forest of Shadows beyond it, a hundred miles or more without a road (Chapter 4).
 - **Villages:** Emond's Field, Watch Hill, Deven Ride and Taren Ferry.
 - **Ruler:** Andor on the maps; in practice no queen's officer has come in living memory, and the villages govern themselves.
 - **Past:** the land of Manetheren, the kingdom that died fighting the Shadow; the stone foundations Rand sits on in Chapter 3 are its last trace.
@@ -40,7 +40,7 @@ The Two Rivers splits authority between men and women, and each side gently mock
 | Bel Tine and Winternight | Spring festival (the Spring Pole) and the eve before it | The festival the strangers arrive for |
 | Two Rivers ale and tabac | Local goods sold to outside merchants | Barrels and pipes in the Winespring Inn |
 
-**Looks.** Two Rivers folk are mostly dark-haired and dark-eyed. When Chapter 3 calls Egwene "of a height with Nynaeve, and with the same dark coloring", it means hair and eyes, and it also pairs the apprentice with her teacher. The detail matters later: Rand is tall, grey-eyed and red-tinged in his hair, which marks him as Aiel blood among people who look like Egwene.
+**Looks.** Two Rivers folk are mostly dark-haired and dark-eyed. When Chapter 3 calls Egwene "of a height with Nynaeve, and with the same dark coloring", it means hair and eyes, and it also pairs the apprentice with her teacher. The detail matters later. In Chapter 4 Rand notes that "everybody in the Two Rivers had dark eyes"; his own grey eyes got him teased, and Thom calls him "as tall as an Aielman". His looks mark him as Aiel blood among people who look like Egwene.
 
 **Temper.** The people are famously stubborn, which the story ties to Manetheren's refusal to yield.
 
