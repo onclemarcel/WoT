@@ -24,7 +24,7 @@ Manetheren is the dead kingdom under the Two Rivers. Its memory turns farm boys 
 
 | Character or thread | Effect | Card |
 | --- | --- | --- |
-| Perrin | A legacy he has to live up to; raising the banner makes him a leader | [WoT Thread — Perrin](../threads/perrin.md) |
+| Perrin | A legacy he has to live up to; raising the banner makes him a leader | [WoT Character — Perrin](../characters/perrin.md) |
 | Mat | Old battle memories that echo Manetheren's generals | to come |
 | Rand | His home's hidden greatness mirrors his own hidden identity | to come |
 | Egwene and Nynaeve | Two Rivers stubbornness drives both of them | to come |

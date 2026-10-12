@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Threads: [WoT Thread — Perrin](../../threads/perrin.md) · World: [WoT — World Index](../../world/index.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Characters: [WoT Character — Perrin](../../characters/perrin.md) · World: [WoT — World Index](../../world/index.md)
 
 Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md) (why the Shadow hunts the boys with Trollocs yet wants the Dragon alive)
 

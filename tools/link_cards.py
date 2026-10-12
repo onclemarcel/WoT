@@ -5,7 +5,8 @@ replacing any card with a fresh export:
 
     python3 tools/link_cards.py
 
-It is safe to run more than once: titles that are already links are left alone.
+It is safe to run more than once, and after moving a card: existing links to
+known cards are rebuilt from the list below.
 """
 
 import os
@@ -17,9 +18,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Card title (as it appears in the exports) -> file, relative to the repo root.
 TITLES = {
     "Wheel of Time — Story Map": "story-map.md",
-    "WoT Thread — Perrin": "threads/perrin.md",
-    "Perrin — Senses and Surroundings": "threads/perrin-senses-and-surroundings.md",
-    "Perrin — Peoples and Powers": "threads/perrin-peoples-and-powers.md",
+    "WoT Character — Perrin": "characters/perrin.md",
     "WoT Thread — The Shadow": "threads/shadow.md",
     "WoT Character — Faile": "characters/faile.md",
     "WoT Arc — The Road with Elyas": "arcs/b01-road-with-elyas.md",
@@ -33,12 +32,16 @@ TITLES = {
 # Some exports lose the title of their "Up" link and print "Up: Doc".
 # File -> the card its "Up" link points to.
 UP_TARGETS = {
-    "threads/perrin.md": "story-map.md",
-    "threads/perrin-senses-and-surroundings.md": "threads/perrin.md",
-    "threads/perrin-peoples-and-powers.md": "threads/perrin.md",
+    "characters/perrin.md": "story-map.md",
     "world/index.md": "story-map.md",
     "world/manetheren.md": "world/index.md",
     "world/stedding.md": "world/index.md",
+}
+
+# Old card titles -> current title. Links in Claude Docs can keep a card's old
+# title after a rename, and exports print that old title.
+RENAMED = {
+    "WoT Thread — Perrin": "WoT Character — Perrin",
 }
 
 PATH_TO_TITLE = {path: title for title, path in TITLES.items()}
@@ -49,6 +52,17 @@ TITLE_PATTERN = re.compile(
     + "|".join(re.escape(t) for t in sorted(TITLES, key=len, reverse=True))
     + r")(?!\]\()"
 )
+
+
+# An existing link to a known card, so it can be rebuilt if the card moved.
+KNOWN = set(TITLES) | set(RENAMED)
+LINK_PATTERN = re.compile(r"\[([^\]]+)\]\([^)]*\.md\)")
+
+
+def unlink(line):
+    return LINK_PATTERN.sub(
+        lambda m: m.group(1) if m.group(1) in KNOWN else m.group(0), line
+    )
 
 
 def rel(from_file, to_file):
@@ -65,6 +79,9 @@ def link_file(path):
         if line.startswith("# "):  # the card's own title stays plain
             out.append(line)
             continue
+        line = unlink(line)
+        for old, new in RENAMED.items():
+            line = line.replace(old, new)
         if line.strip() == "Up: Doc" and path in UP_TARGETS:
             target = UP_TARGETS[path]
             line = f"Up: [{PATH_TO_TITLE[target]}]({rel(path, target)})"

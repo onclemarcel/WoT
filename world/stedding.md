@@ -22,7 +22,7 @@ A stedding is slow, green and unhurried, with huge trees, singing to wood, and a
 | Character or thread | Effect | Card |
 | --- | --- | --- |
 | Loial | A home he leaves out of curiosity; duty and the Longing pull him back. Late in the series he argues before the Ogier elders that they must stay and fight | to come |
-| Perrin | Calm, and a model of patient strength through Loial | [WoT Thread — Perrin](../threads/perrin.md) |
+| Perrin | Calm, and a model of patient strength through Loial | [WoT Character — Perrin](../characters/perrin.md) |
 | Rand | Cut off from saidin: a frightening blindness, but also a pause from the madness | to come |
 | Channelers in general | Powerless, so a stedding is a refuge from them and a trap for them | — |
 | Uniting the nations | Whether the Ogier join the Last Battle depends on their own debate | [Wheel of Time — Story Map](../story-map.md) |

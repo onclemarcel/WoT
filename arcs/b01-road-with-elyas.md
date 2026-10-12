@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · Thread: [WoT Thread — Perrin](../threads/perrin.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · Character: [WoT Character — Perrin](../characters/perrin.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md)
 
 This Book 1 stretch is where Perrin's arc starts: in a few weeks on the road with Egwene he becomes a wolfbrother, meets the Way of the Leaf, and kills for the first time. Both of the fears his arc is built on, the wolf and the axe, become real here.
 
@@ -32,7 +32,7 @@ Egwene's own card, from her side and the White Tower thread, is to come.
 
 ## People met on the road
 
-Each person or group on the road is an answer to Perrin's question of when violence is right; see [Perrin — Peoples and Powers](../threads/perrin-peoples-and-powers.md).
+Each person or group on the road is an answer to Perrin's question of when violence is right; see [WoT Character — Perrin](../characters/perrin.md) (Peoples and powers).
 
 | Who | What they teach | Later role |
 | --- | --- | --- |
