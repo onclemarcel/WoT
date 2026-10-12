@@ -2,7 +2,7 @@
 
 Cards for studying how *The Wheel of Time* is built: its threads, characters, world and chapters, with craft lessons for writing. Start with the [Story Map](story-map.md), the hub that links to everything else.
 
-These files are exports of linked Claude Docs. An export turns links between cards into plain titles, so after adding or replacing a card, run `python3 tools/link_cards.py` to turn them back into relative links. A new card needs its title and path added to the list at the top of that script.
+These files are exports of linked Claude Docs. [CLAUDE.md](CLAUDE.md) describes how the cards are made and updated. An export turns links between cards into plain titles, so after adding or replacing a card, run `python3 tools/link_cards.py` to turn them back into relative links. A new card needs its title and path added to the list at the top of that script.
 
 ## Folders
 
@@ -15,7 +15,7 @@ These files are exports of linked Claude Docs. An export turns links between car
 | [chapters/](chapters/) | Chapter cards, one folder per book, files in chapter order | [Book 1, Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [Book 1, Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md) · [Book 1, Ch. 3 — The Peddler](chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [Book 1, Ch. 4 — The Gleeman](chapters/b01-eye-of-the-world/ch04-the-gleeman.md) |
 | [world/](world/) | The World Index and world cards (places, peoples, history) | [World Index](world/index.md) · [The Two Rivers](world/two-rivers.md) · [Ghealdan](world/ghealdan.md) · [Illian](world/illian.md) · [Tar Valon and the White Tower](world/tar-valon.md) · [Children of the Light](world/children-of-the-light.md) · [Tales and Legends](world/tales-and-legends.md) · [Manetheren](world/manetheren.md) · [Stedding](world/stedding.md) |
 | [images/](images/) | Diagrams exported from the cards | — |
-| [tools/](tools/) | `link_cards.py`, which relinks card titles after an export | — |
+| [tools/](tools/) | `save_exports.py`, which writes Docs exports into the repo, and `link_cards.py`, which relinks card titles | — |
 
 ## Naming
 
