@@ -6,7 +6,7 @@ Up: Doc
 
 Satellites: Perrin — Senses and Surroundings · Perrin — Peoples and Powers
 
-Chapter cards: EotW Ch. 1 — An Empty Road (Perrin is not on stage yet; he enters in Chapter 2)
+Chapter cards: EotW Ch. 1 — An Empty Road (Perrin is only named here, as one of Rand's two closest friends)
 
 Characters: WoT Character — Faile · Arcs: WoT Arc — The Road with Elyas
 
