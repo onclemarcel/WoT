@@ -29,7 +29,7 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | Aiel | Desert warrior people bound by honour codes | Rand, Perrin, Egwene | to come |
 | Ogier | Long-lived builders bound to the stedding | Loial, Perrin | to come |
 | Tinkers | Wandering pacifists of the Way of the Leaf | Perrin, Egwene | to come |
-| Whitecloaks | Zealous military order hunting the Shadow | Perrin, Galad, Morgase | to come |
+| Children of the Light (Whitecloaks) | Zealous military order hunting the Shadow | Perrin, Galad, Morgase | [WoT — Children of the Light](children-of-the-light.md) |
 | Seanchan | Empire returned from across the ocean | Mat, Egwene, Perrin | to come |
 | Wolves | A people with memory, linked to wolfbrothers | Perrin, Elyas | to come |
 | Asha'man | Rand's order of male channelers | Rand, Perrin, Logain | to come |

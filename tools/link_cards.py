@@ -39,6 +39,7 @@ TITLES = {
     "WoT — Ghealdan": "world/ghealdan.md",
     "WoT — Illian": "world/illian.md",
     "WoT — Tar Valon and the White Tower": "world/tar-valon.md",
+    "WoT — Children of the Light": "world/children-of-the-light.md",
 }
 
 # Some exports lose the title of their "Up" link and print "Up: Doc".
