@@ -6,6 +6,10 @@ This is the hub: one spine (the Last Battle) and the threads braided around it. 
 
 World: WoT — World Index, the shared places, peoples and history. Character cards and world cards link to each other.
 
+Chapter cards: EotW Ch. 1 — An Empty Road
+
+Character cards: WoT Character — Faile · Arc cards: WoT Arc — The Road with Elyas
+
 ## Threads
 
 Every thread ultimately feeds the Last Battle with allies, armies or tools. The Satellite column gets a link once that thread is drilled into.

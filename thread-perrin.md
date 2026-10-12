@@ -6,6 +6,10 @@ Up: Doc
 
 Satellites: Perrin — Senses and Surroundings · Perrin — Peoples and Powers
 
+Chapter cards: EotW Ch. 1 — An Empty Road (Perrin is not on stage yet; he enters in Chapter 2)
+
+Characters: WoT Character — Faile · Arcs: WoT Arc — The Road with Elyas
+
 Perrin's arc is about his fear of himself. He starts out believing his strength and his wolf side will turn him into a beast, so he holds both back and avoids leading. He ends by mastering both: he chooses the hammer over the axe and accepts being a lord.
 
 ## Starting point
