@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Doc
+Up: [Wheel of Time — Story Map](../story-map.md)
 
 This index lists the shared entities of the world. Each card holds the entity's own story and a table of how it shapes each character and thread, and the character cards link back. Cards are created as we need them.
 
@@ -10,7 +10,7 @@ This index lists the shared entities of the world. Each card holds the entity's 
 
 | Place | What it is | Main characters touched | Card |
 | --- | --- | --- | --- |
-| Stedding | Ogier havens where the One Power fails | Loial, Perrin, Rand | WoT — Stedding |
+| Stedding | Ogier havens where the One Power fails | Loial, Perrin, Rand | [WoT — Stedding](stedding.md) |
 | The Two Rivers | Remote farmland, the heroes' home | Rand, Perrin, Mat, Egwene, Nynaeve | to come |
 | The wolf dream (Tel'aran'rhiod) | The world of dreams | Perrin, Egwene, Elayne, Nynaeve | to come |
 | The Ways | Ogier-grown roads, now tainted | Perrin, Loial, Rand | to come |
@@ -38,5 +38,5 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | Era or event | What it is | Main characters touched | Card |
 | --- | --- | --- | --- |
 | The Age of Legends and the Breaking | A golden age ended by the taint and male madness | Rand, the Forsaken | to come |
-| Manetheren and the Trolloc Wars | The fallen kingdom behind the Two Rivers | Perrin, Mat, Rand, Egwene | WoT — Manetheren |
+| Manetheren and the Trolloc Wars | The fallen kingdom behind the Two Rivers | Perrin, Mat, Rand, Egwene | [WoT — Manetheren](manetheren.md) |
 | Artur Hawkwing | The unifier whose heirs became the Seanchan | Mat, Rand | to come |

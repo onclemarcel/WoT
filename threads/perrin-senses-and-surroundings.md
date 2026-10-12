@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Doc
+Up: [WoT Thread — Perrin](perrin.md)
 
 Perrin's surroundings work as a mirror of his inner state. Smell is his truth sense, the forge is his safe place, and crowds, cities and politics unsettle him.
 
@@ -24,7 +24,7 @@ He feels safe where things are simple, honest and made by hand. He feels unsafe 
 | The forge | Safe | Patient work that he controls; strength used to make, not to break |
 | The Two Rivers | Safe, then a burden | Home, but defending it turns him into a leader |
 | Forests and open country | Safe | Elyas and the wolves; clean air and few people |
-| WoT — Stedding | Calm | The One Power does not work there; Loial's patience |
+| [WoT — Stedding](../world/stedding.md) | Calm | The One Power does not work there; Loial's patience |
 | The wolf dream | Free, then dangerous | Joy of running with the wolves, but the risk of losing himself as Noam did |
 | Great cities and courts | Unsafe | Crowds, scents, and politics he cannot read |
 | The Ways | Fear | Darkness and an unseen hunter; nothing to smell or fight |

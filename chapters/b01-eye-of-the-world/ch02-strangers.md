@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Wheel of Time — Story Map · Previous: EotW Ch. 1 — An Empty Road · Shadow thread: WoT Thread — The Shadow
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 1 — An Empty Road](ch01-an-empty-road.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Chapter 2 answers Chapter 1's single stranger with three more: a raven that won't be driven off, a lady and her swordsman, and a peddler at the end. Rand counts them as an "awful coincidence"; Mat only sees the best Bel Tine ever. Every newcomer is a sign the reader can't decode yet, and the chapter ends on cheer with a threat hidden inside it.
 

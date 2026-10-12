@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Doc
+Up: [WoT Thread — Perrin](perrin.md)
 
 Almost every group Perrin meets answers one question for him: when is violence right? The Tinkers refuse it, the Whitecloaks abuse it, the Aiel make rules for it, and the Seanchan make it efficient. His answer comes from all of them.
 
@@ -28,7 +28,7 @@ Rows run roughly in the order he meets each group.
 
 Two old pasts weigh on Perrin, and both point toward the leader he resists becoming.
 
-- **Manetheren.** The Two Rivers is what is left of a kingdom that died defending the world against the Shadow. When he raises its red eagle banner in Book 4, its old pride becomes a duty he has to carry. See WoT — Manetheren.
+- **Manetheren.** The Two Rivers is what is left of a kingdom that died defending the world against the Shadow. When he raises its red eagle banner in Book 4, its old pride becomes a duty he has to carry. See [WoT — Manetheren](../world/manetheren.md).
 - **The wolves' memory.** The wolves remember ages of humans, including earlier wolfbrothers. Through them he learns his gift is old and not a curse aimed at him.
 - **The Age of Legends.** The wolf dream holds traces of the past, and the Forsaken carry its powers. To him that age is a warning about strength without restraint.
 

@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Wheel of Time — Story Map · Chapter cards: EotW Ch. 1 — An Empty Road · World: WoT — World Index
+Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · World: [WoT — World Index](../world/index.md)
 
 The Shadow wants the Dragon Reborn turned, settles for him dead, and keeps sending servants who can only kill. That gap between what it wants and the tools it has drives the threat to Rand in every book. The reason is partly cosmic (a dead Dragon is reborn; a turned one wins the war) and partly that the Shadow never speaks with one voice.
 
@@ -24,7 +24,7 @@ Turning Rand is the prize, capturing him is the means, and killing him is the fa
 
 **Why the Winternight raid looks contradictory.** The Shadow knows the Dragon is a young man of the Two Rivers but not which one, so a raid on the right houses is a dragnet. Trollocs kill by nature, and an order to take someone alive rarely survives a fight. For the Shadow, a dead village and even a dead Dragon are acceptable losses on the way to the prize.
 
-The Light searches the same way. In EotW Ch. 2 — Strangers, Moiraine asks the villagers about ages, families and how long they have lived in the Two Rivers: both sides arrive on the same day, looking for the same young man, without knowing which one he is.
+The Light searches the same way. In [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md), Moiraine asks the villagers about ages, families and how long they have lived in the Two Rivers: both sides arrive on the same day, looking for the same young man, without knowing which one he is.
 
 ## Book by book
 

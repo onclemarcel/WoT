@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Doc
+Up: [WoT — World Index](index.md)
 
 Manetheren is the dead kingdom under the Two Rivers. Its memory turns farm boys into heirs of a legend and gives the villagers a pride to rise to.
 
@@ -24,9 +24,9 @@ Manetheren is the dead kingdom under the Two Rivers. Its memory turns farm boys 
 
 | Character or thread | Effect | Card |
 | --- | --- | --- |
-| Perrin | A legacy he has to live up to; raising the banner makes him a leader | WoT Thread — Perrin |
+| Perrin | A legacy he has to live up to; raising the banner makes him a leader | [WoT Thread — Perrin](../threads/perrin.md) |
 | Mat | Old battle memories that echo Manetheren's generals | to come |
 | Rand | His home's hidden greatness mirrors his own hidden identity | to come |
 | Egwene and Nynaeve | Two Rivers stubbornness drives both of them | to come |
 | Elayne | The Two Rivers' new pride challenges her claim as Andor's queen | to come |
-| Uniting the nations | A precedent: a small people standing against the Shadow | Wheel of Time — Story Map |
+| Uniting the nations | A precedent: a small people standing against the Shadow | [Wheel of Time — Story Map](../story-map.md) |

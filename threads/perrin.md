@@ -2,13 +2,13 @@
 
 Oct 11, 2026 · @OncleMarcel
 
-Up: Doc
+Up: [Wheel of Time — Story Map](../story-map.md)
 
-Satellites: Perrin — Senses and Surroundings · Perrin — Peoples and Powers
+Satellites: [Perrin — Senses and Surroundings](perrin-senses-and-surroundings.md) · [Perrin — Peoples and Powers](perrin-peoples-and-powers.md)
 
-Chapter cards: EotW Ch. 1 — An Empty Road (Perrin is only named here, as one of Rand's two closest friends)
+Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) (Perrin is only named here, as one of Rand's two closest friends)
 
-Characters: WoT Character — Faile · Arcs: WoT Arc — The Road with Elyas
+Characters: [WoT Character — Faile](../characters/faile.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
 
 Perrin's arc is about his fear of himself. He starts out believing his strength and his wolf side will turn him into a beast, so he holds both back and avoids leading. He ends by mastering both: he chooses the hammer over the axe and accepts being a lord.
 

@@ -2,11 +2,11 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Wheel of Time — Story Map · Threads: WoT Thread — Perrin · World: WoT — World Index
+Up: [Wheel of Time — Story Map](../../story-map.md) · Threads: [WoT Thread — Perrin](../../threads/perrin.md) · World: [WoT — World Index](../../world/index.md)
 
-Shadow thread: WoT Thread — The Shadow (why the Shadow hunts the boys with Trollocs yet wants the Dragon alive)
+Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md) (why the Shadow hunts the boys with Trollocs yet wants the Dragon alive)
 
-Next: EotW Ch. 2 — Strangers
+Next: [EotW Ch. 2 — Strangers](ch02-strangers.md)
 
 Chapter 1 of *The Eye of the World* plants the whole series in miniature: a winter that won't end, a rider whose cloak the wind doesn't touch, and two farm boys, Rand and Mat, who each saw him and were not believed. It follows the prologue "Dragonmount", and the drop from Lews Therin's death to a cart of cider on a muddy road is the series' scale in two scenes. The chapter is told entirely from Rand's point of view, the day before Bel Tine.
 
@@ -19,7 +19,7 @@ The setting is calm on the surface and wrong underneath: spring should have come
 | The Quarry Road, Westwood | Rand and Tam walk Bela and a cart of apple brandy and cider to the Winespring Inn; Rand has an arrow nocked, Tam uses his spear as a staff | No birds, no squirrels, pale sunlight "as if mixed with shadow": the forest Rand knew has become a place that can hide a watcher |
 | The weather and the land | Wolves and bears driven down from the mountains, stillborn lambs, brown fields, ravens where songbirds used to be, no storks nesting | The Dark One's touch, not yet named; Cenn fears the winter will last until the Age ends |
 | Emond's Field | Spring cleaning, children playing again, the Green half dead, the Spring Pole going up, bonfire stacks; Winternight tonight, Bel Tine tomorrow | A village that runs on custom ("the way it had always been") and stubbornness ("we'll survive, the Light willing") |
-| The Winespring Inn | River-rock walls, the village's only red tile roof; Bran al'Vere's home and the Mayor's seat | Its foundation is older stone "some said came from the mountains", next to a much larger old foundation with a giant oak growing in it: the first trace of WoT — Manetheren |
+| The Winespring Inn | River-rock walls, the village's only red tile roof; Bran al'Vere's home and the Mayor's seat | Its foundation is older stone "some said came from the mountains", next to a much larger old foundation with a giant oak growing in it: the first trace of [WoT — Manetheren](../../world/manetheren.md) |
 
 ## Characters
 

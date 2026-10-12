@@ -4,11 +4,11 @@ Oct 11, 2026 · @OncleMarcel
 
 This is the hub: one spine (the Last Battle) and the threads braided around it. Each thread gets its own satellite doc when we drill into it, and satellites link to deeper satellites.
 
-World: WoT — World Index, the shared places, peoples and history. Character cards and world cards link to each other.
+World: [WoT — World Index](world/index.md), the shared places, peoples and history. Character cards and world cards link to each other.
 
-Chapter cards: EotW Ch. 1 — An Empty Road · EotW Ch. 2 — Strangers
+Chapter cards: [EotW Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md)
 
-Character cards: WoT Character — Faile · Arc cards: WoT Arc — The Road with Elyas
+Character cards: [WoT Character — Faile](characters/faile.md) · Arc cards: [WoT Arc — The Road with Elyas](arcs/b01-road-with-elyas.md)
 
 ## Threads
 
@@ -22,9 +22,9 @@ Every thread ultimately feeds the Last Battle with allies, armies or tools. The 
 | Uniting the nations | Can a fractured world fight as one? | Rand, rulers, Aiel | Books 3–14 | to come |
 | The White Tower | Can a split Tower heal and lead? | Egwene, Siuan | Books 4–12 | to come |
 | Mat and the Seanchan | Can an invading empire become an ally? | Mat, Tuon | Books 2–14 | to come |
-| Perrin and leadership | Can a reluctant man lead without losing himself? | Perrin, Faile | Books 1–14 | WoT Thread — Perrin |
+| Perrin and leadership | Can a reluctant man lead without losing himself? | Perrin, Faile | Books 1–14 | [WoT Thread — Perrin](threads/perrin.md) |
 | Elayne and Nynaeve | Throne of Andor; Healing as power | Elayne, Nynaeve | Books 2–14 | to come |
-| The Shadow | Who serves the Dark One, and where? | Forsaken, Black Ajah | Books 1–14 | WoT Thread — The Shadow |
+| The Shadow | Who serves the Dark One, and where? | Forsaken, Black Ajah | Books 1–14 | [WoT Thread — The Shadow](threads/shadow.md) |
 | The Pattern and ta'veren | Fate or free will? | All | Thematic, whole series | to come |
 
 ## Macro shape

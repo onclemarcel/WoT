@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: Wheel of Time — Story Map · Thread: WoT Thread — Perrin
+Up: [Wheel of Time — Story Map](../story-map.md) · Thread: [WoT Thread — Perrin](../threads/perrin.md)
 
 Faile is the person who chooses Perrin as he is and then refuses to let him stay small. She pushes him to lead, anchors him against the wolf, and her capture triggers his fall in Books 9–11. She is a leader in her own right, not only his wife.
 
@@ -40,7 +40,7 @@ Faile is Perrin's main pusher and his anchor; when she is gone, he loses both.
 | An anchor against the wolf: at the end it is his love for her that holds against Lanfear | Jealousy and tests, especially around Berelain |
 | A political partner who handles nobles and courts | When she is taken, his whole world narrows to getting her back |
 
-The friction is mostly cultural. Two Rivers men are taught to be gentle and quiet with women; a Saldaean wife expects her husband to shout back. Perrin's patience reads to her as weakness, and her temper reads to him as attack. Learning to argue with her is part of learning to lead. Sensory detail lives in Perrin — Senses and Surroundings.
+The friction is mostly cultural. Two Rivers men are taught to be gentle and quiet with women; a Saldaean wife expects her husband to shout back. Perrin's patience reads to her as weakness, and her temper reads to him as attack. Learning to argue with her is part of learning to lead. Sensory detail lives in [Perrin — Senses and Surroundings](../threads/perrin-senses-and-surroundings.md).
 
 ## People
 
