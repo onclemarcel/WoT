@@ -4,7 +4,7 @@ Oct 12, 2026 · @OncleMarcel
 
 Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 3 — The Peddler](ch03-the-peddler.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
-Characters: [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md)
+Characters: [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md)
 
 World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md)
 
