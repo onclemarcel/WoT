@@ -6,7 +6,7 @@ This is the hub: one spine (the Last Battle) and the threads braided around it. 
 
 World: WoT — World Index, the shared places, peoples and history. Character cards and world cards link to each other.
 
-Chapter cards: EotW Ch. 1 — An Empty Road
+Chapter cards: EotW Ch. 1 — An Empty Road · EotW Ch. 2 — Strangers
 
 Character cards: WoT Character — Faile · Arc cards: WoT Arc — The Road with Elyas
 

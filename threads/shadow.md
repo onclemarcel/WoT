@@ -8,7 +8,7 @@ The Shadow wants the Dragon Reborn turned, settles for him dead, and keeps sendi
 
 ## Who serves the Shadow
 
-![The Shadow has one master but many competing servants](images/shadow-chain-of-command.png)
+![The Shadow has one master but many competing servants](../images/shadow-chain-of-command.png)
 
 Orders pass from the Dark One through the Forsaken to servants who can find Rand (spies, Darkfriends) or kill him (Shadowspawn), but rarely take him. Each Forsaken bends those orders toward their own aim.
 
@@ -23,6 +23,8 @@ Turning Rand is the prize, capturing him is the means, and killing him is the fa
 | Kill him | Removes him for this turning of the Wheel | Sammael, Demandred, many Darkfriends, panicking Myrddraal | A dead Dragon is spun out again: it delays the Last Battle, it doesn't win it |
 
 **Why the Winternight raid looks contradictory.** The Shadow knows the Dragon is a young man of the Two Rivers but not which one, so a raid on the right houses is a dragnet. Trollocs kill by nature, and an order to take someone alive rarely survives a fight. For the Shadow, a dead village and even a dead Dragon are acceptable losses on the way to the prize.
+
+The Light searches the same way. In EotW Ch. 2 — Strangers, Moiraine asks the villagers about ages, families and how long they have lived in the Two Rivers: both sides arrive on the same day, looking for the same young man, without knowing which one he is.
 
 ## Book by book
 
