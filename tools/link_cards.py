@@ -27,6 +27,14 @@ TITLES = {
     "WoT — World Index": "world/index.md",
     "WoT — Manetheren": "world/manetheren.md",
     "WoT — Stedding": "world/stedding.md",
+    "EotW Ch. 3 — The Peddler": "chapters/b01-eye-of-the-world/ch03-the-peddler.md",
+    "WoT Character — Padan Fain": "characters/padan-fain.md",
+    "WoT Character — Rand": "characters/rand.md",
+    "WoT Character — Mat": "characters/mat.md",
+    "WoT Character — Nynaeve": "characters/nynaeve.md",
+    "WoT Character — Egwene": "characters/egwene.md",
+    "WoT Character — Moiraine": "characters/moiraine.md",
+    "WoT Character — Lan": "characters/lan.md",
 }
 
 # Some exports lose the title of their "Up" link and print "Up: Doc".

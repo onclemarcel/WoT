@@ -6,9 +6,9 @@ This is the hub: one spine (the Last Battle) and the threads braided around it. 
 
 World: [WoT — World Index](world/index.md), the shared places, peoples and history. Character cards and world cards link to each other.
 
-Chapter cards: [EotW Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md)
+Chapter cards: [EotW Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](chapters/b01-eye-of-the-world/ch03-the-peddler.md)
 
-Character cards: [WoT Character — Faile](characters/faile.md) · Arc cards: [WoT Arc — The Road with Elyas](arcs/b01-road-with-elyas.md)
+Character cards: [WoT Character — Rand](characters/rand.md) · [WoT Character — Mat](characters/mat.md) · [WoT Character — Perrin](characters/perrin.md) · [WoT Character — Egwene](characters/egwene.md) · [WoT Character — Nynaeve](characters/nynaeve.md) · [WoT Character — Moiraine](characters/moiraine.md) · [WoT Character — Lan](characters/lan.md) · [WoT Character — Faile](characters/faile.md) · [WoT Character — Padan Fain](characters/padan-fain.md) · Arc cards: [WoT Arc — The Road with Elyas](arcs/b01-road-with-elyas.md)
 
 ## Threads
 

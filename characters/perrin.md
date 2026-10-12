@@ -4,9 +4,9 @@ Oct 11, 2026 · @OncleMarcel
 
 Up: [Wheel of Time — Story Map](../story-map.md)
 
-Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) (Perrin is only named here, as one of Rand's two closest friends)
+Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) (only named, as one of Rand's two closest friends) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) (his first scene: he too saw the rider and got a coin)
 
-Characters: [WoT Character — Faile](faile.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
+Characters: [WoT Character — Faile](faile.md) · [WoT Character — Rand](rand.md) · [WoT Character — Mat](mat.md) · [WoT Character — Egwene](egwene.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
 
 Perrin's arc is about his fear of himself. He starts out believing his strength and his wolf side will turn him into a beast, so he holds both back and avoids leading. He ends by mastering both: he chooses the hammer over the axe and accepts being a lord.
 

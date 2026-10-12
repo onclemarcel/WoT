@@ -40,7 +40,7 @@ The Shadow's approach to Rand moves from brute hunting to inner corruption, whil
 | 10–12 | Semirhage takes his hand, then collars him with a male a'dam; Moridin pushes him toward despair | Taken, then turned | Control and despair: his darkest point, on Dragonmount, comes from inside him |
 | 13–14 | Graendal strikes at his friends; Demandred wants to face him in battle; the Dark One shows him visions at Shayol Ghul | Turned (the Dark One); dead (Demandred) | The last fight is a contest of visions and choices |
 
-Padan Fain is a third force: he hunts Rand out of his own hatred, beyond the Shadow's control.
+Padan Fain is a third force: he hunts Rand out of his own hatred, beyond the Shadow's control. See [WoT Character — Padan Fain](../characters/padan-fain.md).
 
 ## Craft lessons
 
