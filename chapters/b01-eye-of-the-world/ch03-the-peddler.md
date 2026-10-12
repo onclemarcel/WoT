@@ -6,6 +6,8 @@ Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 2 �
 
 Characters: [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md)
 
+World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Illian](../../world/illian.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md)
+
 Chapter 3 opens the Two Rivers to the world. The peddler brings war, a false Dragon who can channel, and Aes Sedai riding south, and the village turns his news into a shouting match of half-remembered legend. It is also the chapter where Perrin, Nynaeve and Egwene step on stage: the three boys learn they each saw the rider and each got a coin, and Egwene's new braid tells Rand the life he expected is already changing.
 
 ## Setting
@@ -69,6 +71,20 @@ The chapter's ironies land hardest on a second reading: almost every confident s
 | Egwene "can learn to listen to the wind" | A Wisdom's weather lore | A sign she can channel; the true Wisdoms who hear the wind are using the Power without knowing it |
 | Bili Congar named the Dark One, then lost his crops to cutworm | Village superstition | In this world naming the Dark One draws his attention: a rule, not a superstition |
 | Master Luhhan carried his biggest hammer after Perrin saw the rider | A blacksmith's caution | The first hammer in Perrin's story, long before he chooses one over his axe |
+
+## Reader's notes
+
+Your close-reading notes on Chapter 3, with what the later books make of each.
+
+| Note | Reading |
+| --- | --- |
+| Fain "had taken notice of them" only the year before, "acknowledging them as men" | On the surface it is Rand's worry about being treated as a child. In hindsight it is ominous: Fain is the Dark One's hound, sent to find a young man of the right age, and the year the boys become men is the year they become suspects. |
+| A false Dragon who can channel | Most false Dragons cannot channel; this one can, which is why Fain stresses it. Their rising number is a sign the true Dragon is near, a counterpart to the Dark One's stirring rather than its direct product. |
+| The One Power named; men and women channelling | The village knows the stories about men who channel (madness, death) but is unsure about women; Aes Sedai are introduced through rumour. |
+| Children of the Light | Named only in passing, as a second power people fear alongside the Aes Sedai. |
+| Egwene "of a height with Nynaeve, and with the same dark coloring" | Hair and eyes, typical of Two Rivers folk; it also pairs apprentice and teacher, and quietly sets up Rand's different looks. |
+| Rand dreams of adventure, then balks at Egwene leaving | Not a rule that only men ride out: "no one ever leaves" applies to everyone. What he fears is losing her, since a Wisdom serving another village would leave his life. |
+| Three reactions to the news | Rand wonders what the outside world is like, Perrin worries, and Mat is excited. |
 
 ## Thread setup
 

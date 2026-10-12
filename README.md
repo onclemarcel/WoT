@@ -13,7 +13,7 @@ These files are exports of linked Claude Docs. An export turns links between car
 | [characters/](characters/) | One card per character: arc, people, senses and surroundings, peoples and powers | [Rand](characters/rand.md) · [Mat](characters/mat.md) · [Perrin](characters/perrin.md) · [Egwene](characters/egwene.md) · [Nynaeve](characters/nynaeve.md) · [Moiraine](characters/moiraine.md) · [Lan](characters/lan.md) · [Faile](characters/faile.md) · [Padan Fain](characters/padan-fain.md) |
 | [arcs/](arcs/) | Arc and event cards, prefixed by book | [The Road with Elyas (Book 1)](arcs/b01-road-with-elyas.md) |
 | [chapters/](chapters/) | Chapter cards, one folder per book, files in chapter order | [Book 1, Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [Book 1, Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md) · [Book 1, Ch. 3 — The Peddler](chapters/b01-eye-of-the-world/ch03-the-peddler.md) |
-| [world/](world/) | The World Index and world cards (places, peoples, history) | [World Index](world/index.md) · [Manetheren](world/manetheren.md) · [Stedding](world/stedding.md) |
+| [world/](world/) | The World Index and world cards (places, peoples, history) | [World Index](world/index.md) · [The Two Rivers](world/two-rivers.md) · [Ghealdan](world/ghealdan.md) · [Illian](world/illian.md) · [Tar Valon and the White Tower](world/tar-valon.md) · [Manetheren](world/manetheren.md) · [Stedding](world/stedding.md) |
 | [images/](images/) | Diagrams exported from the cards | — |
 | [tools/](tools/) | `link_cards.py`, which relinks card titles after an export | — |
 
