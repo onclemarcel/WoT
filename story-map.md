@@ -6,7 +6,7 @@ This is the hub: one spine (the Last Battle) and the threads braided around it. 
 
 World: [WoT — World Index](world/index.md), the shared places, peoples and history. Character cards and world cards link to each other.
 
-Chapter cards: [EotW Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 4 — The Gleeman](chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · [EotW Ch. 5 — Winternight](chapters/b01-eye-of-the-world/ch05-winternight.md)
+Chapter cards: [EotW Ch. 1 — An Empty Road](chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 4 — The Gleeman](chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · [EotW Ch. 5 — Winternight](chapters/b01-eye-of-the-world/ch05-winternight.md) · [EotW Ch. 6 — The Westwood](chapters/b01-eye-of-the-world/ch06-the-westwood.md)
 
 Character cards: [WoT Character — Rand](characters/rand.md) · [WoT Character — Mat](characters/mat.md) · [WoT Character — Perrin](characters/perrin.md) · [WoT Character — Egwene](characters/egwene.md) · [WoT Character — Nynaeve](characters/nynaeve.md) · [WoT Character — Moiraine](characters/moiraine.md) · [WoT Character — Lan](characters/lan.md) · [WoT Character — Faile](characters/faile.md) · [WoT Character — Padan Fain](characters/padan-fain.md) · [WoT Character — Thom](characters/thom.md) · [WoT Character — Tam](characters/tam.md) · Arc cards: [WoT Arc — The Road with Elyas](arcs/b01-road-with-elyas.md)
 

@@ -44,6 +44,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 3 — The Peddler | 444d692b-1f2f-46bd-8118-59cda6d643b1 | c952e22e-bc99 | chapters/b01-eye-of-the-world/ch03-the-peddler.md |
 | EotW Ch. 4 — The Gleeman | d1d3a376-c069-4076-9311-0621e38c479b | 82f83a62-598f | chapters/b01-eye-of-the-world/ch04-the-gleeman.md |
 | EotW Ch. 5 — Winternight | 9004528d-7269-4c32-924c-9d40d183e819 | bd5f4698-95f7 | chapters/b01-eye-of-the-world/ch05-winternight.md |
+| EotW Ch. 6 — The Westwood | 879f8a0d-3334-42d6-9064-b032ddc569f9 | 0fb53c69-5871 | chapters/b01-eye-of-the-world/ch06-the-westwood.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -93,5 +94,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–5 have cards. Next: Chapter 6 (The Westwood).
+- Book 1, Chapters 1–6 have cards. Next: Chapter 7 (Out of the Woods).
 - Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Aes Sedai, Aiel; an arc card for Winternight; the Tales card grows with each chapter.

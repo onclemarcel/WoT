@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 4 — The Gleeman](ch04-the-gleeman.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 4 — The Gleeman](ch04-the-gleeman.md) · Next: [EotW Ch. 6 — The Westwood](ch06-the-westwood.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Perrin](../../characters/perrin.md)
 
