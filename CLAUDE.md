@@ -29,6 +29,16 @@ links line, lead (the arc in one paragraph, "This card is a first version…"), 
 
 **Thread card** (`threads/`) and **arc card** (`arcs/bNN-slug.md`) follow the existing Shadow and Road with Elyas cards.
 
+## Satellite cards (places, people, songs, tales, history, peoples)
+
+Satellite cards are created when a term becomes prominent, not on every mention. A mentions index makes sure nothing is lost in between.
+
+- **Mentions index.** `world/mentions.md` is a repo-only file (no Docs card), one row per term: Term | Kind (place, person, song, tale, history, people, object) | Chapters | Card. After each new chapter card, add every newly named term and extend the Chapters column of terms named again, with a few words on how each appears. Passing names count: the chapter text is not stored, so a name left out of both the chapter card and the index is lost.
+- **When a term gets its own card.** Any one of: it drives a scene, not just a mention; it appears in three or more chapters; the user asks for it; the user's notes clearly call for it. Otherwise it stays an index row.
+- **Creating a card means backfilling.** Search the chapter cards and the index for the term and its variants (for Cairhien: Cairhien, Laman, Avendoraldera, Marath), and build the card's history from what they show. Fill the Card column in the index. Anything from later books is from memory and goes in Sources, as usual.
+- **Updating an existing card.** Only when a chapter adds something real, such as a new row in its table, a new turn or a new fact. A plain repeat mention goes in the index only.
+- **Batch it.** Do satellite work once per chapter, after the chapter card, in one pass, and name the touched cards in the chat summary.
+
 ## Card registry (Docs ids)
 
 Project id (the doc) / tab id (needed for `export`). Body node ids come from `read` on the project.
