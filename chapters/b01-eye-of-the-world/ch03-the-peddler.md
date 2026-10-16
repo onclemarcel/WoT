@@ -8,7 +8,7 @@ Next: [EotW Ch. 4 — The Gleeman](ch04-the-gleeman.md)
 
 Characters: [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md)
 
-World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Illian](../../world/illian.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Children of the Light](../../world/children-of-the-light.md)
+World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Illian](../../world/illian.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Children of the Light](../../world/children-of-the-light.md) · [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
 
 Chapter 3 opens the Two Rivers to the world. The peddler brings war, a false Dragon who can channel, and Aes Sedai riding south, and the village turns his news into a shouting match of half-remembered legend. It is also the chapter where Perrin, Nynaeve and Egwene step on stage: the three boys learn they each saw the rider and each got a coin, and Egwene's new braid tells Rand the life he expected is already changing.
 

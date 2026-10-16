@@ -74,6 +74,10 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT — Tales and Legends | f7c54d38-b260-494a-9ff3-ad8bd1914c04 | 28ec65a6-3eaa | world/tales-and-legends.md |
 | WoT — Manetheren | d1a3216a-5b67-439f-991f-e729a1016aae | 9b45e123-493c | world/manetheren.md |
 | WoT — Stedding | abc0b220-0444-404b-aa8f-3cefa7dac606 | 18b411fe-00c9 | world/stedding.md |
+| WoT — Aes Sedai | b2bfd1de-ec51-46ee-8c6d-32c29daada7b | b66cacd2-9a8a | world/aes-sedai.md |
+| WoT — Aiel | e5c21981-9b94-429b-b19e-fc9201e85c2f | fda28933-e10c | world/aiel.md |
+| WoT — The Aiel War | 302a1c63-0f00-44a6-9b6b-f106885e579d | a1caebb1-b6de | world/aiel-war.md |
+| WoT — Emond's Field Villagers | 38aefb21-a1c4-45db-bde0-6e2dc2edac08 | 2ee6e328-0e33 | world/emonds-field-villagers.md |
 
 Add a row here for every new card. The doc link is `https://claude.ai/code/artifact/<project id>`.
 
@@ -105,4 +109,4 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 ## State of the study
 
 - Book 1, Chapters 1–6 have cards. Next: Chapter 7 (Out of the Woods).
-- Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Aes Sedai, Aiel; an arc card for Winternight; the Tales card grows with each chapter.
+- Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

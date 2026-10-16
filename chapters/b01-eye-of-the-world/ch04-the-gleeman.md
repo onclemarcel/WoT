@@ -6,7 +6,7 @@ Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 3 �
 
 Characters: [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md)
 
-World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md)
+World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — Aiel](../../world/aiel.md) · [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
 
 Tales: [WoT — Tales and Legends](../../world/tales-and-legends.md)
 

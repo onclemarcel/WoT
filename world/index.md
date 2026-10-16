@@ -27,8 +27,8 @@ This index lists the shared entities of the world. Each card holds the entity's 
 
 | Group | What it is | Main characters touched | Card |
 | --- | --- | --- | --- |
-| Aes Sedai | Women channelers of the White Tower | Egwene, Nynaeve, Elayne, Rand | to come |
-| Aiel | Desert warrior people bound by honour codes | Rand, Perrin, Egwene | to come |
+| Aes Sedai | Women channelers of the White Tower | Egwene, Nynaeve, Elayne, Rand | [WoT — Aes Sedai](aes-sedai.md) |
+| Aiel | Desert warrior people bound by honour codes | Rand, Perrin, Egwene | [WoT — Aiel](aiel.md) |
 | Ogier | Long-lived builders bound to the stedding | Loial, Perrin | to come |
 | Tinkers | Wandering pacifists of the Way of the Leaf | Perrin, Egwene | to come |
 | Children of the Light (Whitecloaks) | Zealous military order hunting the Shadow | Perrin, Galad, Morgase | [WoT — Children of the Light](children-of-the-light.md) |
@@ -36,6 +36,7 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | Wolves | A people with memory, linked to wolfbrothers | Perrin, Elyas | to come |
 | Asha'man | Rand's order of male channelers | Rand, Perrin, Logain | to come |
 | The Forsaken | The Dark One's chief servants | All | to come |
+| Emond's Field villagers | The village chorus: Bran, Cenn, Haral and the rest | Rand, Perrin, Nynaeve | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 
 ## History
 
@@ -45,3 +46,4 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | Manetheren and the Trolloc Wars | The fallen kingdom behind the Two Rivers | Perrin, Mat, Rand, Egwene | [WoT — Manetheren](manetheren.md) |
 | Artur Hawkwing | The unifier whose heirs became the Seanchan | Mat, Rand | to come |
 | Tales and legends | The stories people tell, and how much of each is true | Thom, Egwene, all | [WoT — Tales and Legends](tales-and-legends.md) |
+| The Aiel War | The Aiel invasion over Laman's crime, about twenty years before the story; Rand's birth | Rand, Tam, Lan, Moiraine | [WoT — The Aiel War](aiel-war.md) |

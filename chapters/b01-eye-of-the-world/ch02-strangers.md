@@ -8,6 +8,8 @@ Next: [EotW Ch. 3 — The Peddler](ch03-the-peddler.md)
 
 Characters: [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md)
 
+World: [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
+
 Chapter 2 answers Chapter 1's single stranger with three more: a raven that won't be driven off, a lady and her swordsman, and a peddler at the end. Rand counts them as an "awful coincidence"; Mat only sees the best Bel Tine ever. Every newcomer is a sign the reader can't decode yet, and the chapter ends on cheer with a threat hidden inside it.
 
 ## Setting

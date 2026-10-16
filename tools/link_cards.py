@@ -46,6 +46,10 @@ TITLES = {
     "WoT — Tar Valon and the White Tower": "world/tar-valon.md",
     "WoT — Children of the Light": "world/children-of-the-light.md",
     "WoT — Tales and Legends": "world/tales-and-legends.md",
+    "WoT — Aes Sedai": "world/aes-sedai.md",
+    "WoT — Aiel": "world/aiel.md",
+    "WoT — The Aiel War": "world/aiel-war.md",
+    "WoT — Emond's Field Villagers": "world/emonds-field-villagers.md",
 }
 
 # Some exports lose the title of their "Up" link and print "Up: Doc".

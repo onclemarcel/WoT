@@ -6,7 +6,7 @@ Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 5 �
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Mat](../../characters/mat.md)
 
-World: [WoT — The Two Rivers](../../world/two-rivers.md)
+World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Aiel](../../world/aiel.md) · [WoT — The Aiel War](../../world/aiel-war.md) · [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
 
 Tales: [WoT — Tales and Legends](../../world/tales-and-legends.md)
 

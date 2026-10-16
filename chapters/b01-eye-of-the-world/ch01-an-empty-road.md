@@ -8,6 +8,8 @@ Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md) (why the Sha
 
 Next: [EotW Ch. 2 — Strangers](ch02-strangers.md)
 
+World cards: [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
+
 Chapter 1 of *The Eye of the World* plants the whole series in miniature: a winter that won't end, a rider whose cloak the wind doesn't touch, and two farm boys, Rand and Mat, who each saw him and were not believed. It follows the prologue "Dragonmount", and the drop from Lews Therin's death to a cart of cider on a muddy road is the series' scale in two scenes. The chapter is told entirely from Rand's point of view, the day before Bel Tine.
 
 ## Setting

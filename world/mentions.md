@@ -10,31 +10,31 @@ Seeded from the cards for Chapters 1–6.
 
 | Term | Kind | Chapters | Card |
 | --- | --- | --- | --- |
-| Adan al'Caar | person | 2: target of Mat's prank | — |
-| Aes Sedai | people | 2: signs only (ageless face, serpent ring, coin); 3: named, feared as world-breakers, riding south; 4: Thom avoids them; 5: "no Aes Sedai" by the fire | [WoT — Tar Valon and the White Tower](tar-valon.md); index row |
+| Adan al'Caar | person | 2: target of Mat's prank | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
+| Aes Sedai | people | 2: signs only (ageless face, serpent ring, coin); 3: named, feared as world-breakers, riding south; 4: Thom avoids them; 5: "no Aes Sedai" by the fire | [WoT — Aes Sedai](aes-sedai.md) |
 | Age of Legends | history | 4: in Thom's one-sentence history | [WoT — Tales and Legends](tales-and-legends.md) |
 | Aginor | person | 1: one of Mat's nursery fears | — |
-| Aiel War | history | 6: unnamed; Tam's fever talk (the Dragonwall, Laman's sin, the nations standing together) | — |
-| Aiel | people | 4: "as tall as an Aielman", Bran's "black-veiled Aiel"; 6: unnamed "they" of Tam's war, Rand's joke about meeting one | Index row |
-| Alsbet Luhhan | person | 2: her broom; 6: shushes Haral's singing | — |
+| Aiel War | history | 6: unnamed; Tam's fever talk (the Dragonwall, Laman's sin, the nations standing together) | [WoT — The Aiel War](aiel-war.md) |
+| Aiel | people | 4: "as tall as an Aielman", Bran's "black-veiled Aiel"; 6: unnamed "they" of Tam's war, Rand's joke about meeting one | [WoT — Aiel](aiel.md) |
+| Alsbet Luhhan | person | 2: her broom; 6: shushes Haral's singing | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Andor | place | 4: Thom's court, from memory only | — |
 | Artur Hawkwing | person | 4: in Thom's tales | [WoT — Tales and Legends](tales-and-legends.md) |
 | Avendesora (Tree of Life) | object | 6: Tam's sapling given to Cairhien; Avendoraldera cut down; Rand recalls the Green Man's tree | — |
 | Baerlon | place | 1: merchants come from it; 4: first place named beyond the Two Rivers | Index row |
-| Ban Crawe | person | 4: one of the young men who saw the rider | — |
+| Ban Crawe | person | 4: one of the young men who saw the rider | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Bel Tine | custom | 1: tomorrow's festival; 2: "the best Bel Tine ever"; 5: Rand would not miss it | [WoT — The Two Rivers](two-rivers.md) |
 | Bela | object | 1: the mare pulling the cart; 5: stabled, then gone from the barn | — |
-| Bili Congar | person | 3: goaded by Mat into naming the Dark One; lost his crops | — |
+| Bili Congar | person | 3: goaded by Mat into naming the Dark One; lost his crops | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | The black rider (Myrddraal) | creature | 1: watches Rand and Mat; 2: still unexplained; 3: seen by all three boys; 4: only young men see him; 5: Narg's master, "Myrddraal want talk you"; 6: leads twenty Trollocs past Rand, cloak still in the wind | [WoT Thread — The Shadow](../threads/shadow.md) |
 | The Blight and the Borderlands | place | 3: in Fain's news | Index row |
-| Bran al'Vere | person | 1: Mayor, brought the gleeman; 2: on the Council; 4: loses his temper at Cenn | — |
+| Bran al'Vere | person | 1: Mayor, brought the gleeman; 2: on the Council; 4: loses his temper at Cenn | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | The Breaking (Time of Madness) | history | 1: the Sand Hills were once a shore; 3: "Aes Sedai broke the world"; 4: in Thom's history | [WoT — Tales and Legends](tales-and-legends.md) |
 | Caemlyn | place | 4: named beyond the Two Rivers | Index row |
 | Cairhien | place | 6: its towers burning in Tam's fever; King Laman and Avendoraldera | — |
-| Cenn Buie | person | 1: thatcher, prophet of doom; 3: forces the false Dragon question; 4: Bran's target; 6: Rand pictures him dancing | — |
+| Cenn Buie | person | 1: thatcher, prophet of doom; 3: forces the false Dragon question; 4: Bran's target; 6: Rand pictures him dancing | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Children of the Light | people | 3: named in passing | [WoT — Children of the Light](children-of-the-light.md) |
-| The Coplins | person | 2: Dag Coplin, target of Mat's prank; 4: Ewal Coplin, whose nose Rand punched; 5: Rand's word for a fool | — |
-| Daise and Wit Congar | person | 1: comic chorus; Wit wants the Council to deal with Nynaeve | — |
+| The Coplins | person | 2: Dag Coplin, target of Mat's prank; 4: Ewal Coplin, whose nose Rand punched; 5: Rand's word for a fool | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
+| Daise and Wit Congar | person | 1: comic chorus; Wit wants the Council to deal with Nynaeve | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | The Dark One | power | 1: bound in Shayol Ghul, Mat's joke; 3: named by Bili, "as well ask the Dark One"; 5: "the Shepherd of the Night" | [WoT Thread — The Shadow](../threads/shadow.md) |
 | Dhallin Forest | place | 3: snows red with the war in Ghealdan | [WoT — Ghealdan](ghealdan.md) |
 | The Dragon will save us | tale | 3: the guard's tale, via Mat | [WoT — Tales and Legends](tales-and-legends.md) |
@@ -43,33 +43,33 @@ Seeded from the cards for Chapters 1–6.
 | The Dragonwall | place | 6: the Aiel "came over the Dragonwall like a flood" | — |
 | Egwene al'Vere | person | 1: named; 2: in a comparison; 3: on stage, her braid; 4: asks for Lenn and Salya | [WoT Character — Egwene](../characters/egwene.md) |
 | Emond's Field | place | 1–5: the village; 6: imagined, lit for Winternight | [WoT — The Two Rivers](two-rivers.md) |
-| Ewin Finngar | person | 2: brings the news of the strangers; 3: asks about channelling | — |
+| Ewin Finngar | person | 2: brings the news of the strangers; 3: asks about channelling | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | The false Dragon in Ghealdan | person | 3: can channel; 4: Mat wants to see him; 5: "no false Dragon here" | [WoT — Ghealdan](ghealdan.md) |
 | The flame and the void | power | 1: Tam's archery trick, Rand cannot hold it | [WoT Character — Rand](../characters/rand.md) |
 | The Forest of Shadows, the Mire, the White River | place | 4: the Two Rivers' borders | [WoT — The Two Rivers](two-rivers.md) |
 | The Forsaken | people | 1: bound in Shayol Ghul, in Rand's catechism | Index row |
 | Ghealdan | place | 3: war, the false Dragon | [WoT — Ghealdan](ghealdan.md) |
 | The Green Man | person | 4: in Thom's tales; 6: Rand muses he may be real | [WoT — Tales and Legends](tales-and-legends.md) |
-| Haral Luhhan | person | 2: blacksmith on the Council; 3: the voice of precision, his hammer; 5: the measure for Narg's size; 6: sings "The Wind in the Barley" | — |
+| Haral Luhhan | person | 2: blacksmith on the Council; 3: the voice of precision, his hammer; 5: the measure for Narg's size; 6: sings "The Wind in the Barley" | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | "Heron on the Wing" | song | 6: played in Rand's picture of Winternight | — |
 | The heron-mark sword | object | 5: from Tam's chest, cuts ash and stays sharp; 6: Rand wears it | [WoT Character — Tam](../characters/tam.md) |
 | Illian | place | 3: in Fain's news | [WoT — Illian](illian.md) |
 | Ishamael | person | 1: one of Mat's nursery fears | — |
 | "Jaem's Folly" | song | 6: played in Rand's picture of Winternight | — |
 | Jain Farstrider | person | 4: "How Susa Tamed Jain Farstrider"; 5: *The Travels of Jain Farstrider* on Tam's table | [WoT — Tales and Legends](tales-and-legends.md) |
-| Jon Thane | person | 2: miller on the Council | — |
+| Jon Thane | person | 2: miller on the Council | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Kari al'Thor | person | 1: Rand's outlander mother, her grave; 5: disliked the sword; 6: Tam talks to her in fever, she named Rand | [WoT Character — Tam](../characters/tam.md) |
 | Laman | person | 6: Tam blames "Laman's sin" and "Laman's pride" | — |
 | Lan | person | 2: arrives, Warder's cloak; 4: seen on a second look; 5: Tam's sword looks like his | [WoT Character — Lan](../characters/lan.md) |
-| Lem Thane | person | 4: one of the young men who saw the rider | — |
+| Lem Thane | person | 4: one of the young men who saw the rider | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Lews Therin | person | 1: the prologue | [WoT Character — Rand](../characters/rand.md) |
 | Lugard | place | 4: named beyond the Two Rivers | — |
-| Maidens of the Spear | people | 6: unnamed, "their women fight alongside the men"; Rand's birth mother | — |
+| Maidens of the Spear | people | 6: unnamed, "their women fight alongside the men"; Rand's birth mother | [WoT — Aiel](aiel.md) |
 | Manetheren | place | 1: the old foundation by the inn; 2: Moiraine's "places wear many names"; 3 and 4: the foundation as seat and stage | [WoT — Manetheren](manetheren.md) |
 | Marath | place | 6: the field "carpeted with the dead" in Tam's fever | — |
 | Mat Cauthon | person | 1–4: on stage; 6: Rand pictures his Winternight pranks | [WoT Character — Mat](../characters/mat.md) |
-| Mistress al'Vere | person | 2: bread and honeycakes, never matchmakes for Tam; 6: Rand longs for her stew | — |
-| Mistress Ayellin | person | 3: her fever kept Nynaeve away | — |
+| Mistress al'Vere | person | 2: bread and honeycakes, never matchmakes for Tam; 6: Rand longs for her stew | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
+| Mistress Ayellin | person | 3: her fever kept Nynaeve away | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Moiraine | person | 2: arrives, the coins; 4: calls Thom "Master Bard" | [WoT Character — Moiraine](../characters/moiraine.md) |
 | Moiraine's silver coins | object | 2: given as a bond; 3: all three boys got one | [WoT Character — Moiraine](../characters/moiraine.md) |
 | The Mountains of Mist | place | 1: the wind's source, the boys' trip; 2: the raven flies toward them; 5: Tam sends the Trollocs "toward the mountains"; 6: the rider gallops toward them | [WoT — The Two Rivers](two-rivers.md) |
@@ -77,15 +77,15 @@ Seeded from the cards for Chapters 1–6.
 | Nynaeve al'Meara | person | 1 and 2: named; 3: on stage; 4: quarrels with the Council; 5: Rand must reach her | [WoT Character — Nynaeve](../characters/nynaeve.md) |
 | Ogier | people | 4: "almost the size of an Ogier"; 6: Rand's joke about meeting one | Index row |
 | The One Power and saidin | power | 3: a false Dragon can channel, "men who channel go mad"; 5: the sword hints at Power-made steel | — |
-| Oren Dautry | person | 5: the nearest neighbour, a shameless borrower | — |
+| Oren Dautry | person | 5: the nearest neighbour, a shameless borrower | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Padan Fain | person | 2: the peddler arrives; 3: on stage, the news; 4: "more raven in him than man" | [WoT Character — Padan Fain](../characters/padan-fain.md) |
 | Perrin Aybara | person | 1: named; 3: on stage; 4: "the size of an Ogier"; 5: Rand's quarterstaff partner | [WoT Character — Perrin](../characters/perrin.md) |
 | The Quarry Road | place | 1: Rand sees the rider on it; 4: the walk home; 6: the rider and his column pass on it | [WoT — The Two Rivers](two-rivers.md) |
 | Rand al'Thor | person | 1–6: point of view | [WoT Character — Rand](../characters/rand.md) |
 | Rand's bow | object | 4: few men can draw it; 5: found broken in two | [WoT Character — Rand](../characters/rand.md) |
 | Ravens | creature | 1: where songbirds used to be; 2: the raven on the roof; 4: Fain called a raven | [WoT Thread — The Shadow](../threads/shadow.md) |
-| Rowan Hurn | person | 2: on the Council | — |
-| Samel Crawe | person | 2: on the Council | — |
+| Rowan Hurn | person | 2: on the Council | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
+| Samel Crawe | person | 2: on the Council | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | The Sand Hills | place | 1: once an ocean shore | — |
 | Scratch | person | 2: the inn's cat | — |
 | The Sea of Storms | place | 3: the far edge of Fain's news | — |
