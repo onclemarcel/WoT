@@ -39,6 +39,17 @@ Satellite cards are created when a term becomes prominent, not on every mention.
 - **Updating an existing card.** Only when a chapter adds something real, such as a new row in its table, a new turn or a new fact. A plain repeat mention goes in the index only.
 - **Batch it.** Do satellite work once per chapter, after the chapter card, in one pass, and name the touched cards in the chat summary.
 
+## Claims register
+
+Details stated from memory are tracked in one place, so they can be confirmed or corrected as the text reaches them, without rereading every card's Sources section.
+
+- **The register.** `claims.md` is a repo-only file (no Docs card), one row per flagged claim: # | Claim | Cards | Testable from | Status. "Testable from" is the book (and, in Book 1, the rough chapter) where the text should settle it. Status is open, confirmed (Ch. N), corrected (Ch. N), reading (never settled by the text) or checked (source), for a claim far ahead confirmed outside the text.
+- **At each new chapter**, after the chapter card: check only the open claims whose "Testable from" has been reached, or that the new text touches. Mark each confirmed or corrected, with a few words of paraphrase.
+- **A correction** fixes the wrong statement in every card the row lists, and updates those cards' Sources lines. It goes in the same once-per-chapter pass as the satellite work. A plain confirmation changes only the register; the card's Sources line is updated the next time that card is touched anyway.
+- **New claims.** Every "worth confirming" detail a new or updated card adds gets a row, with its estimated "Testable from".
+- **Far-ahead claims** stay open by default. When the user asks, or when a card leans on one heavily (book numbers in a series table), it can be checked against a fan wiki and marked "checked, source".
+- **Report** what was confirmed or corrected in the chat summary.
+
 ## Card registry (Docs ids)
 
 Project id (the doc) / tab id (needed for `export`). Body node ids come from `read` on the project.

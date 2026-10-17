@@ -2,7 +2,7 @@
 
 Cards for studying how *The Wheel of Time* is built: its threads, characters, world and chapters, with craft lessons for writing. Start with the [Story Map](story-map.md), the hub that links to everything else.
 
-These files are exports of linked Claude Docs. [CLAUDE.md](CLAUDE.md) describes how the cards are made and updated. An export turns links between cards into plain titles, so after adding or replacing a card, run `python3 tools/link_cards.py` to turn them back into relative links. A new card needs its title and path added to the list at the top of that script.
+These files are exports of linked Claude Docs. [CLAUDE.md](CLAUDE.md) describes how the cards are made and updated. [claims.md](claims.md) tracks the details stated from memory, to be confirmed as the chapters advance. An export turns links between cards into plain titles, so after adding or replacing a card, run `python3 tools/link_cards.py` to turn them back into relative links. A new card needs its title and path added to the list at the top of that script.
 
 ## Folders
 

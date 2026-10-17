@@ -1,0 +1,95 @@
+# Claims to confirm
+
+This register tracks every detail the cards state from memory and flag as "worth confirming". At each new chapter, the claims whose "Testable from" has been reached, or that the new text touches, are checked against it. The rules are in [CLAUDE.md](CLAUDE.md), under "Claims register".
+
+Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
+
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+
+## Due soon (Book 1)
+
+| # | Claim | Cards | Testable from | Status |
+| --- | --- | --- | --- | --- |
+| C01 | Tam's fever comes from a tainted Shadowspawn blade, as Moiraine explains | Ch. 5, Ch. 6, Ch. 7 | B1, next chapters | open |
+| C02 | The Trollocs targeted the three boys' homes: the al'Thor farm, the Cauthon house, the Luhhan forge, possibly the Aybara farm | Ch. 7, Shadow | B1, next chapters | open |
+| C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7 | B1, next chapters | open |
+| C04 | Moiraine heals Tam after Winternight | Tam | B1, next chapters | open |
+| C05 | The Winternight attack reaches Emond's Field | Villagers | B1 | confirmed, Ch. 7 |
+| C06 | Aes Sedai cannot speak a lie | Ch. 2, Aes Sedai, Moiraine | B1 | open |
+| C07 | A heron-mark blade marks a blademaster | Ch. 5, Tam | B1 | open |
+| C08 | Tam's sword is a blade made with the One Power, which never dulls | Ch. 5 | B1–B2 | open |
+| C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | open |
+| C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open |
+| C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | open |
+| C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
+| C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
+| C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
+| C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3 | B1 | open |
+| C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open |
+| C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
+| C18 | A dying Aiel Maiden's warning reaches the heroes through the Tinkers | Aiel | B1 | open |
+| C19 | On the road with Elyas: the order of events, who frees Perrin and Egwene from the Whitecloak camp, which wolves die | Road with Elyas | B1 | open |
+| C20 | Thom's distrust of Aes Sedai comes from a personal loss (his nephew Owyn) | Ch. 7, Thom | B1–B2 | open |
+| C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
+| C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
+| C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ghealdan | B1–B2 | open |
+
+## Book 2 to Book 4
+
+| # | Claim | Cards | Testable from | Status |
+| --- | --- | --- | --- | --- |
+| C24 | Tam's "they" are the Aiel, and his war is the Aiel War, about twenty years before the story | Ch. 6, Aiel War | B1–B2 | open |
+| C25 | Laman cut down Avendoraldera to make a throne | Ch. 6, Aiel War | B2 | open |
+| C26 | Marath, Cairhien and the Shining Walls are battles of the Aiel War; the last, at Tar Valon, ended it | Ch. 6, Aiel War | B2 | open |
+| C27 | Lan fought in the Aiel War | Aiel War | B1–B2, *New Spring* | open |
+| C28 | The mountain where Tam found Rand is Dragonmount | Ch. 6 | B1–B2 | open |
+| C29 | Tam served abroad as a soldier, and as an officer in a foreign army (Illian) | Ch. 5, Tam | B4 | open |
+| C30 | Rand's birth mother was an Aiel Maiden of the Spear | Ch. 6, Aiel | B4 | open |
+| C31 | The Amyrlin speaks of "three ta'veren" from one village | Pattern | B2 | open |
+| C32 | There are seven Ajahs, and Aes Sedai swear Three Oaths | Aes Sedai | B1–B2 | open |
+| C33 | Book numbers on the Aiel card: Gaul in B3, Rhuidean in B4, the Shaido taking Faile | Aiel | B3–B11 | open |
+| C34 | He Who Comes With the Dawn will unite the Aiel and destroy them | Aiel | B4 | open |
+| C35 | The Tower splits in Book 4 | Aes Sedai, Tar Valon | B4 | open |
+| C36 | The Two Rivers defence in Book 4, and which villagers fight in it | Villagers | B4 | open |
+| C37 | Cairhien in Book 2, Rhuidean in Book 4, the Aiel's return to Cairhien in Book 5 | Aiel War | B2–B5 | open |
+
+## Later books
+
+| # | Claim | Cards | Testable from | Status |
+| --- | --- | --- | --- | --- |
+| C38 | Wild chance around Rand in Books 5–6 (sudden marriages, freak accidents) | Pattern | B5–B6 | open |
+| C39 | Dumai's Wells is in Book 6 | Aes Sedai, Rand, Perrin | B6 | open |
+| C40 | The Tower reunites and the Black Ajah is purged in Book 12 | Aes Sedai, Egwene | B12 | open |
+| C41 | Tam meets Rand again in Book 12 | Tam | B12 | open |
+| C42 | Jain Farstrider is real and returns as Noal | Ch. 5, Tales and Legends | B9–B13 | open |
+| C43 | Two Rivers men fight in the Last Battle | Villagers | B14 | open |
+| C44 | At Shayol Ghul, Rand refuses a world where people could not choose evil | Pattern | B14 | open |
+| C45 | The Forsaken's standing orders about Rand | Shadow | B1–B14 | open |
+| C46 | The seven spokes of the Wheel (seven Ages) | Pattern | any | open |
+
+## Book numbers on character and world cards
+
+These cards ask for their book numbers to be confirmed as a whole. Check each row's events as the books reach them.
+
+| # | Claim | Cards | Testable from | Status |
+| --- | --- | --- | --- | --- |
+| C47 | Rand's arc, especially Books 5 to 12 | Rand | B2–B14 | open |
+| C48 | Mat's arc, single events | Mat | B2–B14 | open |
+| C49 | Egwene's raising, captivity in the Tower, and death | Egwene | B6–B14 | open |
+| C50 | Nynaeve's marriage, the breaking of her block, her Healing of stilling | Nynaeve | B3–B7 | open |
+| C51 | Moiraine's rescue | Moiraine | B13 | open |
+| C52 | The passing of Lan's bond, and his marriage | Lan | B5–B7 | open |
+| C53 | Thom: Moiraine's letter, his marriage, Owyn and Dena | Thom | B2–B13 | open |
+| C54 | Padan Fain: his escape, his return to the Two Rivers, the wound he gives Rand, his end | Padan Fain | B2–B14 | open |
+| C55 | Faile: where her point-of-view chapters begin, Bain and Chiad's captivity, her journey with the Horn | Faile | B4–B14 | open |
+| C56 | Children of the Light: Niall's death, the fall of Amadicia, Perrin's trial | Children of the Light | B4–B13 | open |
+| C57 | Ghealdan: Alliandre's oath and capture | Ghealdan | B7–B11 | open |
+| C58 | Illian: Sammael's rule, Rand's conquest | Illian | B5–B7 | open |
+
+## Readings the text will not settle
+
+| # | Claim | Cards | Status |
+| --- | --- | --- | --- |
+| C59 | Lenn, Salya, Mosk and Materese echo John Glenn, Sally Ride, Moscow and Mother Teresa | Ch. 4, Tales and Legends | reading |
+| C60 | Thom's timely arrival and Narg's lone wait are ta'veren effects | Pattern | reading |
+| C61 | The blue eyes of Lan and Thom, the two men bound to Moiraine, as a pattern | Ch. 4 | reading |
