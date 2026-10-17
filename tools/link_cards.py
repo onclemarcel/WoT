@@ -20,6 +20,7 @@ TITLES = {
     "Wheel of Time — Story Map": "story-map.md",
     "WoT Character — Perrin": "characters/perrin.md",
     "WoT Thread — The Shadow": "threads/shadow.md",
+    "WoT Thread — The Pattern and Ta'veren": "threads/pattern.md",
     "WoT Character — Faile": "characters/faile.md",
     "WoT Arc — The Road with Elyas": "arcs/b01-road-with-elyas.md",
     "EotW Ch. 1 — An Empty Road": "chapters/b01-eye-of-the-world/ch01-an-empty-road.md",

@@ -97,7 +97,7 @@ Chapter 5 turns the Shadow thread from signs into an attack, and gives Rand's or
 | Rand as a fighter | His first kill, with his father's sword; his own bow broken | Seeded |
 | Tam's past | Soldier's skill, a blademaster's blade, "I've talked with men who have" seen Trollocs | Direct, but unexplained |
 | The long winter | Stunted crops, a drying cow, woodpiles to the eaves | Hint |
-| The Pattern and ta'veren | Narg waits alone "some come back": the one Trolloc that stays meets the one boy who returns | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | Narg waits alone "some come back": the one Trolloc that stays meets the one boy who returns | Hint |
 
 ## Craft lessons
 

@@ -102,7 +102,7 @@ Chapter 7 names Moiraine for what she is and turns the hunt from a hint into evi
 | Rand's origin | He holds on to Tam as his father; the fever talk is pushed away, not forgotten | Seeded |
 | Elayne and Nynaeve | Nynaeve's limits as a Wisdom, and her refusal to waste herself on what she cannot fix | Character seeded |
 | Perrin and leadership | The village rallies: "we'll just take care of ourselves. Remember, we're Two Rivers folk" | Seeded |
-| The Pattern and ta'veren | "The Wheel weaves as the Wheel wills"; "beyond my power to stop the Wheel from turning" | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | "The Wheel weaves as the Wheel wills"; "beyond my power to stop the Wheel from turning" | Hint |
 
 ## Craft lessons
 

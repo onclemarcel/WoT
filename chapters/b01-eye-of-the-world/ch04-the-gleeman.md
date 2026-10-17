@@ -113,7 +113,7 @@ Chapter 4 adds Thom, sets up the Winternight attack, and plants Rand's origin in
 | Uniting the nations | The village organises a watch; Tam explains how a council steers fear | Seeded |
 | Elayne and Nynaeve | Nynaeve against Bran: the Wisdom and the Mayor seldom agree | Character seeded |
 | Mat and the Seanchan | Hungry for battles and adventure; the least trusted witness | Character seeded |
-| The Pattern and ta'veren | Thom's Ages "that were and will be": the Wheel as cycle | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | Thom's Ages "that were and will be": the Wheel as cycle | Hint |
 
 ## Craft lessons
 

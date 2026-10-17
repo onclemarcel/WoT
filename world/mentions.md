@@ -119,7 +119,7 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 7.
 | Warders | people | 2: Ewin's guess about Lan; 4: Thom's list; 7: Bran names Lan one | [WoT Character — Lan](../characters/lan.md) |
 | Watch Hill, Deven Ride | place | 4: Two Rivers villages; 7: guests from both stay at the inn; the Watch Hill road | [WoT — The Two Rivers](two-rivers.md) |
 | The Westwood | place | 1: Rand and Tam's farm country; 5: the farm and the woods; 6: the night walk | [WoT — The Two Rivers](two-rivers.md) |
-| The Wheel of Time and the Pattern | power | 1: the opening narration, "the Wheel of Time turns"; 2: Moiraine, "the Great Pattern the Wheel weaves"; 4: Thom's Ages "that were and will be"; 7: Haral, "The Wheel weaves as the Wheel wills"; Moiraine cannot "stop the Wheel from turning" | — |
+| The Wheel of Time and the Pattern | power | 1: the opening narration, "the Wheel of Time turns"; 2: Moiraine, "the Great Pattern the Wheel weaves"; 4: Thom's Ages "that were and will be"; 7: Haral, "The Wheel weaves as the Wheel wills"; Moiraine cannot "stop the Wheel from turning" | [WoT Thread — The Pattern and Ta'veren](../threads/pattern.md) |
 | The Winespring Inn | place | 1: the old foundation; 2: the common room; 3: the door shut on the crowd; 4: the Green before it; 7: barely scorched; the Dragon's Fang on its door | [WoT — The Two Rivers](two-rivers.md) |
 | The Winespring Water | place | 7: the stream; the bonfires burn beyond it | [WoT — The Two Rivers](two-rivers.md) |
 | Winternight | custom | 1: tonight; 5: the attack; 6: Rand pictures the village lit | [WoT — The Two Rivers](two-rivers.md) |

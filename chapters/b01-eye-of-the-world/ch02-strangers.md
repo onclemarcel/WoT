@@ -87,7 +87,7 @@ The Shadow and the White Tower both arrive in the village on the same day, each 
 | Mat and the Seanchan | Mat's pranks (floured dogs, ghost hounds) and his instinct to keep the coin; luck and impulse, not caution | Character seeded |
 | Manetheren (world card) | Moiraine, "a student of history", studies what happened here long ago; Mat jokes about "a thousand years of sheep" | Seeded |
 | Perrin and leadership | Absent; only his master, the blacksmith, appears | Not yet |
-| The Pattern and ta'veren | "No one knows the Great Pattern the Wheel weaves": the series' theme stated aloud, unexplained | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | "No one knows the Great Pattern the Wheel weaves": the series' theme stated aloud, unexplained | Hint |
 
 ## Craft lessons
 

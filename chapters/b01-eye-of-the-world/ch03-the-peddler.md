@@ -103,7 +103,7 @@ After two chapters of hints, most threads now get direct seeds. Thread names fol
 | The White Tower (Egwene) | Her braid, her training as a Wisdom, her talent for the wind, her wish to see the world | Seeded |
 | Mat and the Seanchan | Thrill-seeking and reckless curiosity: he wants to see the false Dragon and goaded a man into naming the Dark One | Character seeded |
 | Rand's inner war | Torn between safety and adventure; denies the Dragon could save anyone | Seeded |
-| The Pattern and ta'veren | Three boys, three sightings, three coins | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | Three boys, three sightings, three coins | Hint |
 
 ## Craft lessons
 

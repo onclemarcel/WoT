@@ -25,7 +25,7 @@ Every thread ultimately feeds the Last Battle with allies, armies or tools. The 
 | Perrin and leadership | Can a reluctant man lead without losing himself? | Perrin, Faile | Books 1–14 | [WoT Character — Perrin](characters/perrin.md) |
 | Elayne and Nynaeve | Throne of Andor; Healing as power | Elayne, Nynaeve | Books 2–14 | to come |
 | The Shadow | Who serves the Dark One, and where? | Forsaken, Black Ajah | Books 1–14 | [WoT Thread — The Shadow](threads/shadow.md) |
-| The Pattern and ta'veren | Fate or free will? | All | Thematic, whole series | to come |
+| The Pattern and ta'veren | Fate or free will? | All | Thematic, whole series | [WoT Thread — The Pattern and Ta'veren](threads/pattern.md) |
 
 ## Macro shape
 

@@ -83,7 +83,7 @@ Chapter 6 turns Rand's origin from a hint into a question he asks himself. Threa
 | Uniting the nations | "Before the nations stood together against them": an alliance forged by an Aiel invasion | Seeded |
 | Tam's past | The Aiel War, Marath, Cairhien, the Shining Walls: Tam was there | Direct |
 | Rand's inner war | "Light, who am I?": his first doubt about his own identity | Seeded |
-| The Pattern and ta'veren | "Maybe all the stories were as real as the news" | Hint |
+| [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md) | "Maybe all the stories were as real as the news" | Hint |
 
 ## Craft lessons
 

@@ -48,6 +48,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | Wheel of Time — Story Map | 39c6027a-ad85-4a4a-8b9b-9c7af47546d2 | 8a2acc57-5afb | story-map.md |
 | WoT — World Index | 5b2343ae-b46d-4ef0-8d13-ef16ffa35c00 | 2ed67aa7-5f97 | world/index.md |
 | WoT Thread — The Shadow | 1c097efe-6a0a-437d-b7e6-35af9c2de4bb | 18b6d287-7995 | threads/shadow.md |
+| WoT Thread — The Pattern and Ta'veren | 1852367b-2b9d-47a6-942c-b49722e65d45 | 8f22a443-6360 | threads/pattern.md |
 | WoT Arc — The Road with Elyas | d4f39380-5995-4fee-89a1-fa7fd471483d | c3a79596-1be6 | arcs/b01-road-with-elyas.md |
 | EotW Ch. 1 — An Empty Road | 5dca8815-5775-4ff1-b47a-b3151f5fe2fb | 74b41172-ef2a | chapters/b01-eye-of-the-world/ch01-an-empty-road.md |
 | EotW Ch. 2 — Strangers | 65155d34-2b1e-4a0a-a896-47af022ceb2e | 168826be-c3a2 | chapters/b01-eye-of-the-world/ch02-strangers.md |
