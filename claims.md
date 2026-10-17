@@ -4,22 +4,22 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 8. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
 | # | Claim | Cards | Testable from | Status |
 | --- | --- | --- | --- | --- |
-| C01 | Tam's fever comes from a tainted Shadowspawn blade, as Moiraine explains | Ch. 5, Ch. 6, Ch. 7 | B1, next chapters | open |
-| C02 | The Trollocs targeted the three boys' homes: the al'Thor farm, the Cauthon house, the Luhhan forge, possibly the Aybara farm | Ch. 7, Shadow | B1, next chapters | open |
-| C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7 | B1, next chapters | open |
-| C04 | Moiraine heals Tam after Winternight | Tam | B1, next chapters | open |
+| C01 | Tam's fever comes from a tainted Shadowspawn blade, as Moiraine explains | Ch. 5, Ch. 6, Ch. 7 | B1, next chapters | confirmed, Ch. 8 (blades forged in Thakan'dar carry a taint; the wounds will not heal unaided) |
+| C02 | The Trollocs targeted the three boys' homes: the al'Thor farm, the Cauthon house, the Luhhan forge, possibly the Aybara farm | Ch. 7, Shadow | B1, next chapters | confirmed, Ch. 8 (Lan: the al'Thor and Aybara farms; the forge, the Luhhan house and the Cauthon house) |
+| C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7 | B1, next chapters | open (Ch. 8: Moiraine says whoever drew it might make trouble; meaning still unstated) |
+| C04 | Moiraine heals Tam after Winternight | Tam | B1, next chapters | confirmed, Ch. 8 (with an angreal, before Rand leaves; the Tam card's "after Rand leaves" was corrected) |
 | C05 | The Winternight attack reaches Emond's Field | Villagers | B1 | confirmed, Ch. 7 |
-| C06 | Aes Sedai cannot speak a lie | Ch. 2, Aes Sedai, Moiraine | B1 | open |
-| C07 | A heron-mark blade marks a blademaster | Ch. 5, Tam | B1 | open |
+| C06 | Aes Sedai cannot speak a lie | Ch. 2, Ch. 8, Aes Sedai, Moiraine | B1 | open |
+| C07 | A heron-mark blade marks a blademaster | Ch. 5, Ch. 8, Tam | B1 | confirmed, Ch. 8 (Lan: in some places the heron is the symbol of a master swordsman) |
 | C08 | Tam's sword is a blade made with the One Power, which never dulls | Ch. 5 | B1–B2 | open |
-| C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | open |
-| C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open |
+| C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | confirmed, Ch. 8 (Lan: stories make things larger than truth) |
+| C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open (Ch. 8: Fades are "the brain that tells the Trolloc fists where to strike"; the rabble half is not yet shown) |
 | C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | open |
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
@@ -33,6 +33,9 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7. Rows are 
 | C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
 | C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ghealdan | B1–B2 | open |
+| C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
+| C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
+| C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
 
 ## Book 2 to Book 4
 

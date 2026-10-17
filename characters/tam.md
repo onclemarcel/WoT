@@ -23,7 +23,7 @@ In Chapters 1 to 4 Tam is a widowed farmer of the Westwood and a member of the V
 | --- | --- | --- | --- |
 | Before 1 | Leaves the Two Rivers young; soldier in Illian's service and in the Aiel War; earns a heron-mark blade; finds a newborn on the slopes of Dragonmount and brings him home with his wife Kari | A soldier becomes a farmer and a father | He chose peace, and a child who needed him |
 | 1 | On Winternight Trollocs attack the farm; he fights with the hidden sword, is wounded, and in fever says Rand was found on a battlefield | The secret of Rand's birth slips out | A Myrddraal's blade and fever break his guard |
-| 1 | Healed after Rand leaves; gives up the sword, which Rand carries away | His past goes out into the world in his son's hand | He cannot follow, and trusts Rand with it |
+| 1 | Healed by Moiraine with an angreal, but still asleep when Rand leaves that night; the sword goes with Rand | His past goes out into the world in his son's hand | He cannot follow, and trusts Rand with it |
 | 4 | Hides in the woods with Abell Cauthon, then fights beside Perrin to defend the Two Rivers | The farmer becomes a captain again | His home is invaded and Perrin needs an experienced soldier |
 | 12 | Meets Rand at last; Rand, in his darkest state, nearly kills him | The father is almost destroyed by the son | Rand has walled away every feeling |
 | 12 | His question to Rand (why do we fight?) helps bring Rand to his revelation on Dragonmount | The father's love saves the son's soul | He reaches Rand when no one else can |
@@ -87,4 +87,4 @@ Tam's signature trait is stillness. He is the one who stays calm in a crowd of w
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 4 as you supplied them. Everything else is from memory of the books; confirm book numbers and details, especially Tam's service before the Aiel War, the healing after Winternight, and his meeting with Rand in Book 12.
+The starting point is checked against Chapters 1 to 4 as you supplied them. Chapter 8 confirms the healing: Moiraine heals him before Rand leaves, not after, as an earlier version said. Everything else is from memory of the books; confirm book numbers and details, especially Tam's service before the Aiel War and his meeting with Rand in Book 12.

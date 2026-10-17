@@ -22,7 +22,7 @@ Turning Rand is the prize, capturing him is the means, and killing him is the fa
 | Capture him | A prisoner to break or bargain with; a step toward turning | Ishamael in Book 1; Lanfear, who wants him for herself | Trollocs and Fades are poor jailers, and his ta'veren pull bends events around him |
 | Kill him | Removes him for this turning of the Wheel | Sammael, Demandred, many Darkfriends, panicking Myrddraal | A dead Dragon is spun out again: it delays the Last Battle, it doesn't win it |
 
-**Why the Winternight raid looks contradictory.** The Shadow knows the Dragon is a young man of the Two Rivers but not which one, so a raid on the right houses is a dragnet. Trollocs kill by nature, and an order to take someone alive rarely survives a fight. For the Shadow, a dead village and even a dead Dragon are acceptable losses on the way to the prize.
+**Why the Winternight raid looks contradictory.** The Shadow knows the Dragon is a young man of the Two Rivers but not which one, so a raid on the right houses is a dragnet. Trollocs kill by nature, and an order to take someone alive rarely survives a fight. For the Shadow, a dead village and even a dead Dragon are acceptable losses on the way to the prize. Chapter 8 confirms the dragnet from the text: the Trollocs struck the al'Thor and Aybara farms, the forge, the Luhhan house and the Cauthon house, and set other fires only for confusion. Moiraine says they came to "kill or capture" young men of one age, and Narg's "Myrddraal want talk you" fits the capture half.
 
 The Light searches the same way. In [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md), Moiraine asks the villagers about ages, families and how long they have lived in the Two Rivers: both sides arrive on the same day, looking for the same young man, without knowing which one he is.
 
@@ -52,4 +52,4 @@ Padan Fain is a third force: he hunts Rand out of his own hatred, beyond the Sha
 
 ## Sources
 
-Written from memory of the books, not checked against the text. The overall shape is reliable; confirm book numbers for single events, the Forsaken's standing orders about Rand, and who targets which house on Winternight.
+Written from memory of the books, not checked against the text. The overall shape is reliable; confirm book numbers for single events and the Forsaken's standing orders about Rand. The houses targeted on Winternight are now checked against Chapter 8.
