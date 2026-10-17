@@ -31,6 +31,7 @@ TITLES = {
     "EotW Ch. 4 — The Gleeman": "chapters/b01-eye-of-the-world/ch04-the-gleeman.md",
     "EotW Ch. 5 — Winternight": "chapters/b01-eye-of-the-world/ch05-winternight.md",
     "EotW Ch. 6 — The Westwood": "chapters/b01-eye-of-the-world/ch06-the-westwood.md",
+    "EotW Ch. 7 — Out of the Woods": "chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md",
     "WoT Character — Padan Fain": "characters/padan-fain.md",
     "WoT Character — Rand": "characters/rand.md",
     "WoT Character — Mat": "characters/mat.md",

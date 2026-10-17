@@ -2,7 +2,7 @@
 
 Oct 16, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 5 — Winternight](ch05-winternight.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 5 — Winternight](ch05-winternight.md) · Next: [EotW Ch. 7 — Out of the Woods](ch07-out-of-the-woods.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Mat](../../characters/mat.md)
 
