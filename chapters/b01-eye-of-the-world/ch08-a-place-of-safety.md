@@ -2,7 +2,7 @@
 
 Oct 17, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 7 — Out of the Woods](ch07-out-of-the-woods.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 7 — Out of the Woods](ch07-out-of-the-woods.md) · Next: [EotW Ch. 9 — Tellings of the Wheel](ch09-tellings-of-the-wheel.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md)
 

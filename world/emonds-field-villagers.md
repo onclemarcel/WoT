@@ -17,8 +17,8 @@ Every villager the first seven chapters name, with the one trait the text fixes 
 
 | Villager | Role | Fixed trait | Chapters |
 | --- | --- | --- | --- |
-| Bran al'Vere | Mayor, innkeeper of the Winespring Inn | Shrewd and good-humoured until pushed: "Stop acting like a black-veiled Aiel!" | 1, 2, 4, 7 |
-| Mistress al'Vere | Bran's wife, the best cook in the village | Feeds every young man in reach; never matchmakes for Tam | 2, 6 |
+| Bran al'Vere | Mayor, innkeeper of the Winespring Inn | Shrewd and good-humoured until pushed: "Stop acting like a black-veiled Aiel!"; with Haral, faces down the mob threatening his guests (Ch. 9) | 1, 2, 4, 7 |
+| Mistress al'Vere | Bran's wife, the best cook in the village | Named Marin in Ch. 9; feeds every young man in reach; never matchmakes for Tam; nurses Tam and overrides the Mayor (Ch. 8) | 2, 6 |
 | Cenn Buie | Thatcher, Council member | A prophet of doom: the winter may last until the Age ends | 1, 3, 4, 6, 7 |
 | Haral Luhhan | Blacksmith, Council member, Perrin's master | The voice of precision about the Dragon; carried his biggest hammer after Perrin saw the rider; sings "The Wind in the Barley" badly; burned and axe in hand after the attack: "we're Two Rivers folk" | 2, 3, 5, 6, 7 |
 | Alsbet Luhhan | Haral's wife | Her broom, and shushing her husband; cracked a Trolloc's skull with a frying pan, then hunted for more with a hammer | 2, 6, 7 |
@@ -34,6 +34,9 @@ Every villager the first seven chapters name, with the one trait the text fixes 
 | Mistress Calder | Villager | Takes in the wounded who have lost their homes | 7 |
 | Abell Cauthon | Mat's father | His house burned to the stones on Winternight | 7 |
 | Berin Thane | The miller's brother | His house burned beside the Calders' | 7 |
+| Hari Coplin | Farmer, Darl's brother | Sour-faced ringleader: "Or we'll burn you out!", then silent before Bran and Haral | 9 |
+| Paet al'Caar | Long-jawed farmer, father of Wil | Ashamed: Moiraine healed Wil's broken leg, and he is the first to apologize and leave | 9 |
+| Eward Candwin | Villager | Healed of a gash down his back; named by Bran to shame the crowd | 9 |
 
 ## The villagers across the series
 
@@ -63,4 +66,4 @@ The chorus grows up with the heroes. Comic in Book 1, they become fighters when 
 
 ## Sources
 
-The lead and the Who's who table are from the Chapter 1–7 cards, which were checked against the text you supplied. The table by book is from memory. Details most worth confirming: that the Winternight attack reaches Emond's Field in Book 1; the defence of the Two Rivers in Book 4, and which villagers fight in it; and Two Rivers men in the Last Battle.
+The lead and the Who's who table are from the Chapter 1–9 cards, which were checked against the text you supplied. The table by book is from memory. Details most worth confirming: that the Winternight attack reaches Emond's Field in Book 1; the defence of the Two Rivers in Book 4, and which villagers fight in it; and Two Rivers men in the Last Battle.

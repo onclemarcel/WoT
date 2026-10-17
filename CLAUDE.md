@@ -69,6 +69,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 6 — The Westwood | 879f8a0d-3334-42d6-9064-b032ddc569f9 | 0fb53c69-5871 | chapters/b01-eye-of-the-world/ch06-the-westwood.md |
 | EotW Ch. 7 — Out of the Woods | 6cbdc39d-c76f-495c-ab2c-2a1ea63ef8a0 | d42eb4d4-9cc5 | chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md |
 | EotW Ch. 8 — A Place of Safety | 9dc03a7a-9fc0-49c9-bfac-8fa79acb02c8 | 07222c67-027a | chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md |
+| EotW Ch. 9 — Tellings of the Wheel | 105eb0f7-17e2-44b6-92f0-ca10db0cf154 | 7f0e2156-b216 | chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -122,5 +123,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–8 have cards. Next: Chapter 9 (Tellings of the Wheel).
+- Book 1, Chapters 1–9 have cards. Next: Chapter 10 (Leavetaking).
 - Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

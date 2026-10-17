@@ -47,6 +47,7 @@ Every tale named so far, in the order the chapters give them. The last column sa
 | The Siege of the Pillars of the Sky | Ch. 4, Thom | A war tale | Not explained in Book 1 |
 | How Goodwife Karil Cured Her Husband of Snoring | Ch. 4, Thom | A comic tale | A reminder that most tales are small and domestic |
 | King Darith and the Fall of the House of — | Ch. 4, Thom | Cut off mid-title when Moiraine appears | The interruption is the point: Thom stops the moment an Aes Sedai is listening |
+| The fall of Manetheren: Aemon, Eldrene and the Red Eagle | Ch. 9, Moiraine, to the mob in the inn yard | The Two Rivers' own lost history, told as a lament: "Weep for Manetheren" | True history in the story; the first tale told to change listeners rather than entertain them. See [WoT — Manetheren](manetheren.md) |
 
 ## How Jordan built a world of stories
 
@@ -60,4 +61,4 @@ Jordan made the world feel old by giving it more stories than the plot needs. He
 
 ## Sources
 
-The tale names and Thom's history are from Chapters 3 and 4 as you supplied them. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.
+The tale names and Thom's history are from Chapters 3 and 4 as you supplied them; the Manetheren row is from Chapter 9. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.

@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 8. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 9. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -15,12 +15,12 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7 | B1, next chapters | open (Ch. 8: Moiraine says whoever drew it might make trouble; meaning still unstated) |
 | C04 | Moiraine heals Tam after Winternight | Tam | B1, next chapters | confirmed, Ch. 8 (with an angreal, before Rand leaves; the Tam card's "after Rand leaves" was corrected) |
 | C05 | The Winternight attack reaches Emond's Field | Villagers | B1 | confirmed, Ch. 7 |
-| C06 | Aes Sedai cannot speak a lie | Ch. 2, Ch. 8, Aes Sedai, Moiraine | B1 | open |
+| C06 | Aes Sedai cannot speak a lie | Ch. 2, Ch. 8, Aes Sedai, Moiraine | B1 | confirmed, Ch. 9 (Tam: "They don't lie, not right out"; the Oath itself is not yet named) |
 | C07 | A heron-mark blade marks a blademaster | Ch. 5, Ch. 8, Tam | B1 | confirmed, Ch. 8 (Lan: in some places the heron is the symbol of a master swordsman) |
 | C08 | Tam's sword is a blade made with the One Power, which never dulls | Ch. 5 | B1–B2 | open |
 | C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | confirmed, Ch. 8 (Lan: stories make things larger than truth) |
 | C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open (Ch. 8: Fades are "the brain that tells the Trolloc fists where to strike"; the rabble half is not yet shown) |
-| C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | open |
+| C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | confirmed for Rand, Ch. 9 ("Serve me" in his dream; Mat and Perrin not yet shown) |
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
 | C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
@@ -36,6 +36,11 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
 | C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
+| C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | open |
+| C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
+| C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
+| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9 | B1 | open |
+| C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
 
 ## Book 2 to Book 4
 

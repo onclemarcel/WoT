@@ -13,6 +13,24 @@ Manetheren is the dead kingdom under the Two Rivers. Its memory turns farm boys 
 - **The fall.** When Aemon died, Queen Eldrene drew so much of the Power in grief that she destroyed herself, the city and the enemy.
 - **Forgetting.** Over the centuries the villagers forgot what they descend from, and the Two Rivers became a quiet backwater nominally under Andor.
 
+## Moiraine's telling (Ch. 9)
+
+Chapter 9 gives the whole story in Moiraine's words, told to a mob in the inn yard. These are the facts the text itself now supplies.
+
+| Element | What the tale says |
+| --- | --- |
+| Names | The White River is Manetherendrelle, "Waters of the Mountain Home"; the Tarendrelle is a second river the army held; the city stood in the Mountains of Mist |
+| When | Two thousand years ago, in the Trolloc Wars, which lasted nearly two centuries |
+| The kingdom | A mountain city Ogier stonemasons came to admire; farms across the Two Rivers and the Forest of Shadows |
+| The rulers | King Aemon al Caar al Thorin, whose courage became a byword ("Aemon's heart"); Queen Eldrene ay Ellan ay Carlan |
+| The banner | The Red Eagle, always at the front: "the sword that could not be broken" |
+| The march | From victory on the Field of Bekkar, the Field of Blood, home faster than anyone thought possible |
+| The stand | Ten days at the Tarendrelle waiting for promised aid that never came; then a retreat to the place now called Emond's Field, joined by farmers, shepherds and women; no one survived |
+| Eldrene | Felt Aemon die, drew more of the One Power than anyone could unaided, burned the Dreadlords and generals, and died with the empty city, burned down to the rock |
+| The aftermath | The horde fled and was hunted down; the survivors stayed on their land and forgot why. Emond's Field was once "Aemon's Field" |
+
+**Why it is told here.** Moiraine uses it to turn a crowd threatening to burn her out. It is the first time the villagers hear that their stubbornness has a history.
+
 ## Echoes
 
 - **Moiraine's story.** In Book 1 she tells the villagers who their ancestors were. It is the first time the Two Rivers is pushed to see itself as more than farms.
@@ -30,3 +48,7 @@ Manetheren is the dead kingdom under the Two Rivers. Its memory turns farm boys 
 | Egwene and Nynaeve | Two Rivers stubbornness drives both of them | to come |
 | Elayne | The Two Rivers' new pride challenges her claim as Andor's queen | to come |
 | Uniting the nations | A precedent: a small people standing against the Shadow | [Wheel of Time — Story Map](../story-map.md) |
+
+## Sources
+
+The Chapter 9 section is checked against the text you supplied; quotes are kept short. The History bullets, Echoes and Influence are from memory of the books. Details most worth confirming: that Manetheren was one of the Ten Nations; that Eldrene was Aes Sedai and Aemon her Warder; the red eagle banner raised again in Book 4; and Mat's borrowed memories of its battles.
