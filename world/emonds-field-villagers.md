@@ -6,14 +6,14 @@ Up: [WoT — World Index](index.md) · Home: [WoT — The Two Rivers](two-rivers
 
 The villagers of Emond's Field are the story's chorus: the ordinary people the heroes come from and must protect. In the first chapters they are mostly comic, quarrelling over omens and pranks, but each is drawn with one fixed trait, so the reader knows them by the time the danger arrives.
 
-- **Three who matter most.** Bran al'Vere, the Mayor (Ch. 1, 2, 4); Cenn Buie, the doom-saying thatcher (Ch. 1, 3, 4, 6); Haral Luhhan, the blacksmith (Ch. 2, 3, 5, 6).
+- **Three who matter most.** Bran al'Vere, the Mayor (Ch. 1, 2, 4, 7); Cenn Buie, the doom-saying thatcher (Ch. 1, 3, 4, 6, 7); Haral Luhhan, the blacksmith (Ch. 2, 3, 5, 6, 7).
 - **How they govern.** The Village Council of men, led by the Mayor, and the Women's Circle, led by the Wisdom; see the Two Rivers card.
 - **How they meet the outside.** With half-remembered stories, closed doors and stubbornness: they argue over Fain's news and close the inn to the crowd (Ch. 3).
 - **Why the author needs them.** A chorus makes the village real, so that when it is threatened, the reader feels what could be lost.
 
 ## Who's who
 
-Every villager the first six chapters name, with the one trait the text fixes on. The main cast have their own cards.
+Every villager the first seven chapters name, with the one trait the text fixes on. The main cast have their own cards.
 
 | Villager | Role | Fixed trait | Chapters |
 | --- | --- | --- | --- |
@@ -63,4 +63,4 @@ The chorus grows up with the heroes. Comic in Book 1, they become fighters when 
 
 ## Sources
 
-The lead and the Who's who table are from the Chapter 1–6 cards, which were checked against the text you supplied. The table by book is from memory. Details most worth confirming: that the Winternight attack reaches Emond's Field in Book 1; the defence of the Two Rivers in Book 4, and which villagers fight in it; and Two Rivers men in the Last Battle.
+The lead and the Who's who table are from the Chapter 1–7 cards, which were checked against the text you supplied. The table by book is from memory. Details most worth confirming: that the Winternight attack reaches Emond's Field in Book 1; the defence of the Two Rivers in Book 4, and which villagers fight in it; and Two Rivers men in the Last Battle.

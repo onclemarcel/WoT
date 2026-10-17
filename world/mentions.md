@@ -56,7 +56,7 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 7.
 | The false Dragon in Ghealdan | person | 3: can channel; 4: Mat wants to see him; 5: "no false Dragon here" | [WoT — Ghealdan](ghealdan.md) |
 | The flame and the void | power | 1: Tam's archery trick, Rand cannot hold it | [WoT Character — Rand](../characters/rand.md) |
 | The Forest of Shadows, the Mire, the White River | place | 4: the Two Rivers' borders | [WoT — The Two Rivers](two-rivers.md) |
-| The Forsaken | people | 1: bound in Shayol Ghul, in Rand's catechism | Index row |
+| The Forsaken | people | 1: bound in Shayol Ghul, in Rand's catechism; 7: Lan's "unless they serve the Dark One" hints at their bargain | Index row |
 | Ghealdan | place | 3: war, the false Dragon | [WoT — Ghealdan](ghealdan.md) |
 | The Green Man | person | 4: in Thom's tales; 6: Rand muses he may be real | [WoT — Tales and Legends](tales-and-legends.md) |
 | Haral Luhhan | person | 2: blacksmith on the Council; 3: the voice of precision, his hammer; 5: the measure for Narg's size; 6: sings "The Wind in the Barley"; 7: burned, axe in hand; "we're Two Rivers folk" | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
@@ -119,6 +119,7 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 7.
 | Warders | people | 2: Ewin's guess about Lan; 4: Thom's list; 7: Bran names Lan one | [WoT Character — Lan](../characters/lan.md) |
 | Watch Hill, Deven Ride | place | 4: Two Rivers villages; 7: guests from both stay at the inn; the Watch Hill road | [WoT — The Two Rivers](two-rivers.md) |
 | The Westwood | place | 1: Rand and Tam's farm country; 5: the farm and the woods; 6: the night walk | [WoT — The Two Rivers](two-rivers.md) |
+| The Wheel of Time and the Pattern | power | 1: the opening narration, "the Wheel of Time turns"; 2: Moiraine, "the Great Pattern the Wheel weaves"; 4: Thom's Ages "that were and will be"; 7: Haral, "The Wheel weaves as the Wheel wills"; Moiraine cannot "stop the Wheel from turning" | — |
 | The Winespring Inn | place | 1: the old foundation; 2: the common room; 3: the door shut on the crowd; 4: the Green before it; 7: barely scorched; the Dragon's Fang on its door | [WoT — The Two Rivers](two-rivers.md) |
 | The Winespring Water | place | 7: the stream; the bonfires burn beyond it | [WoT — The Two Rivers](two-rivers.md) |
 | Winternight | custom | 1: tonight; 5: the attack; 6: Rand pictures the village lit | [WoT — The Two Rivers](two-rivers.md) |

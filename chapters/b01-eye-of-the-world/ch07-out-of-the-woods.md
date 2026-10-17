@@ -78,6 +78,18 @@ The village reads the night as a random disaster. Nearly every detail says it wa
 | Nynaeve can do nothing for a small cut | The fever is too far gone | A Shadowspawn blade's wound; Nynaeve has more in her than herbs, but not enough yet |
 | Haral knows they are Trollocs at once | Common sense | The stories have just become knowledge for everyone, not only for Tam |
 
+## Reader's notes
+
+Your close-reading notes on Chapter 7, with what the later books make of each. Aes Sedai are followed in [WoT — Aes Sedai](../../world/aes-sedai.md), and Thom in [WoT Character — Thom](../../characters/thom.md).
+
+| Note | Reading |
+| --- | --- |
+| The style: short sentences, mostly actions, each one an image (Rand stumbling, Bran shouldering Thom off the litter) | Exhaustion sets the rhythm. Rand sees in fragments, so the prose does too; the one long description, the burned village, is a single paragraph before the chapter cuts back to motion. Long phrases here would let the reader rest when Rand cannot. |
+| "The Wheel weaves as the Wheel wills" comes from Haral Luhhan, not Moiraine; he also knows the creatures are Trollocs | The saying is a village proverb, so the series' cosmology lives in ordinary speech, not only in Aes Sedai lore. The Wheel first turns in the narration that opens Chapter 1, first in dialogue with Moiraine in Chapter 2, and now in a blacksmith's mouth. Haral's quick recognition shows the stories were half-believed all along: Rand discovers alone what the adults already suspected. The text gives only Rand's guess for how Haral knew. |
+| Moiraine's lines, and Lan's, carry double meanings: "unless they serve the Dark One" | A hint at the Forsaken and the Darkfriends. The Dark One promises his chief servants escape from death; Lan calls that a fool's bargain. Mat named Ishamael and Aginor in Chapter 1; the reader will meet both. |
+| Moiraine has to pull herself up with her staff; she is worn out | The first sign that the Power has a cost. Lan's "sack of stones on her back" says channeling drains the body, even with an angreal, and the night before she fought seven Trolloc bands. The weariness also makes her offer to Tam mean more: she will spend strength she does not have. |
+| Thom: present, wary of Aes Sedai for the second time, an outsider whose knowledge the reader trusts; he mentions that Fain is gone | Thom keeps the question of Aes Sedai open. He pushes the Mayor toward the one solution, then lets Bran be the one to say it, and warns that their reasons are their own: true, but incomplete. Later books ground his distrust in a personal loss. On Fain, his Chapter 7 line sounds like pity, "the worst of all", after Chapter 4's scorn; the text never says he suspects the peddler, and the reader who does is a step ahead of him. |
+
 ## Thread setup
 
 Chapter 7 names Moiraine for what she is and turns the hunt from a hint into evidence. Thread names follow the Story Map.
@@ -104,4 +116,4 @@ Chapter 7 names Moiraine for what she is and turns the hunt from a hint into evi
 
 ## Sources
 
-Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column comes from later books, from memory. Details most worth confirming: that the Trollocs targeted the three boys' homes (the al'Thor farm, the Cauthon house and the Luhhan forge, where Perrin works and possibly the Aybara farm too); that the Dark One reaches the boys through dreams; the meaning of the Dragon's Fang; and that Fain left with the Shadow.
+Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column comes from later books, from memory. Details most worth confirming: that the Trollocs targeted the three boys' homes (the al'Thor farm, the Cauthon house and the Luhhan forge, where Perrin works and possibly the Aybara farm too); that the Dark One reaches the boys through dreams; the meaning of the Dragon's Fang; and that Fain left with the Shadow. The Reader's notes add, from memory: that the Dark One promises his chief servants escape from death; and that Thom's distrust of Aes Sedai comes from a personal loss.
