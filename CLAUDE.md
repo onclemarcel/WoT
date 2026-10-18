@@ -61,6 +61,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT Thread — The Shadow | 1c097efe-6a0a-437d-b7e6-35af9c2de4bb | 18b6d287-7995 | threads/shadow.md |
 | WoT Thread — The Pattern and Ta'veren | 1852367b-2b9d-47a6-942c-b49722e65d45 | 8f22a443-6360 | threads/pattern.md |
 | WoT Arc — The Road with Elyas | d4f39380-5995-4fee-89a1-fa7fd471483d | c3a79596-1be6 | arcs/b01-road-with-elyas.md |
+| WoT Arc — Leaving Emond's Field (Ch. 1–10) | 55242753-ed1b-42b7-9777-26f0c51b6827 | 7e44d358-032c | arcs/b01-leaving-emonds-field.md |
 | EotW Ch. 1 — An Empty Road | 5dca8815-5775-4ff1-b47a-b3151f5fe2fb | 74b41172-ef2a | chapters/b01-eye-of-the-world/ch01-an-empty-road.md |
 | EotW Ch. 2 — Strangers | 65155d34-2b1e-4a0a-a896-47af022ceb2e | 168826be-c3a2 | chapters/b01-eye-of-the-world/ch02-strangers.md |
 | EotW Ch. 3 — The Peddler | 444d692b-1f2f-46bd-8118-59cda6d643b1 | c952e22e-bc99 | chapters/b01-eye-of-the-world/ch03-the-peddler.md |
@@ -70,6 +71,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 7 — Out of the Woods | 6cbdc39d-c76f-495c-ab2c-2a1ea63ef8a0 | d42eb4d4-9cc5 | chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md |
 | EotW Ch. 8 — A Place of Safety | 9dc03a7a-9fc0-49c9-bfac-8fa79acb02c8 | 07222c67-027a | chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md |
 | EotW Ch. 9 — Tellings of the Wheel | 105eb0f7-17e2-44b6-92f0-ca10db0cf154 | 7f0e2156-b216 | chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md |
+| EotW Ch. 10 — Leavetaking | 39b17ef8-5a54-4f6b-8731-5fb2f80f63ff | f7394626-f716 | chapters/b01-eye-of-the-world/ch10-leavetaking.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -123,5 +125,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–9 have cards. Next: Chapter 10 (Leavetaking).
+- Book 1, Chapters 1–10 have cards, and an arc card sums them up (Leaving Emond's Field). Next: Chapter 11.
 - Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

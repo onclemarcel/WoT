@@ -2,7 +2,7 @@
 
 Oct 17, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 8 — A Place of Safety](ch08-a-place-of-safety.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 8 — A Place of Safety](ch08-a-place-of-safety.md) · Next: [EotW Ch. 10 — Leavetaking](ch10-leavetaking.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Mat](../../characters/mat.md)
 

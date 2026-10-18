@@ -35,6 +35,8 @@ TITLES = {
     "EotW Ch. 7 — Out of the Woods": "chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md",
     "EotW Ch. 8 — A Place of Safety": "chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md",
     "EotW Ch. 9 — Tellings of the Wheel": "chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md",
+    "EotW Ch. 10 — Leavetaking": "chapters/b01-eye-of-the-world/ch10-leavetaking.md",
+    "WoT Arc — Leaving Emond's Field (Ch. 1–10)": "arcs/b01-leaving-emonds-field.md",
     "WoT Character — Padan Fain": "characters/padan-fain.md",
     "WoT Character — Rand": "characters/rand.md",
     "WoT Character — Mat": "characters/mat.md",

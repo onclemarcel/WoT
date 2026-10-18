@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 9. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 10. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -24,7 +24,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
 | C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
-| C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3 | B1 | open |
+| C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | open (Ch. 10: Moiraine lets her come for "a reason", unstated) |
 | C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open |
 | C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
 | C18 | A dying Aiel Maiden's warning reaches the heroes through the Tinkers | Aiel | B1 | open |
@@ -41,6 +41,11 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
 | C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9 | B1 | open |
 | C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
+| C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
+| C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open |
+| C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | open |
+| C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | open |
+| C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
 
 ## Book 2 to Book 4
 
