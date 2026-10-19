@@ -61,7 +61,7 @@ The chapter hides its biggest sign inside a sentence about a horse. The rest are
 
 | Sign | What the party sees | What it means |
 | --- | --- | --- |
-| Rand's prickling skin, freezing bones, and "And Bela ran" | Moiraine must have helped the mare | Often read as Rand's first touch of the One Power, unknowing; the text never says so here |
+| Rand's prickling skin, freezing bones, and "And Bela ran" | Moiraine must have helped the mare | Rand's first touch of the One Power, unknowing. The text never names it, but Moiraine, who does not lie, finds Bela "the least weary of all" before she has touched her |
 | "What she can do for others, she cannot do for herself" | A Warder's remark | A rule of the Power: a channeler cannot heal herself, and channeling tires the one who does it |
 | "Too tired for what?", left unanswered | Lan ignoring a question | A tired Aes Sedai cannot protect them; Moiraine is the party's only real shield |
 | Lan's "I don't need it, not yet" | Toughness | Warders endure more than other men (see the Warder stories of Chapter 9) |
@@ -71,6 +71,19 @@ The chapter hides its biggest sign inside a sentence about a horse. The rest are
 | Egwene's delight in the gallop | Excitement | Her hunger for the wider world, and for the Power that touched her mare |
 | Cloud forcing between Lan and Moiraine; "Don't be so eager, sheepherder" | A headstrong horse | Rand pushed to the front, where he does not yet belong |
 | Watch Hill hears the scream and plays on | A village's luck | The rest of the world does not know the Shadow is moving |
+
+## Reader's notes
+
+The notes settle the chapter's hidden event: the evidence that Rand touched the Power is in the text, and it comes from the one witness who cannot lie.
+
+| Note | Reading |
+| --- | --- |
+| Rand touched the Power without knowing it | Agreed. The chain is complete: his will ("Run!"), the bodily signs (prickling skin, bones "ready to split open"), the result ("And Bela ran"), and a witness who confirms it |
+| Moiraine says Bela "may be the least weary of all", and she cannot lie | The strongest clue. She says it as she reaches Bela, before washing the mare's fatigue away, so the stamina was not her doing. "Strange as it seems" shows she finds it odd. Two limits: "may be" is a hedge, and the no-lying rule is so far only Tam's "They don't lie, not right out" |
+| Rand credits Moiraine: she "must have done something more" | His explanation contradicts her own words. The reader holds better evidence than the viewpoint character, which is the chapter's method |
+| What Moiraine concludes | The text never says. She notices, says nothing more, and moves on; whether she suspects Rand here is left open |
+
+**Craft point.** The author hides the event inside Rand's view, where he cannot read it, and plants the confirmation in the mouth of the one character the reader is told cannot lie. The clue is fair because its source is trusted.
 
 ## Thread setup
 
@@ -98,4 +111,4 @@ Chapter 11 moves two threads forward hard, the Shadow and the One Power, and pla
 
 ## Sources
 
-Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column comes from later books, from memory. Details most worth confirming: that Rand channels for the first time when Bela runs; that a channeler cannot heal herself and is drained by channeling; how Moiraine uses the fog to mislead the Myrddraal at the river; and that the Draghkar cannot easily be killed even by an Aes Sedai.
+Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The "What it means" column comes from later books, from memory. Details most worth confirming: that later books confirm Rand channeled for the first time when Bela ran (the chapter's own evidence is in Reader's notes); that a channeler cannot heal herself and is drained by channeling; how Moiraine uses the fog to mislead the Myrddraal at the river; and that the Draghkar cannot easily be killed even by an Aes Sedai.
