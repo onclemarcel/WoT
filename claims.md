@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 10. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 11. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -39,13 +39,17 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | open |
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
-| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9 | B1 | open |
+| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; the rest not yet shown) |
 | C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
 | C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
-| C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open |
+| C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
 | C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | open |
 | C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | open |
 | C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
+| C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11 | B1–B2 | open |
+| C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself) |
+| C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | open |
+| C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |
 
 ## Book 2 to Book 4
 
