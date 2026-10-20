@@ -46,7 +46,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | open |
 | C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | open |
 | C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
-| C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11 | B1–B2 | open (Ch. 11 evidence: Moiraine finds Bela "the least weary of all" before touching her; the text does not yet name it) |
+| C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11, Rand | B1–B2 | open (Ch. 11 evidence: Moiraine finds Bela "the least weary of all" before touching her; the text does not yet name it) |
 | C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself; Ch. 12: the fog cost Moiraine "extra effort") |
 | C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | confirmed, Ch. 12 (the river is cloaked for miles so the Fade must consider escape by boat and split his search) |
 | C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |

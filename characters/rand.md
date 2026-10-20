@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · Shadow thread: [WoT Thread — The Shadow](../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 5 — Winternight](../chapters/b01-eye-of-the-world/ch05-winternight.md) · [EotW Ch. 6 — The Westwood](../chapters/b01-eye-of-the-world/ch06-the-westwood.md) · [EotW Ch. 8 — A Place of Safety](../chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md) · [EotW Ch. 11 — The Road to Taren Ferry](../chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md) · Shadow thread: [WoT Thread — The Shadow](../threads/shadow.md)
 
 Rand's arc asks whether a man can carry the end of the world without losing his humanity. He starts as a farm boy who wants an ordinary life and ends as the Dragon Reborn, who must choose, at the bottom of despair, why the world is worth saving. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -16,6 +16,40 @@ Chapters 1 to 3 show Rand before anything has happened to him, and plant almost 
 - **What he fears:** the black rider's hatred, aimed "for him above all things"; and, without knowing it yet, himself.
 - **His tools:** Tam's flame and the void, which he cannot hold while he thinks of the rider.
 - **His blind spot:** he calls the Dragon who saves mankind a fool's tale and says no one ever leaves the Two Rivers.
+
+## Book 1 so far (Chapters 4 to 13)
+
+In ten chapters Rand loses almost everything that defined him in Chapters 1 to 3: his home, his certainty about his father, and his place beside Egwene. What he gains, he mostly does not notice: a sword, a teacher, and a first touch of the Power. Unlike Egwene, he never chooses the road; it is chosen for him, and the book's question is whether that is true.
+
+| Chapter | What he does | What shifts |
+| --- | --- | --- |
+| 4 | Grey eyes and height pointed out; walks home with an arrow nocked | He is marked as different, and still believes no one leaves |
+| 5 | Runs from the farm, goes back alone, kills Narg on Tam's blade almost by accident | First kill; the heron-mark sword enters his life |
+| 6 | Drags Tam through the Westwood; hears in the fever talk that he was a baby found on a battlefield: "You are my father" | His origin cracks open, and he refuses to look |
+| 7 | Asks an Aes Sedai for help and offers "any price in my power" | His first bargain with Moiraine |
+| 8 | Reaches the conclusion himself: "That's why I have to leave, isn't it?" | The choice is framed so that he makes it; something tears loose |
+| 9 | Curses the Dark One by name in a dream; tells Tam almost everything, but not the fever talk | The Shadow speaks to him directly; he keeps his own secret from his father |
+| 10 | Leaves with Tam's sword; sees the Draghkar cross the moon | Home becomes memory before he has left it |
+| 11 | Wills Bela to run, with prickling skin and freezing bones; draws the sword at the sky without noticing | His first touch of the One Power, unknowing; his hands learning to fight before his mind agrees |
+| 12 | Asks Lan about Taren Ferry folk; hears that men who channel die or are gentled; "She has to fail" | Lan starts to teach him; the lesson's darkest rule is about him, and he does not know it |
+| 13 | Finds the flame and the void in Lan's sword lesson; quarrels with Egwene about Aes Sedai and Darkfriends; eavesdrops on Moiraine | The void becomes a fighter's tool; he and Egwene stop speaking; he learns of a second channeler |
+
+**What Chapter 13 shows.** The quiet week turns Rand inward and backward.
+
+- **Home:** he loses himself for hours in a waking dream of sheep, larks and Bel Tine with Tam. His answer at Baerlon is "I think it's a long way from home".
+- **The void:** Tam's trick for archery turns out to be what Lan teaches for the sword. Lan gives him an "unreadable look", and the reader learns that Tam knew more of blades than a shepherd should.
+- **Egwene:** jealous of her nightly talks with Moiraine, he calls her a fool for trusting Aes Sedai and blurts out the word Darkfriend. It costs him two days of silence and Moiraine's stare.
+- **Moiraine:** he shivers "as if he had been let out of a trap"; he hears her threat to destroy the boys herself, and believes it because of how calmly she says it.
+- **His dream:** every man in Emond's Field claims to be the Dragon Reborn, every woman wears Moiraine's blue stone. His two fears are already one knot.
+- **"You have no choice":** he looks at Mat and Perrin and thinks the Aes Sedai has made their choices.
+
+**Three threads running through the ten chapters.**
+
+| Thread | Where it shows | Where it points |
+| --- | --- | --- |
+| His origin | The fever talk (6), the heron-mark sword (5, 8, 10), the void Tam taught (13) | Tam's soldier past, and Rand's birth on the slopes of a mountain |
+| The Power | Bela runs (11); the lesson on men who channel (12); the void (13) | He is the man the lesson describes |
+| The Shadow | Narg (5), the dream (9), the Draghkar (10–12), Moiraine's "one or all" (13) | The Dark One is after him, though he does not know why |
 
 ## Arc
 
@@ -91,4 +125,4 @@ Rand's signature inner sense is the void: an emptiness he enters to act without 
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3 as you supplied them. The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied; the Power in Chapter 11 is a reading the text has not yet named (claim C65). The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.
