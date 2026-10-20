@@ -39,6 +39,8 @@ TITLES = {
     "EotW Ch. 11 — The Road to Taren Ferry": "chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md",
     "EotW Ch. 12 — Across the Taren": "chapters/b01-eye-of-the-world/ch12-across-the-taren.md",
     "WoT — Taren Ferry": "world/taren-ferry.md",
+    "EotW Ch. 13 — Choices": "chapters/b01-eye-of-the-world/ch13-choices.md",
+    "WoT — Baerlon": "world/baerlon.md",
     "WoT Arc — Leaving Emond's Field (Ch. 1–10)": "arcs/b01-leaving-emonds-field.md",
     "WoT Character — Padan Fain": "characters/padan-fain.md",
     "WoT Character — Rand": "characters/rand.md",

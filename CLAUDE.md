@@ -74,6 +74,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 10 — Leavetaking | 39b17ef8-5a54-4f6b-8731-5fb2f80f63ff | f7394626-f716 | chapters/b01-eye-of-the-world/ch10-leavetaking.md |
 | EotW Ch. 11 — The Road to Taren Ferry | 03498c1e-e236-4f96-8639-a039f8e7b376 | 343d7bb5-5d76 | chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md |
 | EotW Ch. 12 — Across the Taren | 84fd148d-210b-4525-a068-e67b25cb4b76 | 5555a51f-0557 | chapters/b01-eye-of-the-world/ch12-across-the-taren.md |
+| EotW Ch. 13 — Choices | d755fb03-b515-417f-9a57-61a168304c82 | 3dd9f87d-a8a1 | chapters/b01-eye-of-the-world/ch13-choices.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -98,6 +99,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT — The Aiel War | 302a1c63-0f00-44a6-9b6b-f106885e579d | a1caebb1-b6de | world/aiel-war.md |
 | WoT — Emond's Field Villagers | 38aefb21-a1c4-45db-bde0-6e2dc2edac08 | 2ee6e328-0e33 | world/emonds-field-villagers.md |
 | WoT — Taren Ferry | ca193f86-f4e9-4a1d-a621-c38149bc44d0 | ab6ec96f-ef86 | world/taren-ferry.md |
+| WoT — Baerlon | 8b23ca4f-44f3-4ea5-b3ab-22497e3acda9 | fdbb3073-6323 | world/baerlon.md |
 
 Add a row here for every new card. The doc link is `https://claude.ai/code/artifact/<project id>`.
 
@@ -128,5 +130,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–12 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 13.
-- Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.
+- Book 1, Chapters 1–13 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 14.
+- Open ideas: a card for Caemlyn (row exists in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

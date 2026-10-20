@@ -11,7 +11,7 @@ Egwene's arc is about ambition becoming leadership. The girl who wants to see th
 She is named in Chapter 1, appears only in a comparison in Chapter 2, and steps on stage in Chapter 3.
 
 - **Who she is:** the Mayor's daughter, two years younger than Rand, the girl he can't speak to without stumbling.
-- **What has changed:** she now wears a braid, so she is of marriageable age, and she is Nynaeve's apprentice.
+- **What has changed:** she now wears a braid, so she is of marriageable age, and she is Nynaeve's apprentice. In Chapter 13 she combs the braid out on the road north: "Aes Sedai don't braid their hair." The sign of her place in the village gives way to the sign of the place she wants.
 - **What she wants:** to see the places in the stories; she might serve as Wisdom in a village outside the Two Rivers.
 - **Her gift:** Nynaeve says she has a talent and can learn to listen to the wind. Chapter 12 names it: Moiraine knew her for a channeler at first sight, guides her first touch of the Source through a blue stone, and tells her the last flicker of light was "yours alone". Egwene's answer: "I'm going to be an Aes Sedai!"
 - **Her stance:** grave and sure of herself; she dismisses the boys' rider as a man on a horse, and turns Rand's "no one ever leaves" into a quarrel.

@@ -16,6 +16,7 @@ Chapters 1 to 3 build Nynaeve's reputation before she appears, then show it in a
 - **What she fears, unspoken:** being thought a child, as Moiraine calls her; losing control.
 - **Her signature gesture:** walking straight into the Council's closed meeting, sure the Women's Circle will ask the right questions.
 - **Her pupil:** Egwene, whom she is teaching to listen to the wind.
+- **What Moiraine lets slip (Chapter 13):** untaught women who can channel often become Wisdoms (Ch. 12), and there are "two in one village" in Emond's Field. Moiraine takes it back at once: "Her road lies another way, I fear." The text names no one.
 
 ## Arc
 

@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 12. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 13. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -32,7 +32,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C20 | Thom's distrust of Aes Sedai comes from a personal loss (his nephew Owyn) | Ch. 7, Ch. 12, Thom | B1–B2 | open (Ch. 12: he growls when Moiraine speaks of gentling) |
 | C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
-| C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ghealdan | B1–B2 | open |
+| C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ch. 13, Ghealdan | B1–B2 | open (Ch. 13: a big battle, Aes Sedai dead, marching toward Tear; still unnamed) |
 | C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
 | C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
@@ -51,12 +51,19 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | confirmed, Ch. 12 (the river is cloaked for miles so the Fade must consider escape by boat and split his search) |
 | C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |
 | C69 | Moiraine is among the strongest Aes Sedai of her time | Ch. 12 | B1–B2 | open (Ch. 12: "not ten women in Tar Valon" could lay that fog unaided) |
-| C70 | Nynaeve can channel without knowing it | Ch. 12 | B1 | open |
+| C70 | Nynaeve can channel without knowing it | Ch. 12, Ch. 13, Nynaeve | B1 | open (Ch. 13: Moiraine lets slip "two in one village", then "Her road lies another way"; no name given) |
 | C71 | Lan scouted the route and the tree-cave camp before Winternight | Ch. 12 | B1 | open |
 | C72 | Egwene becomes Amyrlin ("perhaps even the Amyrlin Seat") | Ch. 12, Egwene | B6 | open (see C49) |
 | C73 | Moiraine "looming" is a small use of the Power or Aes Sedai presence | Ch. 12 | B1–B2 | reading |
 | C74 | Taren Ferry is back in view when Perrin returns to the Two Rivers, and whether its ferry is rebuilt | Taren Ferry | B4 | open |
 | C75 | The Taren is the river the Manetheren tale calls the Tarendrelle | Taren Ferry, Manetheren | B1–B4 | open |
+| C76 | The Sword That Cannot Be Touched is Callandor; Rand takes it and the Stone of Tear falls | Ch. 13, Tales and Legends | B3 | open |
+| C77 | The People of the Dragon in the prophecy are the Aiel | Ch. 13 | B3 | open |
+| C78 | The void becomes Rand's way to the Source | Ch. 13 | B1–B2 | open |
+| C79 | The endless winter is the Dark One's touch on the world | Ch. 13, Ghealdan | B1 | open |
+| C80 | Moiraine knows Rand eavesdropped | Ch. 13 | B1 | reading |
+| C81 | The Stag and Lion's innkeeper is Master Fitch ("Pitch" in the pasted text) | Ch. 13, Baerlon | B1, Ch. 14 | open |
+| C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | open (Ch. 13: miners and smelters named) |
 
 ## Book 2 to Book 4
 
@@ -70,7 +77,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C29 | Tam served abroad as a soldier, and as an officer in a foreign army (Illian) | Ch. 5, Tam | B4 | open |
 | C30 | Rand's birth mother was an Aiel Maiden of the Spear | Ch. 6, Aiel | B4 | open |
 | C31 | The Amyrlin speaks of "three ta'veren" from one village | Pattern | B2 | open |
-| C32 | There are seven Ajahs, and Aes Sedai swear Three Oaths | Aes Sedai | B1–B2 | open (Ch. 12: Ajahs exist and the Red is named; the number not given) |
+| C32 | There are seven Ajahs, and Aes Sedai swear Three Oaths | Aes Sedai | B1–B2 | open (Ch. 12: Ajahs exist and the Red is named; Ch. 13: "the Ajahs" plot among themselves in the stories; the number not given) |
 | C33 | Book numbers on the Aiel card: Gaul in B3, Rhuidean in B4, the Shaido taking Faile | Aiel | B3–B11 | open |
 | C34 | He Who Comes With the Dawn will unite the Aiel and destroy them | Aiel | B4 | open |
 | C35 | The Tower splits in Book 4 | Aes Sedai, Tar Valon | B4 | open |

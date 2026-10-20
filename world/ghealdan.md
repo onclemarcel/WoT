@@ -9,6 +9,7 @@ Ghealdan is the first foreign nation the reader hears of: in Chapter 3 the peddl
 - **Chapter 3's news:** war in Ghealdan; the snows of the Dhallin Forest are red; armies and great houses march against the false Dragon.
 - **The false Dragon:** later named as Logain Ablar. He is one of the rare false Dragons who can truly channel, which is why his rising frightens the whole west.
 - **Why it reaches the village:** Fain's news is the first proof that the outside world is at war, a word the Two Rivers has not had to use.
+- **Chapter 13's news, at Baerlon's gate:** a big battle in Ghealdan, started when Aes Sedai arrived; some or all of them may be dead. The false Dragon can use the One Power, has "thousands following him", calls them the People of the Dragon, and is said to be moving east and south toward Tear. The Whitecloaks use him as their reason to be in Baerlon.
 
 ## Ghealdan across the series
 

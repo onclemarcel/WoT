@@ -8,6 +8,7 @@ The Children of the Light, called Whitecloaks, are a military order sworn to hun
 
 - **What they are:** a standing army of zealots, not a church; they answer to no throne.
 - **Where:** their fortress is in Amador, and they rule Amadicia in all but name.
+- **First seen in the story (Chapter 13):** in Baerlon, arrived the day Moiraine and Lan left south. They claim to be hunting the evil the false Dragon stirs up. The Governor lets only about ten inside the walls; the rest camp north of town. They stalk the streets in white cloaks, order people to "Walk in the Light", nearly come to blows with wagoneers, miners and the Watch, and the Dragon's Fang has appeared on some doors. The gatekeeper Avin spits at their name.
 - **What they fight:** Darkfriends, Shadowspawn, false Dragons, and anyone who channels, whom they call witches.
 - **Why it matters:** sincere hatred of the Shadow, turned into cruelty, makes them dangerous to the heroes even though they are not evil.
 
