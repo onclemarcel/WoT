@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · Bonded to: [WoT Character — Moiraine](moiraine.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · Bonded to: [WoT Character — Moiraine](moiraine.md) · Chapter cards: [EotW Ch. 7 — Out of the Woods](../chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md) · [EotW Ch. 8 — A Place of Safety](../chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md) · [EotW Ch. 10 — Leavetaking](../chapters/b01-eye-of-the-world/ch10-leavetaking.md) · [EotW Ch. 11 — The Road to Taren Ferry](../chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
 
 Lan's arc is about a man who has given his life to a lost war learning to accept that he may live, and love, and lead. The uncrowned king of a dead nation becomes the general who rides out to lead his people again at the Last Battle. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -15,6 +15,31 @@ He arrives in Chapter 2 almost without words, defined by how he moves and how he
 - **How he looks:** cold blue eyes that weigh the three youths and give nothing away.
 - **What Ewin guesses:** "a Warder"; Mat laughs it off; Ewin is right.
 - **What he hides:** he is al'Lan Mandragoran, uncrowned king of Malkier, a Borderland swallowed by the Blight, and Moiraine's Warder.
+
+## Book 1 so far (Chapters 4 to 13)
+
+In ten chapters the silent swordsman becomes the party's scout, fighter, purse and, by Chapter 13, its teacher. Two loyalties drive everything he does: Moiraine, whose strength he guards more jealously than his own, and the mission, which he serves with contempt for anything that slows it. The change is in how he treats the boys, Rand above all.
+
+| Chapter | What he does | What shifts |
+| --- | --- | --- |
+| 4 | Rand has to look twice to see him; "a wolf heeling a gliding swan" | The guard who is hard to see |
+| 7 | A "whirlwind" in the fight; reads the Trolloc badges: "That makes seven bands so far"; "I don't know that you are worth it, sheepherder, no matter what she says" | The professional soldier; open contempt for Rand |
+| 8 | Facts on Fades and Trollocs; asks about the heron-mark sword; "Are you willing to bet your village on it?" | Persuasion beside Moiraine; his first interest in Rand's sword |
+| 9 | In scale armour; hurries the boys out the back: "Don't you understand the word trouble?" | The mission, now |
+| 10 | Shouts "No, Moiraine!" at Egwene's coming, his only outburst; "Anything can be a weapon"; draws on Thom; names the Draghkar | Overruled for the first time on stage |
+| 11 | "Only one of us will ride tired"; explains Moiraine's healing to Rand; buys the ferry with gold and a grip on the wrist | Explanation, still with a rebuke: "Don't be so eager, sheepherder" |
+| 12 | Stages the show of force at the landing; answers Rand's question about Taren Ferry folk and Darkfriends; explains the horses' hidden exhaustion; has a camp ready across the river | Teaching without being asked; planning far ahead |
+| 13 | Scouts at twice the party's pace on Mandarb ("Blade"); starts weapons lessons on his own; "Blank your mind, sheepherder"; becomes "Master Andra" in Baerlon | The teacher; Moiraine approves the lessons only the next evening |
+
+**What Chapter 13 shows.**
+
+- **The lessons are his idea.** He watches the bows, then: "Now if you all had bows... and if the Trollocs agreed not to come so close". He teaches the axe to Perrin and the sword to Rand: smooth motions, "almost a dance". Moiraine watches without expression and tells him the next evening to continue.
+- **The void.** "Blank your mind... Empty it of hate or fear." When Rand recognises Tam's flame and the void, Lan gives him "an unreadable look", then goes back to "I cannot make a mud-footed villager into a blademaster in an hour".
+- **Moiraine first.** He grumbles that she should not waste her strength healing him, presses bread and cheese on her, hushes the camp so she can sleep, and reports to her alone.
+- **Hard on everyone.** Cutting words for anyone who lets a horse trot, Moiraine included; "Don't be a fool" to Avin's talk of the Dragon Reborn.
+- **Still a scout.** He leaves the camp each night for "a last look around", and never stops checking the back trail even when Mat says they have lost the pursuit.
+
+**His turn toward Rand, Chapters 7 to 13.** From "I don't know that you are worth it" (7) to persuasion (8), correction (10), explanation with a rebuke (11), teaching (12) and, at last, a sword lesson he chose to give (13). The Chapter 12 card's Reader's notes trace the first half of this; Chapter 13 completes it.
 
 ## Arc
 
@@ -82,4 +107,4 @@ Lan's signature sense is the bond: he feels Moiraine's presence and condition at
 
 ## Sources
 
-The starting point is checked against Chapter 2 as you supplied it. Everything else is from memory of the books; confirm book numbers, especially for the passing of his bond and his marriage.
+The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for the passing of his bond and his marriage.

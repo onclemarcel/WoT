@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · Chapter cards: [EotW Ch. 7 — Out of the Woods](../chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md) · [EotW Ch. 8 — A Place of Safety](../chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md) · [EotW Ch. 9 — Tellings of the Wheel](../chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md) · [EotW Ch. 11 — The Road to Taren Ferry](../chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
 
 Moiraine's arc is about control and surrender. She spends twenty years searching for the Dragon Reborn and steering him, then has to learn that he will only win if she lets him choose, and finally gives up her own life to save his. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -15,6 +15,40 @@ She arrives in Chapter 2 as "the Lady Moiraine", seen entirely from outside.
 - **What she says:** "a student of history" interested in what happened here long ago; men wear "many names, many faces."
 - **What she hides:** she is an Aes Sedai of the Blue Ajah, and she has come for the Dragon Reborn, not knowing yet which boy he is.
 - **How she speaks:** every line true and every line misleading; see Chapter 2's "read twice" table.
+
+## Book 1 so far (Chapters 4 to 13)
+
+In ten chapters the lady from a gleeman's tale shows what she is: an Aes Sedai who heals, fights, lies by telling the truth, and will destroy the boys herself rather than lose them to the Dark One. Every chapter adds a power and, close behind it, a price she pays alone.
+
+| Chapter | What she does | What it shows |
+| --- | --- | --- |
+| 4 | Calls Thom "Master Bard" before he has said it twice | She knows more about everyone than they tell her |
+| 7 | Calls ball lightning down on the Trollocs, tired out "even with an angreal"; asks Rand "How are your dreams?" first | Power with a visible cost; she is hunting for a particular boy |
+| 8 | Heals Tam with an angreal the Amyrlin almost refused her; with Lan, lays out the facts until Rand says himself that he must go: "It is you who will be leaving" | She persuades by building a case, not by ordering |
+| 9 | Faces down the mob with flames on her staff, then tells them of Manetheren: "Weep for what is lost forever" | She can move a crowd with a story as well as with fire |
+| 10 | Lets Egwene and Thom come: "It is part of the Pattern, now"; overrules Lan's only shout | She bends with events instead of fighting them |
+| 11 | Washes the fatigue from horses and riders; raises the fog: "I will use its own slyness against it" | Healing others, never herself; she alone rides tired |
+| 12 | Sinks the ferry and calls it "an unfortunate occurrence"; "not ten women in Tar Valon" could lay that fog; guides Egwene's first touch of the Source | Ruthless with things, gentle with Egwene; every word true and evasive |
+| 13 | Heals everyone's fatigue again, then eats nothing and sleeps at once; nightly private lessons with Egwene; threatens the boys; "Mistress Alys" in Baerlon; "You have no choice" | The cost grows, and so does what she is willing to do |
+
+**What Chapter 13 shows.**
+
+- **The threat.** "Whatever the Dark One wants, I oppose... Before I let the Dark One have you, I will destroy you myself." Said in an everyday voice with eyes like "dark, polished stones". Rand believes it because she does not raise her voice.
+- **The teacher.** With Egwene she is patient and frank: the men who broke the world were "insane, not evil"; Aes Sedai are "human", brave and cowardly, kind and cruel; the Power will not change who Egwene is.
+- **The slip.** "Surely never before two in one village", then an order to forget it and "Her road lies another way, I fear". The one moment in ten chapters where she says more than she meant to.
+- **The watcher.** She looks straight at Rand's hiding place, studies the sleepers, and seems to linger on him the next day. The text never says she knows.
+- **The cost.** Shadowed eyes, a weary sigh, tea instead of food; Lan tries to press bread on her and grumbles that she wastes her strength on him.
+- **The network.** At Baerlon she has friends under another name: a gatekeeper who lights up at the sight of her and an innkeeper who expected her. She prepared this road on the way south.
+
+**Her methods, Chapters 4 to 13.**
+
+| Method | Where it shows | What it costs |
+| --- | --- | --- |
+| Truth that misleads | "An unfortunate occurrence" (12); "You have no choice" (13) | Trust: Rand calls her a possible Darkfriend (13) |
+| Facts that persuade | Rand's leaving (8); the second channeler she will not name (13) | Control slips when she speaks freely |
+| The Power, used for others | Tam (8), the horses and riders (11, 13), the fog and the ferry (11–12) | Exhaustion she cannot heal in herself |
+| Stories | Manetheren to the mob (9); Egwene's lessons (12–13) | None visible; this is her cheapest tool |
+| Threat | "I will destroy you myself" (13) | Fear; Rand shivers as if let out of a trap |
 
 ## Arc
 
@@ -84,4 +118,4 @@ Moiraine's signature trait is composure: the reader almost never sees inside her
 
 ## Sources
 
-The starting point is checked against Chapter 2 as you supplied it. Everything else is from memory of the books; confirm book numbers and the details of her rescue.
+The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers and the details of her rescue.
