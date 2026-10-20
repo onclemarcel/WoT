@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 2 — Strangers](../chapters/b01-eye-of-the-world/ch02-strangers.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 4 — The Gleeman](../chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · [EotW Ch. 9 — Tellings of the Wheel](../chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md) · [EotW Ch. 10 — Leavetaking](../chapters/b01-eye-of-the-world/ch10-leavetaking.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
 
 Mat's arc is about a man who runs from responsibility and keeps being handed more of it. The prankster who wants only fun becomes a general with the memories of dead commanders, the husband of an empress, and the man who wins the Last Battle's war. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -16,6 +16,31 @@ Chapters 1 to 3 give Mat complete on arrival, which makes the later change measu
 - **What he fears:** the rider scared him more than anything ever had, and he admits it.
 - **His instincts:** reckless (he goaded Bili Congar into naming the Dark One), yet sound when it counts (he is the one who decides Moiraine's coin must not be spent).
 - **His tell:** curiosity stronger than caution, the trait that will take him into the most dangerous places in the series.
+
+## Book 1 so far (Chapters 4 to 13)
+
+Mat changes least of the three boys so far, and that is the point. The joker of Chapters 1 to 3 keeps joking through a burned home and a flight by night, but the jokes thin out, the fear shows through, and by Chapter 13 his restlessness has found a direction: cities, Illian, the world. His distrust of Aes Sedai, his skill with a bow and his quick hands are all on the page already.
+
+| Chapter | What he does | What shifts |
+| --- | --- | --- |
+| 4 | Wants to see the false Dragon; volunteers for the watch; the others look for more reliable witnesses | His appetite for trouble, and his reputation for it |
+| 6 | Rand pictures his Winternight pranks | Mat as the village's comic memory |
+| 7 | Alive; his father's house burned to the stones | The first loss he does not speak about |
+| 8 | Named as one of the three hunted, born within weeks of Rand and Perrin; must leave too | The prankster becomes a target |
+| 9 | Waits armed with bow and quiver: "This isn't much like the stories, Rand, is it?" | The stories he loved meet the real thing |
+| 10 | Leaves a note for his family; his mother thinks Tar Valon "the next thing to Shayol Ghul"; jokes to cover fear | He chooses to go, with a village's distrust of Aes Sedai packed in his bags |
+| 11 | Wants a mutton pie at the White Boar; mocks the name Hightower | Humour as armour during the chase |
+| 12 | Stammers the question about the sunk ferry that nobody else dares ask | The only one who says aloud what all of them think |
+| 13 | Rides with an arrow nocked at first; puts three arrows into a knot at a hundred paces; juggles four stones; dreams of Illian; "So that's a city" | His fear fades fast, and wanderlust takes its place |
+
+**What Chapter 13 shows.**
+
+- **The first to relax.** After a few quiet days he declares "we've lost them for good", and plans a road south through Caemlyn to Illian from Master al'Vere's old map. Perrin answers with the Draghkar; Moiraine answers with a threat.
+- **Distrust of Aes Sedai.** "Illian isn't full of Aes Se-" breaks off as Moiraine steps into the firelight. It is the clearest statement yet of what he thinks of being steered.
+- **Quick hands.** Thom's juggling lessons take; he reaches four stones and boasts that he beat Rand to it. Combined with his archery, the text keeps showing a sharp eye and fast fingers.
+- **The city.** "So that's a city" at Baerlon, with Thom rolling his eyes. Where Rand sees distance from home, Mat sees the start of the world.
+
+**How he differs from the other two.** Rand looks back, Perrin weighs things, Mat looks ahead. He is the one who most wants the adventure and least wants anyone telling him where to go, which is exactly the tension his later arc will pull on.
 
 ## Arc
 
@@ -83,4 +108,4 @@ Mat's signature sense is luck: he feels it as dice tumbling in his head, which s
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3 as you supplied them. The arc and everything after are from memory of the books; confirm book numbers for single events.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. The arc and everything after are from memory of the books; confirm book numbers for single events.

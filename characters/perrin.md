@@ -6,6 +6,8 @@ Up: [Wheel of Time — Story Map](../story-map.md)
 
 Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) (only named, as one of Rand's two closest friends) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) (his first scene: he too saw the rider and got a coin)
 
+More chapter cards: [EotW Ch. 4 — The Gleeman](../chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · [EotW Ch. 8 — A Place of Safety](../chapters/b01-eye-of-the-world/ch08-a-place-of-safety.md) · [EotW Ch. 10 — Leavetaking](../chapters/b01-eye-of-the-world/ch10-leavetaking.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
+
 Characters: [WoT Character — Faile](faile.md) · [WoT Character — Rand](rand.md) · [WoT Character — Mat](mat.md) · [WoT Character — Egwene](egwene.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
 
 Perrin's arc is about his fear of himself. He starts out believing his strength and his wolf side will turn him into a beast, so he holds both back and avoids leading. He ends by mastering both: he chooses the hammer over the axe and accepts being a lord.
@@ -20,6 +22,31 @@ In Book 1 Perrin is the blacksmith's apprentice from Emond's Field. He is big, s
 - **The inciting push:** he meets Elyas, discovers he can talk to wolves, and kills Whitecloaks with his axe to save Egwene. Both of his fears come true at the same moment.
 
 Elyas tells him to keep the axe until the day he starts to like using it. That line sets up the whole arc.
+
+## Book 1 so far (Chapters 3 to 13)
+
+The text has not yet reached Elyas or the wolves, but it is already building the man the Starting point describes. Perrin is the steady one: careful with his strength, slow to speak, quick to see what others would rather not. His axe arrives in Chapter 10, his fear of it is visible at once, and in Chapter 13 Lan begins to teach him to use it.
+
+| Chapter | What he does | What shifts |
+| --- | --- | --- |
+| 3 | Apologises his way through a crowd he could push aside; admits he too saw the rider; worries about war | Careful strength, his entry gesture |
+| 4 | "Almost the size of an Ogier"; frowns when he sees Thom laughing at the boys | Plain honesty, alert to mockery |
+| 5 | Rand's quarterstaff partner, remembered | Strength already trained, gently |
+| 8 | Alive, "a trifle sooty"; the Aybara farm and the Luhhan forge were struck | He is one of the three hunted; his two homes are both targets |
+| 10 | Waits in the stable with a half-moon axe Master Luhhan made for a guard who would not pay; hides that he has been practising with it; startles at "Wolves!" | The weapon and the wolves both enter his story, and both make him uneasy |
+| 11 | Defends the White Boar against Mat; wants a pie and hot tea | The plain, loyal voice of the group |
+| 12 | Lan bares his axe at the landing; he plants his feet; first to ask for rest | His size and weapon used as a threat, at Lan's choice, not his |
+| 13 | First axe lessons; insists the first farm is "no different from back home"; answers Mat with the Draghkar | The realist of the three, and a fighter in training |
+
+**What Chapter 13 shows.**
+
+- **The axe lesson.** Lan teaches him that raising an axe to someone armed "was not at all like chopping wood or flailing around in pretend": block, parry, strike. The tool of a craftsman is being turned into a weapon, which is exactly what he feared in Chapter 10.
+- **He fingers his axe often** in the first days, then less, as the land stays empty.
+- **The realist.** "It's no different from back home" against Mat's "It must be." When Mat says they lost the Trollocs, Perrin asks why Lan keeps scouting, and whether the Draghkar was chasing them "because it liked us".
+- **Hope held tight.** "In a month or two, we'll be back," said in a strained voice; then the "thoughtful silence" that grows on him the further they go.
+- **The city.** "How can so many people live in one place?" At Baerlon he is the one who thinks about the people, not the walls.
+
+**Seeds the Starting point already names.** The axe and its unease (10, 12, 13), the wolves (Lan's "I would rather hear wolves" in 10; wolves howling at Baerlon's walls in 13), and a first hammer: Master Luhhan carried his biggest one after Perrin saw the rider (3).
 
 ## Arc
 
@@ -146,3 +173,7 @@ On top of that, the release is delayed further: after Malden, Book 12 barely fea
 3. **Give every shift a cause.** Each change follows a person or event that removes his old option; nothing changes by time passing alone.
 4. **Escalate on every visit.** A fixation can carry many chapters only if each return raises the cost or moves the belief.
 5. **Close the original wound.** The Whitecloak trial brings back the Book 1 killings, so the arc ends where it began.
+
+## Sources
+
+The Book 1 section is checked against the Chapter 3 to 13 cards, all from the text you supplied. The Starting point's "inciting push" (Elyas, the wolves, the Whitecloak killings), the arc, and everything after are from memory of the books; confirm book numbers for single events.
