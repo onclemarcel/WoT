@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 11. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 12. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -12,7 +12,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | --- | --- | --- | --- | --- |
 | C01 | Tam's fever comes from a tainted Shadowspawn blade, as Moiraine explains | Ch. 5, Ch. 6, Ch. 7 | B1, next chapters | confirmed, Ch. 8 (blades forged in Thakan'dar carry a taint; the wounds will not heal unaided) |
 | C02 | The Trollocs targeted the three boys' homes: the al'Thor farm, the Cauthon house, the Luhhan forge, possibly the Aybara farm | Ch. 7, Shadow | B1, next chapters | confirmed, Ch. 8 (Lan: the al'Thor and Aybara farms; the forge, the Luhhan house and the Cauthon house) |
-| C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7 | B1, next chapters | open (Ch. 8: Moiraine says whoever drew it might make trouble; meaning still unstated) |
+| C03 | The Dragon's Fang is an accusation of evil, aimed at the Mayor's guests | Ch. 7, Ch. 12 | B1, next chapters | confirmed in part, Ch. 12 (Lan: talk of Trollocs and Darkfriends can bring "worse than the Dragon's Fang scrawled on your door"; who it targeted is still unstated) |
 | C04 | Moiraine heals Tam after Winternight | Tam | B1, next chapters | confirmed, Ch. 8 (with an angreal, before Rand leaves; the Tam card's "after Rand leaves" was corrected) |
 | C05 | The Winternight attack reaches Emond's Field | Villagers | B1 | confirmed, Ch. 7 |
 | C06 | Aes Sedai cannot speak a lie | Ch. 2, Ch. 8, Aes Sedai, Moiraine | B1 | confirmed, Ch. 9 (Tam: "They don't lie, not right out"; the Oath itself is not yet named) |
@@ -24,12 +24,12 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
 | C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
-| C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | open (Ch. 10: Moiraine lets her come for "a reason", unstated) |
+| C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | confirmed, Ch. 12 (Moiraine knew her at first sight and guides her first touch; untaught channelers often become Wisdoms) |
 | C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open |
 | C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
 | C18 | A dying Aiel Maiden's warning reaches the heroes through the Tinkers | Aiel | B1 | open |
 | C19 | On the road with Elyas: the order of events, who frees Perrin and Egwene from the Whitecloak camp, which wolves die | Road with Elyas | B1 | open |
-| C20 | Thom's distrust of Aes Sedai comes from a personal loss (his nephew Owyn) | Ch. 7, Thom | B1–B2 | open |
+| C20 | Thom's distrust of Aes Sedai comes from a personal loss (his nephew Owyn) | Ch. 7, Ch. 12, Thom | B1–B2 | open (Ch. 12: he growls when Moiraine speaks of gentling) |
 | C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
 | C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ghealdan | B1–B2 | open |
@@ -47,9 +47,14 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | open |
 | C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
 | C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11 | B1–B2 | open (Ch. 11 evidence: Moiraine finds Bela "the least weary of all" before touching her; the text does not yet name it) |
-| C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself) |
-| C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | open |
+| C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself; Ch. 12: the fog cost Moiraine "extra effort") |
+| C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | confirmed, Ch. 12 (the river is cloaked for miles so the Fade must consider escape by boat and split his search) |
 | C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |
+| C69 | Moiraine is among the strongest Aes Sedai of her time | Ch. 12 | B1–B2 | open (Ch. 12: "not ten women in Tar Valon" could lay that fog unaided) |
+| C70 | Nynaeve can channel without knowing it | Ch. 12 | B1 | open |
+| C71 | Lan scouted the route and the tree-cave camp before Winternight | Ch. 12 | B1 | open |
+| C72 | Egwene becomes Amyrlin ("perhaps even the Amyrlin Seat") | Ch. 12, Egwene | B6 | open (see C49) |
+| C73 | Moiraine "looming" is a small use of the Power or Aes Sedai presence | Ch. 12 | B1–B2 | reading |
 
 ## Book 2 to Book 4
 
@@ -63,7 +68,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C29 | Tam served abroad as a soldier, and as an officer in a foreign army (Illian) | Ch. 5, Tam | B4 | open |
 | C30 | Rand's birth mother was an Aiel Maiden of the Spear | Ch. 6, Aiel | B4 | open |
 | C31 | The Amyrlin speaks of "three ta'veren" from one village | Pattern | B2 | open |
-| C32 | There are seven Ajahs, and Aes Sedai swear Three Oaths | Aes Sedai | B1–B2 | open |
+| C32 | There are seven Ajahs, and Aes Sedai swear Three Oaths | Aes Sedai | B1–B2 | open (Ch. 12: Ajahs exist and the Red is named; the number not given) |
 | C33 | Book numbers on the Aiel card: Gaul in B3, Rhuidean in B4, the Shaido taking Faile | Aiel | B3–B11 | open |
 | C34 | He Who Comes With the Dawn will unite the Aiel and destroy them | Aiel | B4 | open |
 | C35 | The Tower splits in Book 4 | Aes Sedai, Tar Valon | B4 | open |

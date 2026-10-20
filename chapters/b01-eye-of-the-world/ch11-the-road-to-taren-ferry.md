@@ -2,7 +2,7 @@
 
 Oct 19, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 10 — Leavetaking](ch10-leavetaking.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 10 — Leavetaking](ch10-leavetaking.md) · Next: [EotW Ch. 12 — Across the Taren](ch12-across-the-taren.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md)
 

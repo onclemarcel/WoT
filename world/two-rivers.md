@@ -7,7 +7,7 @@ Up: [WoT — World Index](index.md) · History: [WoT — Manetheren](manetheren.
 The Two Rivers is the heroes' home: a remote farming district at the edge of Andor that has forgotten both its kingdom and the world. Chapter 3 makes the point plainly: when the peddler brings news of war and a false Dragon, the village answers with half-remembered stories, because it has no other way to know.
 
 - **Where:** closed on every side but one. The Taren is to the north, crossed at Taren Ferry, the only way in. The Mountains of Mist close the west and the Mire the east. To the south the White River churns over rocks, with the Forest of Shadows beyond it, a hundred miles or more without a road (Chapter 4).
-- **Villages:** Emond's Field, Watch Hill, Deven Ride and Taren Ferry, all within a few days' ride; the boys have been to Watch Hill and Deven Ride, which already counts as travel. Chapter 11 shows the two northern villages: Watch Hill, a hill of lit windows with the White Boar inn, and Taren Ferry, tall houses on high redstone foundations against the spring flood from the Mountains of Mist. Taren Ferry folk look down on "the lower villages", carry odd names like Hilltop and Stoneboat, and are known for slyness: shake hands with one and count your fingers after.
+- **Villages:** Emond's Field, Watch Hill, Deven Ride and Taren Ferry, all within a few days' ride; the boys have been to Watch Hill and Deven Ride, which already counts as travel. Chapter 11 shows the two northern villages: Watch Hill, a hill of lit windows with the White Boar inn, and Taren Ferry, tall houses on high redstone foundations against the spring flood from the Mountains of Mist. Taren Ferry folk look down on "the lower villages", carry odd names like Hilltop and Stoneboat, and are known for slyness: shake hands with one and count your fingers after. In Chapter 12 Moiraine sinks the ferry behind the party, cutting the one road in for a time.
 - **The roads out (Chapter 4):** Baerlon, an Andoran town north beyond Taren Ferry and "the last place in the world to hear anything", says Thom; Caemlyn, Andor's capital; Lugard, on the road south that Aes Sedai would take toward Ghealdan.
 - **Ruler:** Andor on the maps; in practice no queen's officer has come in living memory, and the villages govern themselves.
 - **Past:** the land of Manetheren, the kingdom that died fighting the Shadow; the stone foundations Rand sits on in Chapter 3 are its last trace.
@@ -36,7 +36,7 @@ The Two Rivers splits authority between men and women, and each side gently mock
 | --- | --- | --- |
 | Village Council | The men's body, led by the Mayor (Bran al'Vere) | Meets behind closed doors in Chapters 2 and 3 |
 | Women's Circle | The women's body, led by the Wisdom | Nynaeve walks into the Council uninvited: the Circle answers to no one |
-| The Wisdom | Healer, midwife and weather-reader; chosen by the Women's Circle, sometimes from another village | Nynaeve; Egwene may serve elsewhere |
+| The Wisdom | Healer, midwife and weather-reader; chosen by the Women's Circle, sometimes from another village | Nynaeve; Egwene may serve elsewhere. Chapter 12: Moiraine says women born able to channel, if untaught and alive, often become Wisdoms |
 | The braid | A woman's sign that she is of marriageable age | Egwene's new braid in Chapter 3 |
 | Bel Tine and Winternight | Spring festival (the Spring Pole) and the eve before it | The festival the strangers arrive for |
 | Two Rivers ale and tabac | Local goods sold to outside merchants | Barrels and pipes in the Winespring Inn |

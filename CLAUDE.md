@@ -73,6 +73,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 9 — Tellings of the Wheel | 105eb0f7-17e2-44b6-92f0-ca10db0cf154 | 7f0e2156-b216 | chapters/b01-eye-of-the-world/ch09-tellings-of-the-wheel.md |
 | EotW Ch. 10 — Leavetaking | 39b17ef8-5a54-4f6b-8731-5fb2f80f63ff | f7394626-f716 | chapters/b01-eye-of-the-world/ch10-leavetaking.md |
 | EotW Ch. 11 — The Road to Taren Ferry | 03498c1e-e236-4f96-8639-a039f8e7b376 | 343d7bb5-5d76 | chapters/b01-eye-of-the-world/ch11-the-road-to-taren-ferry.md |
+| EotW Ch. 12 — Across the Taren | 84fd148d-210b-4525-a068-e67b25cb4b76 | 5555a51f-0557 | chapters/b01-eye-of-the-world/ch12-across-the-taren.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -126,5 +127,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–11 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 12.
+- Book 1, Chapters 1–12 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 13.
 - Open ideas: cards for Baerlon and Caemlyn (rows exist in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.
