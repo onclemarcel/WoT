@@ -65,7 +65,7 @@ The chapter's code is in what is said carefully: Moiraine's exact words about th
 
 | Sign | What the party sees | What it means |
 | --- | --- | --- |
-| "He will remember too much as it is... If I stand out in his thoughts" | Moiraine leaving the talking to Lan | She wants witnesses to remember a Warder, not an Aes Sedai; an Aes Sedai on the road would be news the Shadow could follow |
+| "He will remember too much as it is... If I stand out in his thoughts" | Moiraine leaving the talking to Lan | She wants witnesses to remember a Warder, not an Aes Sedai; an Aes Sedai on the road would be news the Shadow could follow. Reader's notes give a second reading, with "he" as Rand |
 | "An unfortunate occurrence" | A strange accident | Moiraine sank the ferry. Her words are true and admit nothing, the Aes Sedai way of speaking |
 | "Not ten women in Tar Valon could do that unaided" | A boast | Moiraine is among the strongest Aes Sedai of her time |
 | "Such talk can bring worse than the Dragon's Fang scrawled on your door" | Lan's caution | The Dragon's Fang marks a house suspected of the Dark One; fear of Darkfriends is already in ordinary villages |
@@ -77,6 +77,29 @@ The chapter's code is in what is said carefully: Moiraine's exact words about th
 | "Perhaps even the Amyrlin Seat, one day" | Encouragement | A promise the series keeps |
 | Moiraine "seemed taller, almost looming" | A trick of moonlight | Often read as a small use of the Power, or of Aes Sedai presence; the text never says |
 | Lan's camp, wood "I left" still dry | Foresight | Lan scouted this route earlier, before Winternight; the escape was planned in advance |
+
+## Reader's notes
+
+The notes question who "he" is in Moiraine's half-heard order, and track a real change: Lan starts treating Rand as someone to teach, not just to herd.
+
+| Note | Reading |
+| --- | --- |
+| "You must handle it... He will remember too much" is about Rand: Moiraine asks Lan to teach him, mainly the sword, after seeing him draw it at the Draghkar | A possible reading, but the text leans toward the ferryman. The line comes just after Lan has woken Hightower and as they walk to his landing. At the landing Lan does all the talking and paying while Moiraine stays apart, looking at the river. "Remember too much as it is" fits a stranger who has seen the fog and the party at night. Rand already knows exactly what Moiraine is, so she cannot avoid standing out in his thoughts. The text never names "he", so both readings stay open |
+| Moiraine saw Rand's sword in Chapter 11 | Yes: Moiraine, Lan and Egwene all look at him with Tam's sword drawn at the sky. In Chapter 12 Lan's first act at the landing is to have Perrin show the axe, and Rand shows the sword without being told twice. Lan now counts the boys' weapons as part of the party's strength |
+| Lan's longest talk with Rand is in Chapter 12, with explanations instead of orders | Largely agreed. Earlier Lan talks to Rand to scold, warn or persuade. On the ferry he answers a question Rand asked for its own sake, about people, not danger, and says he is surprised Rand asks. Then he tells him why to stop talking. It is the first exchange where Lan teaches without being made to |
+| A change of mindset in Lan toward Rand | Agreed; the table below traces it |
+
+**Lan and Rand, Chapters 7 to 12.** Each exchange is a step from contempt toward tutoring.
+
+| Chapter | What Lan says to Rand | Mode |
+| --- | --- | --- |
+| 7 | "I don't know that you are worth it, sheepherder, no matter what she says" | Contempt |
+| 8 | Facts on Fades and Trollocs; "Are you willing to bet your village on it?"; questions about Tam's sword | Persuasion, with Moiraine, toward a goal |
+| 10 | "Anything can be a weapon", to end the boys' joking | Correction |
+| 11 | "You, of all people, should have suspected it"; explains why Moiraine can wash fatigue from others only; "Don't be so eager, sheepherder" | Explanation, still with a rebuke |
+| 12 | Shows him how to stand at the landing; answers his question on Taren Ferry folk; explains Darkfriends, the horses' hidden exhaustion, and why to hold his tongue | Teaching |
+
+**Craft point.** A mentor's change can be shown without a word about it: the same man, the same pupil, and each conversation a little longer and a little less sharp.
 
 ## Thread setup
 
