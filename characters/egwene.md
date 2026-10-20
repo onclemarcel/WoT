@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · Chapter cards: [EotW Ch. 1 — An Empty Road](../chapters/b01-eye-of-the-world/ch01-an-empty-road.md) · [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 4 — The Gleeman](../chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · [EotW Ch. 10 — Leavetaking](../chapters/b01-eye-of-the-world/ch10-leavetaking.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md) · Arcs: [WoT Arc — The Road with Elyas](../arcs/b01-road-with-elyas.md)
 
 Egwene's arc is about ambition becoming leadership. The girl who wants to see the places in the stories becomes Amyrlin Seat, reunites a broken White Tower from inside its prison, and dies at the Last Battle holding the line. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -11,10 +11,34 @@ Egwene's arc is about ambition becoming leadership. The girl who wants to see th
 She is named in Chapter 1, appears only in a comparison in Chapter 2, and steps on stage in Chapter 3.
 
 - **Who she is:** the Mayor's daughter, two years younger than Rand, the girl he can't speak to without stumbling.
-- **What has changed:** she now wears a braid, so she is of marriageable age, and she is Nynaeve's apprentice. In Chapter 13 she combs the braid out on the road north: "Aes Sedai don't braid their hair." The sign of her place in the village gives way to the sign of the place she wants.
+- **What has changed:** she now wears a braid, so she is of marriageable age, and she is Nynaeve's apprentice.
 - **What she wants:** to see the places in the stories; she might serve as Wisdom in a village outside the Two Rivers.
-- **Her gift:** Nynaeve says she has a talent and can learn to listen to the wind. Chapter 12 names it: Moiraine knew her for a channeler at first sight, guides her first touch of the Source through a blue stone, and tells her the last flicker of light was "yours alone". Egwene's answer: "I'm going to be an Aes Sedai!"
+- **Her gift:** Nynaeve says she has a talent and can learn to listen to the wind.
 - **Her stance:** grave and sure of herself; she dismisses the boys' rider as a man on a horse, and turns Rand's "no one ever leaves" into a quarrel.
+
+## Book 1 so far (Chapters 4 to 13)
+
+In ten chapters Egwene goes from the Wisdom's apprentice who asks for stories about leaving home, to a girl on the road to Tar Valon who has touched the Source and combed out her braid. Each step is her own choice, and each one takes her further from Rand.
+
+| Chapter | What she does | What shifts |
+| --- | --- | --- |
+| 4 | Asks Thom for Lenn and Salya, the tales of flying to the moon and walking among the stars | Her wish to leave is told in code; Rand thinks she is teasing him |
+| 7 | Works in Mistress Calder's infirmary beside Nynaeve after the attack; hugs Rand, buttons done up crooked | The apprentice healer under strain; her care for Rand still plain |
+| 10 | Deduces the whole plan from a horse purchase and walks into the stable with a bundle: "I've dreamed about it as long as you have" | She chooses to leave. Moiraine accepts her for "a reason"; Lan shouts "No" |
+| 11 | Exhausted at Watch Hill, then smiling in delight in the middle of the chase | The adventure she wanted, with its fear inside it |
+| 12 | Leans forward to Moiraine's lesson; the last flicker of the blue stone is "yours alone"; "I'm going to be an Aes Sedai!" | The Wisdom's path becomes the Aes Sedai's. Rand: "She has to fail" |
+| 13 | Combs out her braid; nightly talks with Moiraine; quarrels with Rand: "Grow up, Rand! Forget the stories and use your eyes" | She drops the village sign of womanhood for the Tower's. She and Rand stop speaking for two days |
+
+**What Chapter 13 reveals.** The braid is the visible change; the eavesdropped talk is the hidden one. Egwene asks why men were strongest in Earth and Fire, then whether it was only the men who broke the world. Moiraine names what lies under the questions: she is afraid, and "stubbornly refusing to let your fear best you". Moiraine also tells her what she has given up: she would have become Wisdom, or sat in the Women's Circle running the village while the Council thought it did. Egwene's fear is specific: that the Power will change her. Moiraine's answer is the card's key line for her: Aes Sedai are "human", and becoming one "will not change you from what you are".
+
+**Small signs of the same change.**
+
+- **Her voice trembles** when the Two Rivers drops out of sight, though she scolds the boys for talking of home.
+- **She stays back** when Lan reports to Moiraine, though Moiraine has begun to treat her as the one in charge of the Emond's Fielders.
+- **She defends Moiraine** against Rand with the evidence of her eyes: the village saved, Tam healed.
+- **Her guess** at the second channeler, Kari Thane or Lara Ayellan, shows she has not thought of Nynaeve.
+
+**How she and Rand diverge.** Rand thinks there is a difference between seeking an adventure and having it forced on you. Egwene sought hers. The same week that makes him homesick makes her reach forward, and her twice-repeated "Men!" in Chapter 13 is her verdict on that difference.
 
 ## Arc
 
@@ -80,4 +104,4 @@ Egwene's signature sense is the dream: she is a Dreamer, and much of her power a
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3 as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her raising, her captivity in the Tower and her death.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. The arc and everything after are from memory of the books; confirm book numbers, especially for her raising, her captivity in the Tower and her death.
