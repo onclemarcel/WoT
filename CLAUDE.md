@@ -97,6 +97,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT — Aiel | e5c21981-9b94-429b-b19e-fc9201e85c2f | fda28933-e10c | world/aiel.md |
 | WoT — The Aiel War | 302a1c63-0f00-44a6-9b6b-f106885e579d | a1caebb1-b6de | world/aiel-war.md |
 | WoT — Emond's Field Villagers | 38aefb21-a1c4-45db-bde0-6e2dc2edac08 | 2ee6e328-0e33 | world/emonds-field-villagers.md |
+| WoT — Taren Ferry | ca193f86-f4e9-4a1d-a621-c38149bc44d0 | ab6ec96f-ef86 | world/taren-ferry.md |
 
 Add a row here for every new card. The doc link is `https://claude.ai/code/artifact/<project id>`.
 

@@ -78,7 +78,7 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 12.
 | Healing | power | 8: Moiraine heals Tam; needs the patient's "will and strength"; far stronger in the Age of Legends; 11: Moiraine washes the fatigue from horses and riders; she cannot do it for herself | [WoT — Aes Sedai](aes-sedai.md) |
 | "Heron on the Wing" | song | 6: played in Rand's picture of Winternight | — |
 | The heron-mark sword | object | 5: from Tam's chest, cuts ash and stays sharp; 6: Rand wears it; 8: Lan: in some places the heron marks a master swordsman; 10: Mat jokes Rand is becoming a Warder; 11: Rand draws it at the Draghkar without noticing | [WoT Character — Tam](../characters/tam.md) |
-| Hilltop, Stoneboat | person | 11: names of the few Taren Ferry folk Rand has met | — |
+| Hilltop, Stoneboat | person | 11: names of the few Taren Ferry folk Rand has met | [WoT — Taren Ferry](taren-ferry.md) |
 | Illian | place | 3: in Fain's news | [WoT — Illian](illian.md) |
 | Ishamael | person | 1: one of Mat's nursery fears | — |
 | "Jaem's Folly" | song | 6: played in Rand's picture of Winternight | — |
@@ -95,7 +95,7 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 12.
 | Maidens of the Spear | people | 6: unnamed, "their women fight alongside the men"; Rand's birth mother | [WoT — Aiel](aiel.md) |
 | Manetheren | place | 1: the old foundation by the inn; 2: Moiraine's "places wear many names"; 3 and 4: the foundation as seat and stage; 7: Thom sits on the old foundation; 9: Moiraine tells its fall to the mob | [WoT — Manetheren](manetheren.md) |
 | Marath | place | 6: the field "carpeted with the dead" in Tam's fever | — |
-| Master Hightower | person | 11: Taren Ferry's ferryman, narrow-faced; agrees to a night crossing for gold; 12: stares into the fog during the crossing; his ferry breaks up in a whirlpool; flees with Lan's gold | — |
+| Master Hightower | person | 11: Taren Ferry's ferryman, narrow-faced; agrees to a night crossing for gold; 12: stares into the fog during the crossing; his ferry breaks up in a whirlpool; flees with Lan's gold | [WoT — Taren Ferry](taren-ferry.md) |
 | Mat Cauthon | person | 1–4: on stage; 6: Rand pictures his Winternight pranks; 7: alive; his father's house burned to the stones; 8: one of the three hunted; must leave too; 9: on stage with bow and quiver, "This isn't much like the stories"; 10: leaves with his bow; left a note for his family; 11: wants a mutton pie at the White Boar; mocks Hightower's name; 12: asks Moiraine about the ferry and trails off | [WoT Character — Mat](../characters/mat.md) |
 | The miller's family (the Thanes) | person | 8: slept through half the attack | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 | Mistress al'Vere | person | 2: bread and honeycakes, never matchmakes for Tam; 6: Rand longs for her stew; 8: on stage, nurses Tam; "She and I had a long talk"; 9: named Marin; feeds and washes Tam | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
@@ -136,8 +136,8 @@ Seeded from the cards for Chapters 1–6; updated through Chapter 12.
 | The taint on Shadowspawn blades | power | 8: wounds that will not heal; Moiraine removes it from Tam | [WoT Thread — The Shadow](../threads/shadow.md) |
 | Tam al'Thor | person | 1–5: on stage; 6: in fever, his war and the baby in the snow; 7: unconscious, dying; 8: healed by Moiraine, asleep; 9: awake; warns Rand about Aes Sedai and gives him the sword; 10: Rand tells Moiraine he told Tam; 11: Rand recalls he was healed by the Power and "seemed all right" | [WoT Character — Tam](../characters/tam.md) |
 | Tar Valon | place | 2: the flame on the coin; 3: Aes Sedai ride south from it; 6: the Shining Walls; 8: "a place of safety", the boys' destination; its knowledge since the Time of Madness; 9: unnamed, the island city of white walls and the white tower in Rand's dream; 10: the party's destination; 11: Lan hopes Moiraine does not tire before they reach it; 12: Moiraine means to see them safely there; training there for Egwene | [WoT — Tar Valon and the White Tower](tar-valon.md) |
-| The Taren | place | 11: the river the party must cross before it can stop; floods each spring; 12: crossed by ferry in fog; "not half as wide" as they heard, say Mat and Perrin | [WoT — The Two Rivers](two-rivers.md) |
-| Taren Ferry | place | 1: the outside world; 4: the one road in; 8: in Rand's vision of ashes; 10: the party rides for it; Trollocs will not cross "as easily"; 11: reached in fog before dawn; tall houses on redstone foundations; its folk known for slyness; 12: the landing, the barge and its guide-ropes; its ferry destroyed | [WoT — The Two Rivers](two-rivers.md) |
+| The Taren | place | 11: the river the party must cross before it can stop; floods each spring; 12: crossed by ferry in fog; "not half as wide" as they heard, say Mat and Perrin | [WoT — Taren Ferry](taren-ferry.md) |
+| Taren Ferry | place | 1: the outside world; 4: the one road in; 8: in Rand's vision of ashes; 10: the party rides for it; Trollocs will not cross "as easily"; 11: reached in fog before dawn; tall houses on redstone foundations; its folk known for slyness; 12: the landing, the barge and its guide-ropes; its ferry destroyed | [WoT — Taren Ferry](taren-ferry.md) |
 | The Tarendrelle | place | 9: the river Manetheren's army held for ten days | [WoT — Manetheren](manetheren.md) |
 | Thakan'dar | place | 8: the valley of forges on Shayol Ghul's slopes where Trolloc blades are made | — |
 | "The Wind in the Barley" | song | 6: Haral Luhhan's song | — |

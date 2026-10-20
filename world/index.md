@@ -14,6 +14,7 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | The Two Rivers | Remote farmland, the heroes' home | Rand, Perrin, Mat, Egwene, Nynaeve | [WoT — The Two Rivers](two-rivers.md) |
 | Ghealdan | Nation of Logain's rising, later of the Prophet | Rand, Perrin, Faile | [WoT — Ghealdan](ghealdan.md) |
 | Illian | Southern port nation, rival of Tear | Rand, Mat | [WoT — Illian](illian.md) |
+| Taren Ferry | The Two Rivers' northern village and only crossing; sly folk, a rope ferry over the Taren | Rand, Lan, Moiraine, Thom | [WoT — Taren Ferry](taren-ferry.md) |
 | Baerlon | Andoran mining town north of the Two Rivers; the first stop beyond it | Rand, Mat, Perrin, Moiraine, Thom | to come |
 | Caemlyn | Capital of Andor | Rand, Mat, Elayne, Thom | to come |
 | Tar Valon and the White Tower | Seat of the Aes Sedai | Egwene, Nynaeve, Elayne, Moiraine | [WoT — Tar Valon and the White Tower](tar-valon.md) |

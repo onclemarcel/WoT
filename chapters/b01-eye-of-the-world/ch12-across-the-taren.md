@@ -6,7 +6,7 @@ Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 11 
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md)
 
-World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Aes Sedai](../../world/aes-sedai.md)
+World: [WoT — The Two Rivers](../../world/two-rivers.md) · [WoT — Taren Ferry](../../world/taren-ferry.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Aes Sedai](../../world/aes-sedai.md)
 
 Pattern: [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md)
 

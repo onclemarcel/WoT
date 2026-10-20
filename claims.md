@@ -55,6 +55,8 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C71 | Lan scouted the route and the tree-cave camp before Winternight | Ch. 12 | B1 | open |
 | C72 | Egwene becomes Amyrlin ("perhaps even the Amyrlin Seat") | Ch. 12, Egwene | B6 | open (see C49) |
 | C73 | Moiraine "looming" is a small use of the Power or Aes Sedai presence | Ch. 12 | B1–B2 | reading |
+| C74 | Taren Ferry is back in view when Perrin returns to the Two Rivers, and whether its ferry is rebuilt | Taren Ferry | B4 | open |
+| C75 | The Taren is the river the Manetheren tale calls the Tarendrelle | Taren Ferry, Manetheren | B1–B4 | open |
 
 ## Book 2 to Book 4
 
