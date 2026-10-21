@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 4 — The Gleeman](../chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · Later bound to: [WoT Character — Moiraine](moiraine.md)
+Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 4 — The Gleeman](../chapters/b01-eye-of-the-world/ch04-the-gleeman.md) · Later bound to: [WoT Character — Moiraine](moiraine.md) · Chapter cards: [EotW Ch. 7 — Out of the Woods](../chapters/b01-eye-of-the-world/ch07-out-of-the-woods.md) · [EotW Ch. 10 — Leavetaking](../chapters/b01-eye-of-the-world/ch10-leavetaking.md) · [EotW Ch. 12 — Across the Taren](../chapters/b01-eye-of-the-world/ch12-across-the-taren.md) · [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
 
 Thom's arc is about a man hiding from the world learning to step back into it. The disgraced court bard who makes "a point of never knowing anything about Aes Sedai" becomes the boys' teacher of the world, a player in the Game of Houses again, and finally the husband of the Aes Sedai he distrusted on sight. This card is a first version; it will deepen as the chapter cards advance.
 
@@ -18,6 +18,39 @@ Chapter 4 shows Thom almost entirely from outside, through a performance, and ev
 - **Why he is here:** the Council hired him for Festival, and a fallen court bard is safest in a backwater. He arrives just as an Aes Sedai, a Darkfriend peddler and a Myrddraal close on three boys; the Pattern pulls people toward ta'veren, and his later motive, saving a young man from Aes Sedai as he could not save Owyn, grows from here.
 - **What he already knows:** he knows Fain by sight and by reputation, and brings Baerlon's news. His ironic lines ("You lads are widely traveled, then, it seems") show a man who has seen far more than he says.
 - **His stance:** prickly and vain, but quick to apologise when Egwene calls out his mockery.
+
+## Book 1 so far (Chapters 7 to 13)
+
+The gleeman who wanted nothing to do with Aes Sedai ends Chapter 13 riding in one's party, healed by her against his will. He joins uninvited, keeps his distrust, and slowly finds a role: the one adult who explains the world to the boys instead of steering them. His past shows only at the edges: what he knows, what he will not say, and what makes him growl.
+
+| Chapter | What he does | What shifts |
+| --- | --- | --- |
+| 7 | Helps carry Tam; prods the Mayor about the Dragon's Fang, then lets Bran be the one to name Aes Sedai; warns their reasons are their own | A stranger who steers without seeming to, and keeps his doubts about Aes Sedai alive |
+| 8 | Leaves the sickroom to smoke; Lan distrusts him | He keeps out of Moiraine's way |
+| 10 | Drops from the hayloft with flute, harp and saddlebags: "I am not a cheese for slicing"; knows what a Draghkar is and that "worse than Trollocs and Halfmen were created" | He chooses the road; Moiraine's sharp look marks him as knowing too much for a gleeman |
+| 11 | Asks for a few hours' rest; first into the saddle when the Draghkar strikes | Theatrical complaint, fast action |
+| 12 | The dagger trick at the landing; asks if the fog could have covered them to Baerlon, then apologises; growls when Moiraine speaks of gentling; pulls Rand down: "It's beyond you now, boy" | Respect for Moiraine's power; a private grief; sympathy for Rand |
+| 13 | Scowls through Moiraine's healing; tells stories with happy endings; teaches juggling; tries to cover for the boys; explains the Karaethon Cycle to Rand | The reluctant teacher, still wary of her |
+
+**What Chapter 13 shows.**
+
+- **Healed against his will.** He jerks away from Moiraine's hands; she seizes his grey head "with a look that allowed no nonsense", and smiles mockingly when he scowls through it, refreshed.
+- **Stories chosen with care.** Lan bans his harp and flute, so he juggles and tells tales: Mara and the Three Foolish Kings, Anla the Wise Counselor, the Great Hunt of the Horn, "always with a happy ending and a joyous homecoming", for boys who may not go home.
+- **The teacher.** Juggling lessons each night; Mat reaches four stones. On Baerlon's streets he answers Rand about Tear, the Stone and the Sword That Cannot Be Touched, glancing first to make sure Moiraine cannot hear.
+- **Prophecy, unwanted.** "May the Stone stand till I am dust": he knows the Karaethon Cycle and wants no part of its coming true. "You ask an awful lot of questions, boy."
+- **Defending the boys.** "The lads were just-": Moiraine talks right over him. After her threat he cannot sleep either.
+- **A past in Baerlon.** Avin remembers letting him through "some days back" and teases him about his tricks downcountry. He came south through the same gate, alone.
+- **The city sneer.** Mat breathes "So that's a city"; Thom snorts "City!" A man who has seen real ones.
+
+**His truce with Moiraine.**
+
+| Chapter | Moment | Where it stands |
+| --- | --- | --- |
+| 4 | Stops mid-story and bows when she appears; "not pleased at all" | Avoidance |
+| 7 | Lets Bran name Aes Sedai; warns their reasons are their own | Suspicion |
+| 10 | Joins her party uninvited; her sharp look at his Draghkar lore | Wary company |
+| 12 | Questions her plan, then apologises; growls at gentling | Respect, with an old wound |
+| 13 | Fights her healing and loses; she mocks him; he guards his words when she is near | An uneasy truce |
 
 ## Arc
 
@@ -94,4 +127,4 @@ Thom's signature sense is sound: his voice, his harp and his flute. He reads peo
 
 ## Sources
 
-The starting point is checked against Chapter 4 as you supplied it. Everything else is from memory of the books; confirm book numbers, especially for Moiraine's letter, his marriage, and the details of Owyn and Dena.
+The starting point is checked against Chapter 4, and the Book 1 section against the Chapter 7 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for Moiraine's letter, his marriage, and the details of Owyn and Dena.
