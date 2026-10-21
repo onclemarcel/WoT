@@ -2,7 +2,7 @@
 
 Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 13 — Choices](ch13-choices.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
-Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Tam](../../characters/tam.md)
+Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Tam](../../characters/tam.md) · [WoT Character — Min](../../characters/min.md)
 
 World: [WoT — Ba'alzamon](../../world/baalzamon.md) · [WoT — Baerlon](../../world/baerlon.md) · [WoT — Children of the Light](../../world/children-of-the-light.md) · [WoT — Ghealdan](../../world/ghealdan.md) · [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — The Two Rivers](../../world/two-rivers.md)
 
@@ -39,7 +39,7 @@ The waking half of the chapter is about trust: who may hear what. The dream half
 | Thom | Grand, then sharp | A long soak, and an audience | "I am a little tired of hearing my own stories back from you" |
 | Master Fitch | Plump, kind, endlessly apologetic | His guests content | Mocks the Whitecloaks' Aes Sedai hunt to an Aes Sedai's face |
 | Ara, the bath attendant | Wary, then too talkative | To learn if there is trouble "downcountry" | Lets slip "Trollocs up in Saldaea", then shuts his mouth |
-| Min (unnamed on stage) | Quick, watchful | Unknown | Looks sharply at the young men, nods to Moiraine, hurries off |
+| Min (unnamed on stage; see her card) | Quick, watchful | Unknown | Looks sharply at the young men, nods to Moiraine, hurries off |
 | Ba'alzamon | Patient, mocking, then furious | Rand's consent: to drink, to doubt, to serve | "Are you the one?"; breaks a rat's back with a finger |
 
 **Named but not on stage:** Master al'Vere and his daughters, run the Winespring Inn by comparison; the Coplins, for Perrin's bragging; Mari and Cinda, Fitch's maids; Governor Adan, who will not help the Whitecloaks; Avin the gatekeeper, whose news Lan confirms; Logain, the false Dragon, victor in Ghealdan; Tam, whose void Rand reaches for; the Wisdom, half-remembered in the dream; Lews Therin Kinslayer, Artur Hawkwing, Davian, Yurian Stonebow, Guaire Amalasan and Raolin Darksbane, in Ba'alzamon's history; the Amyrlin Seat; the Forsaken; the Creator.

@@ -69,8 +69,9 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C85 | Mat and Perrin had the same Ba'alzamon dream | Ch. 14, Ba'alzamon | B1, next chapters | open (see C55) |
 | C86 | Davian, Yurian Stonebow, Guaire Amalasan and Raolin Darksbane were all false Dragons | Ch. 14, Tales and Legends | B1–B2 | open (Ch. 14: Ba'alzamon lists them beside Logain) |
 | C87 | Hawkwing's armies across the Aryth Ocean are the "doom yet to come": the Seanchan | Ch. 14 | B2 | open |
-| C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14 | B1, next chapters | open (Ch. 14: Moiraine asks "Is Min still here?" just before) |
+| C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14, Min | B1, next chapters | open (Ch. 14: Moiraine asks "Is Min still here?" just before) |
 | C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
+| C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open |
 
 ## Book 2 to Book 4
 
