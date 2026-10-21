@@ -17,7 +17,7 @@ Chapters 1 to 3 show Rand before anything has happened to him, and plant almost 
 - **His tools:** Tam's flame and the void, which he cannot hold while he thinks of the rider.
 - **His blind spot:** he calls the Dragon who saves mankind a fool's tale and says no one ever leaves the Two Rivers.
 
-## Book 1 so far (Chapters 4 to 13)
+## Book 1 so far (Chapters 4 to 14)
 
 In ten chapters Rand loses almost everything that defined him in Chapters 1 to 3: his home, his certainty about his father, and his place beside Egwene. What he gains, he mostly does not notice: a sword, a teacher, and a first touch of the Power. Unlike Egwene, he never chooses the road; it is chosen for him, and the book's question is whether that is true.
 
@@ -33,6 +33,7 @@ In ten chapters Rand loses almost everything that defined him in Chapters 1 to 3
 | 11 | Wills Bela to run, with prickling skin and freezing bones; draws the sword at the sky without noticing | His first touch of the One Power, unknowing; his hands learning to fight before his mind agrees |
 | 12 | Asks Lan about Taren Ferry folk; hears that men who channel die or are gentled; "She has to fail" | Lan starts to teach him; the lesson's darkest rule is about him, and he does not know it |
 | 13 | Finds the flame and the void in Lan's sword lesson; quarrels with Egwene about Aes Sedai and Darkfriends; eavesdrops on Moiraine | The void becomes a fighter's tool; he and Egwene stop speaking; he learns of a second channeler |
+| 14 | Covers for Mat in the bath; tries to apologize to Egwene; dreams of Ba'alzamon, refuses his wine, defends Tam and his mother, and wakes with a headache | The Shadow gets a name and a face; his first real choice against it is to put a cup down. He wonders whether to trust Moiraine with the dreams |
 
 **What Chapter 13 shows.** The quiet week turns Rand inward and backward.
 
@@ -125,4 +126,4 @@ Rand's signature inner sense is the void: an emptiness he enters to act without 
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied; the Power in Chapter 11 is a reading the text has not yet named (claim C65). The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 14 cards, all from the text you supplied; the Power in Chapter 11 is a reading the text has not yet named (claim C65). The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.

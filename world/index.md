@@ -37,6 +37,7 @@ This index lists the shared entities of the world. Each card holds the entity's 
 | Wolves | A people with memory, linked to wolfbrothers | Perrin, Elyas | to come |
 | Asha'man | Rand's order of male channelers | Rand, Perrin, Logain | to come |
 | The Forsaken | The Dark One's chief servants | All | to come |
+| Ba'alzamon | The Shadow's face in the boys' dreams, taken for the Dark One | Rand, Mat, Perrin | [WoT — Ba'alzamon](baalzamon.md) |
 | Emond's Field villagers | The village chorus: Bran, Cenn, Haral and the rest | Rand, Perrin, Nynaeve | [WoT — Emond's Field Villagers](emonds-field-villagers.md) |
 
 ## History

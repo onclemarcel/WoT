@@ -50,6 +50,8 @@ Every tale named so far, in the order the chapters give them. The last column sa
 | The fall of Manetheren: Aemon, Eldrene and the Red Eagle | Ch. 9, Moiraine, to the mob in the inn yard | The Two Rivers' own lost history, told as a lament: "Weep for Manetheren" | True history in the story; the first tale told to change listeners rather than entertain them. See [WoT — Manetheren](manetheren.md) |
 | The Great Hunt of the Horn | Ch. 13, Thom, by the campfire | A tale "filled with glory and adventure", told with a happy homecoming | Real: the title of Book 2, and a hunt the heroes join |
 | The Karaethon Cycle (the Prophecies of the Dragon) | Ch. 13, Thom, to Rand in Baerlon's streets | The Stone of Tear will not fall until the People of the Dragon come, and the Dragon wields the Sword That Cannot Be Touched; banned in Emond's Field by the Wisdom | True prophecy; Rand will fulfil it in Book 3 |
+| Ba'alzamon's history: Lews Therin Kinslayer, the Covenant of the Ten Nations, Hawkwing's deathbed | Ch. 14, Ba'alzamon, in Rand's dream | The tales Rand knows, retold as the Dark One's victories: Lews Therin killing all his blood and raising Dragonmount; three centuries of Trolloc Wars shattering the Second Covenant; Hawkwing burning his councilors and crying for Tar Valon's fall | The events are history in the story; how much was his doing is only his claim. The first tale told to break a listener rather than teach one |
+| The false Dragons: Davian, Yurian Stonebow, Guaire Amalasan, Raolin Darksbane | Ch. 14, Ba'alzamon | Men the Amyrlin "used" until consumed, as Logain is used now | Real false Dragons of earlier centuries (from memory; their dates are worth confirming) |
 
 ## How Jordan built a world of stories
 
@@ -63,4 +65,4 @@ Jordan made the world feel old by giving it more stories than the plot needs. He
 
 ## Sources
 
-The tale names and Thom's history are from Chapters 3 and 4 as you supplied them; the Manetheren row is from Chapter 9. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.
+The tale names and Thom's history are from Chapters 3 and 4 as you supplied them; the Manetheren row is from Chapter 9, the Great Hunt and Karaethon rows from Chapter 13, and Ba'alzamon's history from Chapter 14. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.

@@ -16,7 +16,7 @@ He arrives in Chapter 2 almost without words, defined by how he moves and how he
 - **What Ewin guesses:** "a Warder"; Mat laughs it off; Ewin is right.
 - **What he hides:** he is al'Lan Mandragoran, uncrowned king of Malkier, a Borderland swallowed by the Blight, and Moiraine's Warder.
 
-## Book 1 so far (Chapters 4 to 13)
+## Book 1 so far (Chapters 4 to 14)
 
 In ten chapters the silent swordsman becomes the party's scout, fighter, purse and, by Chapter 13, its teacher. Two loyalties drive everything he does: Moiraine, whose strength he guards more jealously than his own, and the mission, which he serves with contempt for anything that slows it. The change is in how he treats the boys, Rand above all.
 
@@ -30,6 +30,7 @@ In ten chapters the silent swordsman becomes the party's scout, fighter, purse a
 | 11 | "Only one of us will ride tired"; explains Moiraine's healing to Rand; buys the ferry with gold and a grip on the wrist | Explanation, still with a rebuke: "Don't be so eager, sheepherder" |
 | 12 | Stages the show of force at the landing; answers Rand's question about Taren Ferry folk and Darkfriends; explains the horses' hidden exhaustion; has a camp ready across the river | Teaching without being asked; planning far ahead |
 | 13 | Scouts at twice the party's pace on Mandarb ("Blade"); starts weapons lessons on his own; "Blank your mind, sheepherder"; becomes "Master Andra" in Baerlon | The teacher; Moiraine approves the lessons only the next evening |
+| 14 | Gathers news in the common room; throws the bath attendant out and silences Mat: "Don't even think about Trollocs"; listens at the dining-room door; names Logain the victor in Ghealdan | Distrust as a method: "until we reach Tar Valon, I suspect everyone. There, I'll suspect only half", and he means it |
 
 **What Chapter 13 shows.**
 
@@ -107,4 +108,4 @@ Lan's signature sense is the bond: he feels Moiraine's presence and condition at
 
 ## Sources
 
-The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for the passing of his bond and his marriage.
+The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 14 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for the passing of his bond and his marriage.

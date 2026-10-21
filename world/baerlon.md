@@ -2,7 +2,7 @@
 
 Oct 20, 2026 · @OncleMarcel
 
-Up: [WoT — World Index](index.md) · South: [WoT — Taren Ferry](taren-ferry.md) · Chapter cards: [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md)
+Up: [WoT — World Index](index.md) · South: [WoT — Taren Ferry](taren-ferry.md) · Chapter cards: [EotW Ch. 13 — Choices](../chapters/b01-eye-of-the-world/ch13-choices.md) · [EotW Ch. 14 — The Stag and Lion](../chapters/b01-eye-of-the-world/ch14-the-stag-and-lion.md)
 
 Baerlon is the heroes' first town, and it is a town only by the Two Rivers' measure. Rand thinks it bigger than all four Two Rivers villages together; Thom snorts at the word "city". For twelve chapters it is the name at the end of the road. In Chapter 13 it becomes a walled place full of strangers, Whitecloaks and rumours, where Moiraine and Lan are known under other names.
 
@@ -10,7 +10,7 @@ Baerlon is the heroes' first town, and it is a town only by the Two Rivers' meas
 - **What it looks like:** a log palisade nearly twenty feet tall with wooden watchtowers; slate and tile roofs, not one thatched; hundreds of chimneys; dirt streets of warehouses and high fences near the gates.
 - **The gates:** shut from sundown to sunrise. A side gate is kept by Avin, who knows "Mistress Alys"; travellers are told to go round to the Whitebridge Gate.
 - **The people:** wagoneers, miners and smelters, a town Watch, and a Governor who keeps the peace by letting only about ten Whitecloaks inside at a time.
-- **The Stag and Lion:** an inn four storeys high, more than twice the size of the Winespring Inn, run by the round, talkative Master Pitch, with a back gate in the fence that Lan opens with his dagger.
+- **The Stag and Lion:** an inn four storeys high, more than twice the size of the Winespring Inn, run by the round, talkative Master Fitch. It has a bath chamber of a dozen copper tubs, private dining rooms, and a back gate in the fence that Lan opens with his dagger.
 - **The mood:** weather "all crazy", wolves howling up to the walls at night, the Dragon's Fang on some doors.
 
 ## Baerlon in Book 1
@@ -25,6 +25,7 @@ The town grows from a source of merchants into the party's first refuge, and the
 | 10 | The party has provisions to reach it | The first goal of the road |
 | 12 | Thom wishes the fog had covered them to it; Moiraine kept that road clear on purpose | The destination the Fade must not guess |
 | 13 | Reached after almost a week; the wall, the gate, Avin's news, the Stag and Lion | First town, first strangers, first Whitecloaks |
+| 14 | Every inn full of miners and smelters down from the mountains with tales of wolves; an empty market after the winter; Whitecloaks claiming an Aes Sedai in town, Governor Adan refusing them; Min at the Stag and Lion | Rest, news and a warning: even here, trust stays small |
 
 ## Across the series
 
@@ -48,4 +49,4 @@ The town grows from a source of merchants into the party's first refuge, and the
 
 ## Sources
 
-The Book 1 section is built from the Chapter 1, 4, 8, 10, 12 and 13 cards, which were checked against the text you supplied. The innkeeper is "Pitch" in the pasted text; the name may be Fitch. The series table is from memory and kept thin. Details most worth confirming: that Baerlon is a mining town; that the party leaves it in a hurry; and how often it appears after Book 1.
+The Book 1 section is built from the Chapter 1, 4, 8, 10, 12, 13 and 14 cards, which were checked against the text you supplied. The innkeeper appeared as "Pitch" in the Chapter 13 text; Chapter 14 confirms Fitch. The series table is from memory and kept thin. Details most worth confirming: that the party leaves it in a hurry; and how often it appears after Book 1.

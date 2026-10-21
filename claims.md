@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 13. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 14. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -25,18 +25,18 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
 | C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
 | C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | confirmed, Ch. 12 (Moiraine knew her at first sight and guides her first touch; untaught channelers often become Wisdoms) |
-| C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open |
+| C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open (Ch. 14: Ba'alzamon calls Rand's parents the Tower's breeding stock; Rand defends both) |
 | C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
 | C18 | A dying Aiel Maiden's warning reaches the heroes through the Tinkers | Aiel | B1 | open |
 | C19 | On the road with Elyas: the order of events, who frees Perrin and Egwene from the Whitecloak camp, which wolves die | Road with Elyas | B1 | open |
 | C20 | Thom's distrust of Aes Sedai comes from a personal loss (his nephew Owyn) | Ch. 7, Ch. 12, Thom | B1–B2 | open (Ch. 12: he growls when Moiraine speaks of gentling) |
 | C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
-| C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ch. 13, Ghealdan | B1–B2 | open (Ch. 13: a big battle, Aes Sedai dead, marching toward Tear; still unnamed) |
+| C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ch. 13, Ghealdan | B1–B2 | open (Ch. 13: a big battle, Aes Sedai dead, marching toward Tear; Ch. 14: named Logain, the victor in Ghealdan; his later role not yet shown) |
 | C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
 | C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
-| C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | open |
+| C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed in part, Ch. 14 ("Once more we meet face-to-face"; he names himself Ba'alzamon; Mat and Perrin not yet shown) |
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
 | C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; the rest not yet shown) |
@@ -44,7 +44,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
 | C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
 | C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | open |
-| C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | open |
+| C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | confirmed in part, Ch. 14 (Ba'alzamon's telling: Lews Therin killed his wife, children and all his blood, called down the Power, and Dragonmount rose as his tomb; the prologue itself was not pasted) |
 | C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
 | C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11, Rand | B1–B2 | open (Ch. 11 evidence: Moiraine finds Bela "the least weary of all" before touching her; the text does not yet name it) |
 | C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself; Ch. 12: the fog cost Moiraine "extra effort") |
@@ -60,10 +60,17 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C76 | The Sword That Cannot Be Touched is Callandor; Rand takes it and the Stone of Tear falls | Ch. 13, Tales and Legends | B3 | open |
 | C77 | The People of the Dragon in the prophecy are the Aiel | Ch. 13 | B3 | open |
 | C78 | The void becomes Rand's way to the Source | Ch. 13 | B1–B2 | open |
-| C79 | The endless winter is the Dark One's touch on the world | Ch. 13, Ghealdan | B1 | open |
+| C79 | The endless winter is the Dark One's touch on the world | Ch. 13, Ghealdan | B1 | open (Ch. 14: Fitch's cellars and the market empty after the winter; wolves take the livestock) |
 | C80 | Moiraine knows Rand eavesdropped | Ch. 13 | B1 | reading |
-| C81 | The Stag and Lion's innkeeper is Master Fitch ("Pitch" in the pasted text) | Ch. 13, Baerlon | B1, Ch. 14 | open |
-| C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | open (Ch. 13: miners and smelters named) |
+| C81 | The Stag and Lion's innkeeper is Master Fitch ("Pitch" in the pasted text) | Ch. 13, Baerlon | B1, Ch. 14 | confirmed, Ch. 14 (the pasted text names him Fitch throughout, "Pitch" only twice; Ch. 13 and Baerlon cards fixed) |
+| C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | confirmed in part, Ch. 14 (men from the mines and smelters fill every inn; the hurried departure not yet shown) |
+| C83 | Ba'alzamon is not the Dark One but a Forsaken, Ishamael, using his master's name | Ch. 14, Ba'alzamon | B1 (hints), B3 (reveal) | open |
+| C84 | "Ba'alzamon" means "Heart of the Dark" in the Old Tongue | Ch. 14, Ba'alzamon | B1 | open |
+| C85 | Mat and Perrin had the same Ba'alzamon dream | Ch. 14, Ba'alzamon | B1, next chapters | open (see C55) |
+| C86 | Davian, Yurian Stonebow, Guaire Amalasan and Raolin Darksbane were all false Dragons | Ch. 14, Tales and Legends | B1–B2 | open (Ch. 14: Ba'alzamon lists them beside Logain) |
+| C87 | Hawkwing's armies across the Aryth Ocean are the "doom yet to come": the Seanchan | Ch. 14 | B2 | open |
+| C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14 | B1, next chapters | open (Ch. 14: Moiraine asks "Is Min still here?" just before) |
+| C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
 
 ## Book 2 to Book 4
 
@@ -73,7 +80,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C25 | Laman cut down Avendoraldera to make a throne | Ch. 6, Aiel War | B2 | open |
 | C26 | Marath, Cairhien and the Shining Walls are battles of the Aiel War; the last, at Tar Valon, ended it | Ch. 6, Aiel War | B2 | open |
 | C27 | Lan fought in the Aiel War | Aiel War | B1–B2, *New Spring* | open |
-| C28 | The mountain where Tam found Rand is Dragonmount | Ch. 6 | B1–B2 | open |
+| C28 | The mountain where Tam found Rand is Dragonmount | Ch. 6 | B1–B2 | open (Ch. 14: "the ashes of many like you are scattered on the slopes of Dragonmount") |
 | C29 | Tam served abroad as a soldier, and as an officer in a foreign army (Illian) | Ch. 5, Tam | B4 | open |
 | C30 | Rand's birth mother was an Aiel Maiden of the Spear | Ch. 6, Aiel | B4 | open |
 | C31 | The Amyrlin speaks of "three ta'veren" from one village | Pattern | B2 | open |
@@ -124,3 +131,4 @@ These cards ask for their book numbers to be confirmed as a whole. Check each ro
 | C59 | Lenn, Salya, Mosk and Materese echo John Glenn, Sally Ride, Moscow and Mother Teresa | Ch. 4, Tales and Legends | reading |
 | C60 | Thom's timely arrival and Narg's lone wait are ta'veren effects | Pattern | reading |
 | C61 | The blue eyes of Lan and Thom, the two men bound to Moiraine, as a pattern | Ch. 4 | reading |
+| C90 | The mirror that cannot show Rand marks him as hidden from, or not fully present to, Ba'alzamon | Ch. 14 | reading |

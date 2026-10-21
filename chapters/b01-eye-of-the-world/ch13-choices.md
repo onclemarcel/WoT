@@ -2,7 +2,7 @@
 
 Oct 20, 2026 · @OncleMarcel
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 12 — Across the Taren](ch12-across-the-taren.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 12 — Across the Taren](ch12-across-the-taren.md) · Next: [EotW Ch. 14 — The Stag and Lion](ch14-the-stag-and-lion.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md)
 
@@ -40,7 +40,7 @@ The week sorts the travellers by what they do with the quiet: the boys relax, Eg
 | Lan | Tireless, sharp-tongued, always scouting | The horses spared and the party unseen | Starts the weapons lessons; "Blank your mind, sheepherder" |
 | Thom | Grudging, then teaching | Comfort, and no talk of prophecy | Explains the Stone of Tear, then: "May the Stone stand till I am dust" |
 | Avin, the gatekeeper | Toothless, eager, chatty | Moiraine's goodwill, and Lan's coin | Brings the news: Whitecloaks, Ghealdan, Aes Sedai dead |
-| Master Pitch, the innkeeper | Round, warm, talkative | His guests' comfort | Welcomes "Mistress Alys" to the Stag and Lion |
+| Master Fitch, the innkeeper | Round, warm, talkative | His guests' comfort | Welcomes "Mistress Alys" to the Stag and Lion |
 
 **Named but not on stage:** Tam, in Rand's waking dream of sheep and larks; Mandarb ("Blade") and Aldieb ("Westwind"), Lan's and Moiraine's horses; Nynaeve, unnamed, as the second woman who can channel; Kari Thane and Lara Ayellan, Egwene's guesses for her; the Women's Circle; Mutch the hostler; the Governor of Baerlon; the false Dragon in Ghealdan and his "People of the Dragon"; the Great Lords of Tear; Mara and the Three Foolish Kings, Anla the Wise Counselor, and the Great Hunt of the Horn, in Thom's stories.
 
@@ -116,4 +116,4 @@ Chapter 13 widens the map: three threads that were rumours become news, and two 
 
 ## Sources
 
-Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The innkeeper's name is "Pitch" in the pasted text; it may be a scan error for Fitch. The "What it means" column comes from later books, from memory. Details most worth confirming: that the second woman is Nynaeve; that the Sword That Cannot Be Touched is Callandor and Rand takes it as the Stone falls; that the People of the Dragon are the Aiel; that the false Dragon is Logain; that the void becomes Rand's way to the Source; and that the endless winter is the Dark One's doing.
+Checked against the chapter text you supplied; quotes are kept to a few words, everything else is paraphrase. The innkeeper's name is "Pitch" in the pasted text; Chapter 14 confirms it is Fitch. The "What it means" column comes from later books, from memory. Details most worth confirming: that the second woman is Nynaeve; that the Sword That Cannot Be Touched is Callandor and Rand takes it as the Stone falls; that the People of the Dragon are the Aiel; that the false Dragon is Logain; that the void becomes Rand's way to the Source; and that the endless winter is the Dark One's doing.
