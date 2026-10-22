@@ -89,6 +89,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT Character — Thom | c0e01687-c497-400b-be60-ed03b667a911 | fa3e445e-fcab | characters/thom.md |
 | WoT Character — Tam | 05616f06-108f-497f-aeab-332983360b52 | 9bd1b38e-7bd0 | characters/tam.md |
 | WoT Character — Min | 6290fff5-bea4-4f17-9fb7-e670be9872b7 | 5ea324c1-8809 | characters/min.md |
+| WoT Character — Bornhald | 215a2139-d3c0-4cdd-a911-7389ea5361fa | b41087ae-ea26 | characters/bornhald.md |
 | WoT — The Two Rivers | 6dfbe6fd-aa16-4a33-a1fb-c7c32d3be632 | 95243809-6bec | world/two-rivers.md |
 | WoT — Ghealdan | f9f6ffa7-06e3-422a-8fe7-a67a5c8fb72f | 74414696-58ff | world/ghealdan.md |
 | WoT — Illian | 533be7ee-a15a-4e04-957b-eb4dc2d372b9 | a2933d87-f7ef | world/illian.md |
@@ -135,4 +136,4 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 ## State of the study
 
 - Book 1, Chapters 1–15 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 16.
-- Open ideas: a card for Caemlyn (row exists in the World Index), Tinkers, Cairhien; a card for Bornhald if he returns; an arc card for Winternight; the Tales card grows with each chapter.
+- Open ideas: a card for Caemlyn (row exists in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

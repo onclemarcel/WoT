@@ -2,7 +2,7 @@
 
 Oct 12, 2026 · @OncleMarcel
 
-Up: [WoT — World Index](index.md) · Chapter cards: [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · Rivals: [WoT — Tar Valon and the White Tower](tar-valon.md)
+Up: [WoT — World Index](index.md) · Chapter cards: [EotW Ch. 3 — The Peddler](../chapters/b01-eye-of-the-world/ch03-the-peddler.md) · [EotW Ch. 15 — Strangers and Friends](../chapters/b01-eye-of-the-world/ch15-strangers-and-friends.md) · Rivals: [WoT — Tar Valon and the White Tower](tar-valon.md) · Members: [WoT Character — Bornhald](../characters/bornhald.md)
 
 The Children of the Light, called Whitecloaks, are a military order sworn to hunt Darkfriends. They see Darkfriends almost everywhere, and they count every woman who channels among them. Chapter 3 gives them one line: a guard says many people believe the Dragon will save them but are "afraid of the Aes Sedai or the Children of the Light". The order enters the story as a name to fear, set beside the Aes Sedai.
 

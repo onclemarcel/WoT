@@ -74,7 +74,8 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C92 | Rand's fever before the Whitecloaks is saidin touched unknowingly | Ch. 15 | B1–B2 | open |
 | C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open |
 | C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain | B1, next chapters | open |
-| C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light | B1–B4 | open |
+| C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald | B1–B4 | open |
+| C96 | Bornhald's arc: Geofram's death at Falme and Byar's blame (B2); Dain leads the Children into the Two Rivers with Ordeith (B4); Ordeith's men kill Perrin's family; Dain testifies to it at Perrin's trial (B13) | Bornhald | B2–B13 | open |
 | C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open (Ch. 15: her viewings of the whole party confirmed; the rest far ahead) |
 
 ## Book 2 to Book 4

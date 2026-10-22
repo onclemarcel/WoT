@@ -55,6 +55,7 @@ TITLES = {
     "WoT Character — Thom": "characters/thom.md",
     "WoT Character — Tam": "characters/tam.md",
     "WoT Character — Min": "characters/min.md",
+    "WoT Character — Bornhald": "characters/bornhald.md",
     "WoT — The Two Rivers": "world/two-rivers.md",
     "WoT — Ghealdan": "world/ghealdan.md",
     "WoT — Illian": "world/illian.md",

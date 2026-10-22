@@ -2,7 +2,7 @@
 
 Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 14 — The Stag and Lion](ch14-the-stag-and-lion.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
-Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Min](../../characters/min.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Egwene](../../characters/egwene.md)
+Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Min](../../characters/min.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Bornhald](../../characters/bornhald.md)
 
 World: [WoT — Baerlon](../../world/baerlon.md) · [WoT — Children of the Light](../../world/children-of-the-light.md) · [WoT — Ba'alzamon](../../world/baalzamon.md) · [WoT — Tar Valon and the White Tower](../../world/tar-valon.md) · [WoT — Emond's Field Villagers](../../world/emonds-field-villagers.md)
 
