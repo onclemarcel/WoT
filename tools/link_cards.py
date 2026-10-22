@@ -41,6 +41,7 @@ TITLES = {
     "WoT — Taren Ferry": "world/taren-ferry.md",
     "EotW Ch. 13 — Choices": "chapters/b01-eye-of-the-world/ch13-choices.md",
     "EotW Ch. 14 — The Stag and Lion": "chapters/b01-eye-of-the-world/ch14-the-stag-and-lion.md",
+    "EotW Ch. 15 — Strangers and Friends": "chapters/b01-eye-of-the-world/ch15-strangers-and-friends.md",
     "WoT — Baerlon": "world/baerlon.md",
     "WoT — Ba'alzamon": "world/baalzamon.md",
     "WoT Arc — Leaving Emond's Field (Ch. 1–10)": "arcs/b01-leaving-emonds-field.md",

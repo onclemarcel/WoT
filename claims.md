@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 14. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 15. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -20,10 +20,10 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C08 | Tam's sword is a blade made with the One Power, which never dulls | Ch. 5 | B1–B2 | open |
 | C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | confirmed, Ch. 8 (Lan: stories make things larger than truth) |
 | C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open (Ch. 8: Fades are "the brain that tells the Trolloc fists where to strike"; the rabble half is not yet shown) |
-| C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | confirmed for Rand, Ch. 9 ("Serve me" in his dream; Mat and Perrin not yet shown) |
+| C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | confirmed, Ch. 9 for Rand; Ch. 15 for all three (Mat and Perrin had the same dream) |
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
-| C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3) |
-| C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | open |
+| C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3; Ch. 15: alive, afraid of Moiraine, asks where the party stays and for how long) |
+| C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | confirmed in part, Ch. 15 (alive in Baerlon; his own story is that he ran; whether he went with the Shadow is not yet shown) |
 | C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | confirmed, Ch. 12 (Moiraine knew her at first sight and guides her first touch; untaught channelers often become Wisdoms) |
 | C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open (Ch. 14: Ba'alzamon calls Rand's parents the Tower's breeding stock; Rand defends both) |
 | C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
@@ -36,17 +36,17 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
 | C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
-| C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed in part, Ch. 14 ("Once more we meet face-to-face"; he names himself Ba'alzamon; Mat and Perrin not yet shown) |
+| C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed, Ch. 15 (the figure names himself in Ch. 14; all three boys dreamed him, with small differences) |
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
 | C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; the rest not yet shown) |
 | C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
 | C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
 | C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
-| C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | open |
+| C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | confirmed, Ch. 15 (she bullies Hightower into rowing her across and reaches the Stag and Lion) |
 | C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | confirmed in part, Ch. 14 (Ba'alzamon's telling: Lews Therin killed his wife, children and all his blood, called down the Power, and Dragonmount rose as his tomb; the prologue itself was not pasted) |
 | C64 | Mat's Seanchan thread has no seed in Chapters 1–10 | Leaving Emond's Field | B1–B2 | reading |
-| C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11, Rand | B1–B2 | open (Ch. 11 evidence: Moiraine finds Bela "the least weary of all" before touching her; the text does not yet name it) |
+| C65 | Rand channels for the first time, unknowing, when he wills Bela to run | Ch. 11, Rand | B1–B2 | open (Ch. 11 evidence: Bela "the least weary of all"; Ch. 15: tingling, heat and reckless energy before the Whitecloaks; the text names neither) |
 | C66 | A channeler cannot heal herself, and channeling tires the one who does it | Ch. 11 | B1 | open (Ch. 11: Lan says what she does for others she cannot do for herself; Ch. 12: the fog cost Moiraine "extra effort") |
 | C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | confirmed, Ch. 12 (the river is cloaked for miles so the Fade must consider escape by boat and split his search) |
 | C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |
@@ -66,12 +66,16 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | confirmed in part, Ch. 14 (men from the mines and smelters fill every inn; the hurried departure not yet shown) |
 | C83 | Ba'alzamon is not the Dark One but a Forsaken, Ishamael, using his master's name | Ch. 14, Ba'alzamon | B1 (hints), B3 (reveal) | open |
 | C84 | "Ba'alzamon" means "Heart of the Dark" in the Old Tongue | Ch. 14, Ba'alzamon | B1 | open |
-| C85 | Mat and Perrin had the same Ba'alzamon dream | Ch. 14, Ba'alzamon | B1, next chapters | open (see C55) |
-| C86 | Davian, Yurian Stonebow, Guaire Amalasan and Raolin Darksbane were all false Dragons | Ch. 14, Tales and Legends | B1–B2 | open (Ch. 14: Ba'alzamon lists them beside Logain) |
+| C85 | Mat and Perrin had the same Ba'alzamon dream | Ch. 14, Ba'alzamon | B1, next chapters | confirmed, Ch. 15 ("Did he kill a rat?" "You, too?") |
+| C86 | Davian, Yurian Stonebow, Guaire Amalasan and Raolin Darksbane were all false Dragons | Ch. 14, Tales and Legends | B1–B2 | confirmed in part, Ch. 15 (Thom: "men who shook the pillars of heaven", killed by the Tower, all dead but Logain; the word false Dragon is not used) |
 | C87 | Hawkwing's armies across the Aryth Ocean are the "doom yet to come": the Seanchan | Ch. 14 | B2 | open |
-| C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14, Min | B1, next chapters | open (Ch. 14: Moiraine asks "Is Min still here?" just before) |
+| C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14, Min | B1, next chapters | confirmed, Ch. 15 ("My name is Min"; she sees images when she looks at people; Moiraine calls it "pieces of the Pattern") |
 | C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
-| C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open |
+| C92 | Rand's fever before the Whitecloaks is saidin touched unknowingly | Ch. 15 | B1–B2 | open |
+| C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open |
+| C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain | B1, next chapters | open |
+| C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light | B1–B4 | open |
+| C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open (Ch. 15: her viewings of the whole party confirmed; the rest far ahead) |
 
 ## Book 2 to Book 4
 

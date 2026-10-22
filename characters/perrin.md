@@ -23,7 +23,7 @@ In Book 1 Perrin is the blacksmith's apprentice from Emond's Field. He is big, s
 
 Elyas tells him to keep the axe until the day he starts to like using it. That line sets up the whole arc.
 
-## Book 1 so far (Chapters 3 to 13)
+## Book 1 so far (Chapters 3 to 15)
 
 The text has not yet reached Elyas or the wolves, but it is already building the man the Starting point describes. Perrin is the steady one: careful with his strength, slow to speak, quick to see what others would rather not. His axe arrives in Chapter 10, his fear of it is visible at once, and in Chapter 13 Lan begins to teach him to use it.
 
@@ -37,6 +37,7 @@ The text has not yet reached Elyas or the wolves, but it is already building the
 | 11 | Defends the White Boar against Mat; wants a pie and hot tea | The plain, loyal voice of the group |
 | 12 | Lan bares his axe at the landing; he plants his feet; first to ask for rest | His size and weapon used as a threat, at Lan's choice, not his |
 | 13 | First axe lessons; insists the first farm is "no different from back home"; answers Mat with the Draghkar | The realist of the three, and a fighter in training |
+| 14–15 | "Almost as good as the Winespring Inn"; asks about Trollocs in Saldaea; has the Ba'alzamon dream and cannot sleep; stays in bed rather than see Baerlon; keeps the secret; finds Nynaeve at the inn | Homesickness at its peak: "you kick me" if he ever talks of leaving again. Min sees a wolf, a broken crown and flowering trees around him |
 
 **What Chapter 13 shows.**
 
@@ -176,4 +177,4 @@ On top of that, the release is delayed further: after Malden, Book 12 barely fea
 
 ## Sources
 
-The Book 1 section is checked against the Chapter 3 to 13 cards, all from the text you supplied. The Starting point's "inciting push" (Elyas, the wolves, the Whitecloak killings), the arc, and everything after are from memory of the books; confirm book numbers for single events.
+The Book 1 section is checked against the Chapter 3 to 15 cards, all from the text you supplied. The Starting point's "inciting push" (Elyas, the wolves, the Whitecloak killings), the arc, and everything after are from memory of the books; confirm book numbers for single events.

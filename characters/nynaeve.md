@@ -18,6 +18,8 @@ Chapters 1 to 3 build Nynaeve's reputation before she appears, then show it in a
 - **Her pupil:** Egwene, whom she is teaching to listen to the wind.
 - **What Moiraine lets slip (Chapter 13):** untaught women who can channel often become Wisdoms (Ch. 12), and there are "two in one village" in Emond's Field. Moiraine takes it back at once: "Her road lies another way, I fear." The text names no one.
 
+**Chapter 15: she follows.** Off stage, Nynaeve reaches Baerlon alone. The ferry is sunk, so she roots Master Hightower out of his bedroom and bullies him into rowing her and her horse across the Taren himself. At the Stag and Lion she is closeted with Moiraine, "cold enough in there to snow". The boys face her "as if to face Trollocs".
+
 ## Arc
 
 | Book | Turning point | What shifts | Why |
@@ -80,4 +82,4 @@ Nynaeve's signature sense is a healer's: she reads bodies, herbs and weather, an
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3 as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
+The starting point is checked against Chapters 1 to 3, with Chapters 13 and 15, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.

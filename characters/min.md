@@ -2,7 +2,7 @@
 
 Up: [Wheel of Time — Story Map](../story-map.md) · First appears: [EotW Ch. 14 — The Stag and Lion](../chapters/b01-eye-of-the-world/ch14-the-stag-and-lion.md) · Met in: [WoT — Baerlon](../world/baerlon.md) · Linked to: [WoT Character — Rand](rand.md) · [WoT Character — Moiraine](moiraine.md)
 
-Min's arc is about a woman who sees the future and has to learn to live inside it rather than flee it. She starts as a stable hand in Baerlon who hides her gift in men's clothes and plain work, and becomes one of the three women Rand loves, his steadiest anchor, and a scholar who reads prophecy as well as people. Her gift never fails, so her struggle is never "is it true?" but "what do I do, knowing it?". This card is a first version, made early at your request, before she is named on stage; it will deepen as the chapter cards advance.
+Min's arc is about a woman who sees the future and has to learn to live inside it rather than flee it. She starts as a stable hand in Baerlon who hides her gift in men's clothes and plain work, and becomes one of the three women Rand loves, his steadiest anchor, and a scholar who reads prophecy as well as people. Her gift never fails, so her struggle is never "is it true?" but "what do I do, knowing it?". This card is a first version, made early at your request and first filled in from Chapter 15; it will deepen as the chapter cards advance.
 
 ## Starting point
 
@@ -14,6 +14,14 @@ Chapter 14 gives her one silent glimpse, and every detail of it is a choice the 
 - **What Moiraine hides:** she never mentions the girl, and talks of rooms and crowds instead.
 - **What the reader can infer:** Moiraine knows her from an earlier visit and trusts her enough to seek her out first.
 - **What she hides (from later chapters):** she sees images and auras around people, and her sharp look at the young men is her reading them.
+
+**Chapter 15: she names herself.** "My name is Min." She finds Rand in the stableyard, a little older than he is, dark-eyed and intent, still in a boy's coat and breeches.
+
+- **Her gift, in her words:** Moiraine says she sees "pieces of the Pattern"; she says she just sees things when she looks at people, and sometimes knows what they mean.
+- **Her history with Moiraine:** she read Moiraine on her way south, knew at once she was "different", and has talked to others like her.
+- **What she reads:** sparks and a vast shadow around the whole party; the image of an Aes Sedai around Egwene; images for Lan, Thom, Perrin, Mat and, longest, Rand (see the Chapter 15 card).
+- **What she knows about herself:** "You and I will meet again", and she does not understand why.
+- **How she plays it:** teasing, amused, patting his cheek: "You can't escape from me." Rand runs.
 
 ## Arc
 
@@ -88,4 +96,4 @@ At the Stag and Lion in Chapter 14 she has no power over anyone; Moiraine seeks 
 
 ## Sources
 
-The starting point is checked against Chapter 14 as you supplied it; there she is unnamed on stage, and that the girl is Min is inferred from Moiraine's question just before. Everything else is from memory of the books and is made early, at your request. Details most worth confirming: her viewings of Rand and the boys in Book 1; her road to Falme in Book 2; her part in Siuan's escape in Book 4; her capture and Dumai's Wells; Herid Fel; the Forsaken's compulsion that turns Rand against her; and her title of Doomseer in Book 14.
+The starting point is checked against Chapters 14 and 15 as you supplied them; Chapter 15 confirms the girl is Min. Everything else is from memory of the books and is made early, at your request. Details most worth confirming: her viewings of Rand and the boys in Book 1; her road to Falme in Book 2; her part in Siuan's escape in Book 4; her capture and Dumai's Wells; Herid Fel; the Forsaken's compulsion that turns Rand against her; and her title of Doomseer in Book 14.

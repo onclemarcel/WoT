@@ -19,7 +19,7 @@ Chapter 4 shows Thom almost entirely from outside, through a performance, and ev
 - **What he already knows:** he knows Fain by sight and by reputation, and brings Baerlon's news. His ironic lines ("You lads are widely traveled, then, it seems") show a man who has seen far more than he says.
 - **His stance:** prickly and vain, but quick to apologise when Egwene calls out his mockery.
 
-## Book 1 so far (Chapters 7 to 13)
+## Book 1 so far (Chapters 7 to 15)
 
 The gleeman who wanted nothing to do with Aes Sedai ends Chapter 13 riding in one's party, healed by her against his will. He joins uninvited, keeps his distrust, and slowly finds a role: the one adult who explains the world to the boys instead of steering them. His past shows only at the edges: what he knows, what he will not say, and what makes him growl.
 
@@ -31,6 +31,7 @@ The gleeman who wanted nothing to do with Aes Sedai ends Chapter 13 riding in on
 | 11 | Asks for a few hours' rest; first into the saddle when the Draghkar strikes | Theatrical complaint, fast action |
 | 12 | The dagger trick at the landing; asks if the fog could have covered them to Baerlon, then apologises; growls when Moiraine speaks of gentling; pulls Rand down: "It's beyond you now, boy" | Respect for Moiraine's power; a private grief; sympathy for Rand |
 | 13 | Scowls through Moiraine's healing; tells stories with happy endings; teaches juggling; tries to cover for the boys; explains the Karaethon Cycle to Rand | The reluctant teacher, still wary of her |
+| 14–15 | "Tired of hearing my own stories back"; holds the common room with the Great Hunt of the Horn in Plain Chant; hears the boys' dream in an alley, names the false Dragons' dangers, calls the Eye of the World a legend; advises silence; rushes back to warn Perrin | The boys choose him over Moiraine as their confidant. Min sees a man, not him, juggling fire, and the White Tower |
 
 **What Chapter 13 shows.**
 
@@ -127,4 +128,4 @@ Thom's signature sense is sound: his voice, his harp and his flute. He reads peo
 
 ## Sources
 
-The starting point is checked against Chapter 4, and the Book 1 section against the Chapter 7 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for Moiraine's letter, his marriage, and the details of Owyn and Dena.
+The starting point is checked against Chapter 4, and the Book 1 section against the Chapter 7 to 15 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for Moiraine's letter, his marriage, and the details of Owyn and Dena.

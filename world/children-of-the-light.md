@@ -8,7 +8,7 @@ The Children of the Light, called Whitecloaks, are a military order sworn to hun
 
 - **What they are:** a standing army of zealots, not a church; they answer to no throne.
 - **Where:** their fortress is in Amador, and they rule Amadicia in all but name.
-- **First seen in the story (Chapter 13):** in Baerlon, arrived the day Moiraine and Lan left south. They claim to be hunting the evil the false Dragon stirs up. The Governor lets only about ten inside the walls; the rest camp north of town. They stalk the streets in white cloaks, order people to "Walk in the Light", nearly come to blows with wagoneers, miners and the Watch, and the Dragon's Fang has appeared on some doors. The gatekeeper Avin spits at their name.
+- **First seen in the story (Chapter 13):** in Baerlon, arrived the day Moiraine and Lan left south. They claim to be hunting the evil the false Dragon stirs up. The Governor lets only about ten inside the walls; the rest camp north of town. They stalk the streets in white cloaks, order people to "Walk in the Light", nearly come to blows with wagoneers, miners and the Watch, and the Dragon's Fang has appeared on some doors. The gatekeeper Avin spits at their name. In Chapter 14 they claim an Aes Sedai hides in Baerlon. In Chapter 15 three of them walk the streets in burnished breastplates, the crowd parting around them; their young leader, Lord Bornhald, with a golden knot under his sunburst, calls Rand a Darkfriend after Mat's prank splashes them: "We will meet again." One shouts that Baerlon "stands in the Shadow" when the Watch arrives.
 - **What they fight:** Darkfriends, Shadowspawn, false Dragons, and anyone who channels, whom they call witches.
 - **Why it matters:** sincere hatred of the Shadow, turned into cruelty, makes them dangerous to the heroes even though they are not evil.
 
@@ -61,4 +61,4 @@ The order's path runs from enemy to judge to ally, and most of it passes through
 
 ## Sources
 
-The Chapter 3 line is from the text you supplied. Everything else is from memory of the books; confirm book numbers, especially for Niall's death, the fall of Amadicia and Perrin's trial.
+The Chapter 3, 13, 14 and 15 details are from the text you supplied. The Bornhald of Chapter 15 is "not much older than Rand": from memory, Dain Bornhald, son of Lord Captain Geofram Bornhald. Everything else is from memory of the books; confirm book numbers, especially for Niall's death, the fall of Amadicia and Perrin's trial.

@@ -15,6 +15,13 @@ In Chapter 3 he is the familiar spring peddler: pale, skinny, big-nosed, "always
 - **His tell:** the "sharp, searching look" he gives Rand when Rand's shout breaks the silence, and his amusement at news that frightens everyone else.
 - **What he wants:** at first, to serve; later, Rand himself, out of a hatred that becomes his whole being.
 
+**Chapter 15: the peddler returns.** Rand finds him in Baerlon, alive after Winternight, and changed: gaunt, in rags, unslept and unfed.
+
+- **His story:** the Trollocs burned his wagon and goods; he could not reach his horses; "Padan Fain knows which way to jump and where to land."
+- **His fear:** he will not come near Rand, and spits at "the Aes Sedai"; he makes Rand promise not to tell her he is alive.
+- **His question:** how long the party will stay at the Stag and Lion. "Tomorrow" seems to settle something, and he bolts.
+- **What the reader should notice:** a survivor who never asks after anyone from home, and who wants the party's address.
+
 ## Arc
 
 Fain's arc is a descent in three steps: servant of the Shadow, a man fused with an older evil, and finally a hatred with no master.
@@ -83,4 +90,4 @@ Fain is never a point-of-view character for long; the reader knows him through o
 
 ## Sources
 
-The starting point is checked against Chapter 3 as you supplied it. Everything else is from memory of the books: confirm book numbers for his escape, his return to the Two Rivers, the wound he gives Rand, and the details of his end.
+The starting point is checked against Chapter 3, and the Chapter 15 section against Chapter 15, as you supplied them. Everything else is from memory of the books: confirm book numbers for his escape, his return to the Two Rivers, the wound he gives Rand, and the details of his end.

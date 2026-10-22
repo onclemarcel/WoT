@@ -17,6 +17,7 @@ Ba'alzamon is the face the Shadow shows Rand in his dreams, and in Book 1 Rand t
 | --- | --- | --- |
 | 9 | Unnamed: a figure in a blood-red cloak at the end of a dream chase; "Serve me" in a familiar voice by the black spire | The Shadow's first direct reach into Rand's mind |
 | 14 | Named; a long speech in a dream room; the wine, the history, the rat; "Are you the one?" | The villain becomes a voice with arguments, not only a threat |
+| 15 | Over a dozen rats found dead in the inn, backs broken; Rand, Mat and Perrin all had the same dream, with small differences; Thom: "a very dangerous name" | The dream reaches the waking world, and all three boys; his warning works, as they decide not to tell Moiraine |
 
 ## Ba'alzamon across the series
 
@@ -47,4 +48,4 @@ The name itself is said to mean "Heart of the Dark" in the Old Tongue, which is 
 
 ## Sources
 
-The Book 1 section is built from the Chapter 9 and 14 cards, checked against the text you supplied. The series table and the meaning of the name are from memory. Details most worth confirming: that he visits Mat and Perrin too; the book numbers for Falme, the Heart of the Stone and Moridin's first appearance; that Ba'alzamon is Ishamael; and that the name means "Heart of the Dark".
+The Book 1 section is built from the Chapter 9, 14 and 15 cards, checked against the text you supplied. The series table and the meaning of the name are from memory. Details most worth confirming: the book numbers for Falme, the Heart of the Stone and Moridin's first appearance; that Ba'alzamon is Ishamael; and that the name means "Heart of the Dark".
