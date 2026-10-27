@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 15. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 16. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -25,7 +25,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3; Ch. 15: alive, afraid of Moiraine, asks where the party stays and for how long) |
 | C14 | Fain left with the Shadow on Winternight; he was not eaten | Ch. 7 | B1, late | confirmed in part, Ch. 15 (alive in Baerlon; his own story is that he ran; whether he went with the Shadow is not yet shown) |
 | C15 | Egwene can channel; Wisdoms who "listen to the wind" use the Power without knowing it | Ch. 3, Ch. 10 | B1 | confirmed, Ch. 12 (Moiraine knew her at first sight and guides her first touch; untaught channelers often become Wisdoms) |
-| C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5 | B1 (doubt), B4 (proof) | open (Ch. 14: Ba'alzamon calls Rand's parents the Tower's breeding stock; Rand defends both) |
+| C16 | Kari al'Thor was Tam's wife, not Rand's birth mother | Ch. 5, Ch. 16 | B1 (doubt), B4 (proof) | open (Ch. 14: Ba'alzamon calls Rand's parents the Tower's breeding stock; Rand defends both; Ch. 16: Tam came home with an outlander wife and a babe, so Rand was born outside the Two Rivers; Nynaeve still calls him Kari's child) |
 | C17 | The word ta'veren first appears in Book 1, from Loial or Moiraine | Pattern | B1 | open |
 | C18 | A dying Aiel Maiden's warning reaches the heroes through the Tinkers | Aiel | B1 | open |
 | C19 | On the road with Elyas: the order of events, who frees Perrin and Egwene from the Whitecloak camp, which wolves die | Road with Elyas | B1 | open |
@@ -34,12 +34,12 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
 | C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ch. 13, Ghealdan | B1–B2 | open (Ch. 13: a big battle, Aes Sedai dead, marching toward Tear; Ch. 14: named Logain, the victor in Ghealdan; his later role not yet shown) |
 | C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
-| C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8 | B1 | open |
+| C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8, Ch. 16 | B1 | confirmed in part, Ch. 16 (she asks Nynaeve whether any boy was born outside the Two Rivers; the date itself not yet stated) |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
 | C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed, Ch. 15 (the figure names himself in Ch. 14; all three boys dreamed him, with small differences) |
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
-| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; the rest not yet shown) |
+| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; Ch. 16: sensing Shadowspawn confirmed: no Trolloc within a quarter mile without Lan "feeling the evil of it"; healing, food and sleep not yet shown) |
 | C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
 | C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
 | C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
@@ -51,7 +51,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C67 | Moiraine uses the fog to mislead the Myrddraal about where the party went after the river | Ch. 11 | B1, Ch. 12 | confirmed, Ch. 12 (the river is cloaked for miles so the Fade must consider escape by boat and split his search) |
 | C68 | A Draghkar is hard to kill, even for an Aes Sedai | Ch. 11 | B1 | open (Ch. 11: "They are not easily killed, even when they can be seen") |
 | C69 | Moiraine is among the strongest Aes Sedai of her time | Ch. 12 | B1–B2 | open (Ch. 12: "not ten women in Tar Valon" could lay that fog unaided) |
-| C70 | Nynaeve can channel without knowing it | Ch. 12, Ch. 13, Nynaeve | B1 | open (Ch. 13: Moiraine lets slip "two in one village", then "Her road lies another way"; no name given) |
+| C70 | Nynaeve can channel without knowing it | Ch. 12, Ch. 13, Ch. 16, Nynaeve | B1 | open (Ch. 13: Moiraine lets slip "two in one village", then "Her road lies another way"; no name given; Ch. 16: Min sees Nynaeve as "part of it"; she was "somehow" sure they could not wait; Moiraine wants her alone) |
 | C71 | Lan scouted the route and the tree-cave camp before Winternight | Ch. 12 | B1 | open |
 | C72 | Egwene becomes Amyrlin ("perhaps even the Amyrlin Seat") | Ch. 12, Egwene | B6 | open (see C49) |
 | C73 | Moiraine "looming" is a small use of the Power or Aes Sedai presence | Ch. 12 | B1–B2 | reading |
@@ -77,6 +77,9 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald | B1–B4 | open |
 | C96 | Bornhald's arc: Geofram's death at Falme and Byar's blame (B2); Dain leads the Children into the Two Rivers with Ordeith (B4); Ordeith's men kill Perrin's family; Dain testifies to it at Perrin's trial (B13) | Bornhald | B2–B13 | open |
 | C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open (Ch. 15: her viewings of the whole party confirmed; the rest far ahead) |
+| C97 | Moiraine's question about birth outside the Two Rivers points to the prophecy of the Dragon's birth on the slopes of Dragonmount | Ch. 16 | B1, late | open |
+| C98 | Lan senses Trollocs through his Warder bond, not only Borderland training | Ch. 16 | B1–B2 | open |
+| C99 | Nynaeve's blush at Lan's praise is the start of their love story | Ch. 16 | B1 | open |
 
 ## Book 2 to Book 4
 

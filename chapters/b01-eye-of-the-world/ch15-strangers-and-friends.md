@@ -1,6 +1,6 @@
 # EotW Ch. 15 — Strangers and Friends
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 14 — The Stag and Lion](ch14-the-stag-and-lion.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 14 — The Stag and Lion](ch14-the-stag-and-lion.md) · Next: [EotW Ch. 16 — The Wisdom](ch16-the-wisdom.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Min](../../characters/min.md) · [WoT Character — Padan Fain](../../characters/padan-fain.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Bornhald](../../characters/bornhald.md)
 

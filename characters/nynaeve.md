@@ -20,6 +20,8 @@ Chapters 1 to 3 build Nynaeve's reputation before she appears, then show it in a
 
 **Chapter 15: she follows.** Off stage, Nynaeve reaches Baerlon alone. The ferry is sunk, so she roots Master Hightower out of his bedroom and bullies him into rowing her and her horse across the Taren himself. At the Stag and Lion she is closeted with Moiraine, "cold enough in there to snow". The boys face her "as if to face Trollocs".
 
+**Chapter 16: the Wisdom at Moiraine's table.** Nynaeve tracked the party to Baerlon along a trail Lan tried to hide; her late father taught her to hunt like the sons he never had. Lan's praise makes her blush, the first time Rand has seen her out of countenance. She wants Egwene and the boys home and calls Moiraine's answers "a great sackful of gleeman's tales"; her saying sums up her view: whatever the bear and the wolf do, "the rabbit always loses". She came because the village meeting split and the men could not decide; she called the Women's Circle and left Mavra Mallen of Deven Ride in her place. Min says she is "part of it", and she was "somehow" sure they could not wait. She hides from Moiraine that Rand was born outside the Two Rivers, then tells him of Tam's return with Kari and a baby. Her last word: "Today, I am going to have a bath."
+
 ## Arc
 
 | Book | Turning point | What shifts | Why |
@@ -82,4 +84,4 @@ Nynaeve's signature sense is a healer's: she reads bodies, herbs and weather, an
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, with Chapters 13 and 15, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
+The starting point is checked against Chapters 1 to 3, with Chapters 13, 15 and 16, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
