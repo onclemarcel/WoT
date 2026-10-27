@@ -16,7 +16,7 @@ She arrives in Chapter 2 as "the Lady Moiraine", seen entirely from outside.
 - **What she hides:** she is an Aes Sedai of the Blue Ajah, and she has come for the Dragon Reborn, not knowing yet which boy he is.
 - **How she speaks:** every line true and every line misleading; see Chapter 2's "read twice" table.
 
-## Book 1 so far (Chapters 4 to 13)
+## Book 1 so far (Chapters 4 to 17)
 
 In ten chapters the lady from a gleeman's tale shows what she is: an Aes Sedai who heals, fights, lies by telling the truth, and will destroy the boys herself rather than lose them to the Dark One. Every chapter adds a power and, close behind it, a price she pays alone.
 
@@ -30,6 +30,9 @@ In ten chapters the lady from a gleeman's tale shows what she is: an Aes Sedai w
 | 11 | Washes the fatigue from horses and riders; raises the fog: "I will use its own slyness against it" | Healing others, never herself; she alone rides tired |
 | 12 | Sinks the ferry and calls it "an unfortunate occurrence"; "not ten women in Tar Valon" could lay that fog; guides Egwene's first touch of the Source | Ruthless with things, gentle with Egwene; every word true and evasive |
 | 13 | Heals everyone's fatigue again, then eats nothing and sleeps at once; nightly private lessons with Egwene; threatens the boys; "Mistress Alys" in Baerlon; "You have no choice" | The cost grows, and so does what she is willing to do |
+| 14 | Asks Fitch for Min; calls a plain dinner "a feast" | She has allies in Baerlon the boys know nothing of |
+| 15–16 | Closeted with Nynaeve; claims saidar's protection against Fades; asks whether any boy was born outside the Two Rivers | Her authority is challenged for the first time, and she must argue for it |
+| 17 | Warns Fitch in vain; at the Caemlyn Gate looms taller than the wall, melts Bornhald's sword with her staff, steps over the wall; denies it to Egwene; lays out the choices over the burning inn and sends gold to rebuild it | Her full power shown once, then hidden behind "the mind plays tricks"; "We are in a war" |
 
 **What Chapter 13 shows.**
 
@@ -118,4 +121,4 @@ Moiraine's signature trait is composure: the reader almost never sees inside her
 
 ## Sources
 
-The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 13 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers and the details of her rescue.
+The starting point is checked against Chapter 2, and the Book 1 section against the Chapter 4 to 17 cards, all from the text you supplied. Everything else is from memory of the books; confirm book numbers and the details of her rescue.

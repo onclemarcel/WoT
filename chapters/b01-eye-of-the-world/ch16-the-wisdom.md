@@ -1,6 +1,6 @@
 # EotW Ch. 16 — The Wisdom
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 15 — Strangers and Friends](ch15-strangers-and-friends.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 15 — Strangers and Friends](ch15-strangers-and-friends.md) · Next: [EotW Ch. 17 — Watchers and Hunters](ch17-watchers-and-hunters.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Thom](../../characters/thom.md) · [WoT Character — Min](../../characters/min.md) · [WoT Character — Tam](../../characters/tam.md)
 

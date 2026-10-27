@@ -27,6 +27,7 @@ The town grows from a source of merchants into the party's first refuge, and the
 | 13 | Reached after almost a week; the wall, the gate, Avin's news, the Stag and Lion | First town, first strangers, first Whitecloaks |
 | 14 | Every inn full of miners and smelters down from the mountains with tales of wolves; an empty market after the winter; Whitecloaks claiming an Aes Sedai in town, Governor Adan refusing them; Min at the Stag and Lion | Rest, news and a warning: even here, trust stays small |
 | 15 | Streets packed with strangers; flagstones and mud; shops of every kind; nine inns at least; shrivelled turnips sold dear; the Town Watch with quarterstaffs; three Whitecloaks who part the crowd; Fain hiding in rags | The first city: grander than home, yet full of faces that could be Two Rivers neighbours, and danger in plain sight |
+| 17 | A night of tales and dancing at the Stag and Lion; a Fade in its hall; the Caemlyn Gate shut from sundown to sunup, opened for gold; wolves outside that killed a dozen cows; five Whitecloaks at the gate; the inn burning as the party rides east | The refuge fails in one night; the party leaves in a hurry, and the town pays for having sheltered them |
 
 ## Across the series
 
@@ -50,4 +51,4 @@ The town grows from a source of merchants into the party's first refuge, and the
 
 ## Sources
 
-The Book 1 section is built from the Chapter 1, 4, 8, 10, 12, 13, 14 and 15 cards, which were checked against the text you supplied. The innkeeper appeared as "Pitch" in the Chapter 13 text; Chapter 14 confirms Fitch. The series table is from memory and kept thin. Details most worth confirming: that the party leaves it in a hurry; and how often it appears after Book 1.
+The Book 1 section is built from the Chapter 1, 4, 8, 10, 12, 13, 14, 15 and 17 cards, which were checked against the text you supplied. The innkeeper appeared as "Pitch" in the Chapter 13 text; Chapter 14 confirms Fitch. The series table is from memory and kept thin. The hurried departure is confirmed in Chapter 17. Details most worth confirming: how often it appears after Book 1.

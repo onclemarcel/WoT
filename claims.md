@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 16. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 17. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -39,7 +39,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed, Ch. 15 (the figure names himself in Ch. 14; all three boys dreamed him, with small differences) |
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
-| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; Ch. 16: sensing Shadowspawn confirmed: no Trolloc within a quarter mile without Lan "feeling the evil of it"; healing, food and sleep not yet shown) |
+| C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; Ch. 16: sensing Shadowspawn confirmed: no Trolloc within a quarter mile without Lan "feeling the evil of it"; Ch. 17: Lan feels the Fade "fading" and stands guard all night unwearied; healing not yet shown) |
 | C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
 | C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
 | C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
@@ -63,7 +63,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C79 | The endless winter is the Dark One's touch on the world | Ch. 13, Ghealdan | B1 | open (Ch. 14: Fitch's cellars and the market empty after the winter; wolves take the livestock) |
 | C80 | Moiraine knows Rand eavesdropped | Ch. 13 | B1 | reading |
 | C81 | The Stag and Lion's innkeeper is Master Fitch ("Pitch" in the pasted text) | Ch. 13, Baerlon | B1, Ch. 14 | confirmed, Ch. 14 (the pasted text names him Fitch throughout, "Pitch" only twice; Ch. 13 and Baerlon cards fixed) |
-| C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | confirmed in part, Ch. 14 (men from the mines and smelters fill every inn; the hurried departure not yet shown) |
+| C82 | The party leaves Baerlon in a hurry; Baerlon is a mining town | Baerlon | B1, next chapters | confirmed, Ch. 17 (mining town, Ch. 14; the party flees by night after the Fade, Ch. 17) |
 | C83 | Ba'alzamon is not the Dark One but a Forsaken, Ishamael, using his master's name | Ch. 14, Ba'alzamon | B1 (hints), B3 (reveal) | open |
 | C84 | "Ba'alzamon" means "Heart of the Dark" in the Old Tongue | Ch. 14, Ba'alzamon | B1 | open |
 | C85 | Mat and Perrin had the same Ba'alzamon dream | Ch. 14, Ba'alzamon | B1, next chapters | confirmed, Ch. 15 ("Did he kill a rat?" "You, too?") |
@@ -73,13 +73,19 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
 | C92 | Rand's fever before the Whitecloaks is saidin touched unknowingly | Ch. 15 | B1–B2 | open |
 | C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open |
-| C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain | B1, next chapters | open |
-| C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald | B1–B4 | open |
+| C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain, Ch. 17 | B1, next chapters | open (Ch. 17: a Fade finds the Stag and Lion the next night; Moiraine wonders "how we were found"; who told it is not said) |
+| C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald, Ch. 17 | B1–B4 | confirmed in part, Ch. 17 (the grudge returns that same night at the Caemlyn Gate; the name Dain and his father not yet given) |
 | C96 | Bornhald's arc: Geofram's death at Falme and Byar's blame (B2); Dain leads the Children into the Two Rivers with Ordeith (B4); Ordeith's men kill Perrin's family; Dain testifies to it at Perrin's trial (B13) | Bornhald | B2–B13 | open |
 | C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open (Ch. 15: her viewings of the whole party confirmed; the rest far ahead) |
 | C97 | Moiraine's question about birth outside the Two Rivers points to the prophecy of the Dragon's birth on the slopes of Dragonmount | Ch. 16 | B1, late | open |
 | C98 | Lan senses Trollocs through his Warder bond, not only Borderland training | Ch. 16 | B1–B2 | open |
 | C99 | Nynaeve's blush at Lan's praise is the start of their love story | Ch. 16 | B1 | open |
+| C100 | The Fade spared Rand because the Shadow wants him taken alive | Ch. 17 | B1–B2 | open |
+| C101 | Fades travel through shadows | Ch. 17 | B1–B2 | open |
+| C102 | The Myrddraal's eyeless gaze paralyses with fear | Ch. 17 | B1 | open |
+| C103 | Moiraine's looming at the gate is an illusion woven with the Power | Ch. 17 | B1–B2 | open |
+| C104 | The scar-faced man at the Stag and Lion has a later role | Ch. 17 | B1 | open |
+| C105 | Rogosh Eagle-eye, Gaidal Cain and Buad of Albhain ride among the Heroes of the Horn at Falme | Tales and Legends | B2 | open |
 
 ## Book 2 to Book 4
 
@@ -111,7 +117,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C42 | Jain Farstrider is real and returns as Noal | Ch. 5, Tales and Legends | B9–B13 | open |
 | C43 | Two Rivers men fight in the Last Battle | Villagers | B14 | open |
 | C44 | At Shayol Ghul, Rand refuses a world where people could not choose evil | Pattern | B14 | open |
-| C45 | The Forsaken's standing orders about Rand | Shadow | B1–B14 | open |
+| C45 | The Forsaken's standing orders about Rand | Shadow, Ch. 17 | B1–B14 | open (Ch. 17: a Fade has Rand helpless and stops its blade: "You are his") |
 | C46 | The seven spokes of the Wheel (seven Ages) | Pattern | any | open |
 
 ## Book numbers on character and world cards

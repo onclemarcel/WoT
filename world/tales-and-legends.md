@@ -54,6 +54,8 @@ Every tale named so far, in the order the chapters give them. The last column sa
 | The false Dragons: Davian, Yurian Stonebow, Guaire Amalasan, Raolin Darksbane | Ch. 14, Ba'alzamon | Men the Amyrlin "used" until consumed, as Logain is used now | Thom (Ch. 15): "Men who shook the pillars of heaven", all dead but Logain, Raolin Darksbane nearly two thousand years; the Tower "killed them", but used them he doubts. Other dates from memory |
 | The Eye of the World | Ch. 14, Ba'alzamon; Ch. 15, Thom | "A legend. Maybe." Young men of the Borderlands hunt it as young men of Illian hunt the Horn of Valere | Real: the title of Book 1, and where it ends |
 | The three voices: High Chant, Plain Chant, Common | Ch. 15, Thom's teaching on the road | A gleeman's registers; Thom tells the Great Hunt of the Horn in Plain Chant at the Stag and Lion, and despises Common | Jordan's own range: the books shift between the epic and the everyday |
+| The Bargain of Rogosh Eagle-eye | Ch. 17, Thom, in the Stag and Lion's common room | Part of the Great Hunt: Rogosh of Talmour, "greatest of the Hunters", comes to the court of golden-haired Blaes of Matuchin, marked by the Dark One from birth but no Darkfriend | Rogosh is among the heroes the Horn calls back at Falme (Book 2), from memory |
+| Lian's Stand; The Fall of Aleth-Loriel; Gaidal Cain's Sword; The Last Ride of Buad of Albhain | Ch. 17, Thom, the same night | Hero tales named only by title, with longer pauses as the night wears on | Gaidal Cain and Buad of Albhain also ride among the Heroes of the Horn at Falme, from memory; Lian and Aleth-Loriel are not explained in Book 1 |
 
 ## How Jordan built a world of stories
 
@@ -67,4 +69,4 @@ Jordan made the world feel old by giving it more stories than the plot needs. He
 
 ## Sources
 
-The tale names and Thom's history are from Chapters 3 and 4 as you supplied them; the Manetheren row is from Chapter 9, the Great Hunt and Karaethon rows from Chapter 13, Ba'alzamon's history from Chapter 14, and Thom's notes on the false Dragons, the Eye of the World and the three voices from Chapter 15. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.
+The tale names and Thom's history are from Chapters 3 and 4 as you supplied them; the Manetheren row is from Chapter 9, the Great Hunt and Karaethon rows from Chapter 13, Ba'alzamon's history from Chapter 14, and Thom's notes on the false Dragons, the Eye of the World and the three voices from Chapter 15, and the common-room tales from Chapter 17. The "As true" column and the payoffs are from memory of the books. The real-world echoes are common reader interpretations; Jordan acknowledged borrowing from myth and history, but the individual matches are not confirmed in the text.

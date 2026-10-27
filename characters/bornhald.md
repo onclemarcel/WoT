@@ -17,6 +17,8 @@ Chapter 15 gives Bornhald one scene, and in it he decides Rand is guilty before 
 - **What he promises:** "Darkfriends do not escape us, youngling... We will meet again. You may be sure of it!"
 - **What he hides (from later books):** a father in command, and a grudge that will land on Perrin rather than Rand.
 
+**Chapter 17: the gate.** Bornhald keeps his promise that night. With four men he stops the party at the Caemlyn Gate, tells the Watch they are Darkfriends, and offers to take them to camp instead of reporting the Watchmen to the Questioners. When Moiraine looms, he alone attacks: "Aes Sedai! Die!" Her staff melts his sword almost in two and throws all five into a heap. He shouts to hold the gates; the Watch shuts them anyway. A Whitecloak spy, a scar-faced man, watched the boys at the inn earlier.
+
 ## Arc
 
 The arc runs from contempt, to vengeance, to an honest confession. From memory; book numbers and who did what are the details most worth confirming.
@@ -86,4 +88,4 @@ Bornhald's signature sense is certainty: the "light of knowing" in his eyes. He 
 
 ## Sources
 
-The starting point is checked against Chapter 15 as you supplied it. The text names him only as "Lord Bornhald"; that he is Dain, son of Lord Captain Geofram Bornhald, is from memory. Everything else is from memory of the books. Details most worth confirming: whether Dain is with his father's company when Perrin and Egwene are captured; Geofram's death at Falme and Byar's blame; the book in which Dain leads the Children into the Two Rivers; that Ordeith's men killed Perrin's family; and Dain's testimony at Perrin's trial in Book 13.
+The starting point is checked against Chapters 15 and 17 as you supplied them. The text names him only as "Lord Bornhald"; that he is Dain, son of Lord Captain Geofram Bornhald, is from memory. Everything else is from memory of the books. Details most worth confirming: whether Dain is with his father's company when Perrin and Egwene are captured; Geofram's death at Falme and Byar's blame; the book in which Dain leads the Children into the Two Rivers; that Ordeith's men killed Perrin's family; and Dain's testimony at Perrin's trial in Book 13.

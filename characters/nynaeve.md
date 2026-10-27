@@ -22,6 +22,8 @@ Chapters 1 to 3 build Nynaeve's reputation before she appears, then show it in a
 
 **Chapter 16: the Wisdom at Moiraine's table.** Nynaeve tracked the party to Baerlon along a trail Lan tried to hide; her late father taught her to hunt like the sons he never had. Lan's praise makes her blush, the first time Rand has seen her out of countenance. She wants Egwene and the boys home and calls Moiraine's answers "a great sackful of gleeman's tales"; her saying sums up her view: whatever the bear and the wolf do, "the rabbit always loses". She came because the village meeting split and the men could not decide; she called the Women's Circle and left Mavra Mallen of Deven Ride in her place. Min says she is "part of it", and she was "somehow" sure they could not wait. She hides from Moiraine that Rand was born outside the Two Rivers, then tells him of Tam's return with Kari and a baby. Her last word: "Today, I am going to have a bath."
 
+**Chapter 17: she rides with them.** Nynaeve, who never dances at home, dances gracefully with Rand, and stays for one more dance after Moiraine leaves, "as if she had gained a point". She shares a room with Moiraine and Egwene. After the Fade, her face is "a mask of cool anger"; she joins the night flight to see them safely home: "I won't leave you alone with her sort." On the road she blames Moiraine for the burning inn and loses the argument, muttering "I would do something".
+
 ## Arc
 
 | Book | Turning point | What shifts | Why |
@@ -84,4 +86,4 @@ Nynaeve's signature sense is a healer's: she reads bodies, herbs and weather, an
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, with Chapters 13, 15 and 16, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
+The starting point is checked against Chapters 1 to 3, with Chapters 13 and 15 to 17, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
