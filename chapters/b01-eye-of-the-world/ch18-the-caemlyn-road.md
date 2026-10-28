@@ -88,6 +88,19 @@ The chapter's two loudest clues are a name for Lan and a cry from Mat, and neith
 | Moiraine's "No!" to Lan's refuge | She is tired | The place the Trollocs fear is dangerous to everyone |
 | "Later Aridhol died, and this place was called by another name" | History | Shadar Logoth means "Shadow's Waiting" in the Old Tongue; what killed it comes next |
 
+## Reader's notes
+
+Your notes read the chapter as a turning point in two relationships and a lesson in what a Fade is.
+
+| Note | Reading |
+| --- | --- |
+| Egwene's flash of understanding, and her belt knife beside Moiraine: a memory of Eldrene? | The text gives it only to the old blood: Moiraine says Arad's line "still sings" and smiles at both of them, but looks longer at Mat. Egwene with a knife beside an Aes Sedai does echo Eldrene, the queen who fought beside her people. Read it as an echo the author plants, not a memory she holds |
+| Nynaeve's herbs are her way to help, and to show her own power | Yes. Flatwort and andilay are a Wisdom's craft offered to an Aes Sedai who heals by the Power. Moiraine's sidelong glance shows she sees the rivalry; Nynaeve's packet after the fire wall turns it into care |
+| No sign yet of Nynaeve using the Power unknowingly | Right: this chapter shows only her tracking and her herbs. The question stays open, flagged since Chapter 13 ("two in one village") |
+| The first chapter where Nynaeve and Moiraine are less at odds | The shift is physical: Nynaeve rides beside her, a hand on her arm, "concern battling dislike". She still wants something ("some goal in sight"), but she gives before she takes |
+| Everything is still seen through Rand; his and Perrin's doubt about Mat clashes with the point of view | The doubt is a useful misdirection. A reader who knows the point of view sits with Rand suspects Rand is the one, so the boys' suspicion of Mat reads as dramatic irony. It also makes Mat matter: the point of view does not decide who is important, only who we watch |
+| The Fade matches Lan stroke for stroke; three would be too much, and common people cannot face one | The text supports it: the Trollocs keep clear of the two, the clash rings "like a great bell" with blue light, and the Fades walk unharmed through an earthquake. Against three, Moiraine does not ask Lan to fight; she uses the Power and then flees |
+
 ## Thread setup
 
 Chapter 18 seeds the old blood of Manetheren and Lan's lost kingdom, and opens the door to the series' first cursed place.

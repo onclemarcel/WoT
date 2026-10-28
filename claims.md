@@ -88,9 +88,11 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C105 | Rogosh Eagle-eye, Gaidal Cain and Buad of Albhain ride among the Heroes of the Horn at Falme | Tales and Legends | B2 | open |
 | C106 | Lan is the uncrowned king of Malkier, the Seven Towers | Ch. 18, Lan | B1, late | open |
 | C107 | Mat's war cry is the first sign of inherited memories of Manetheren's battles | Ch. 18, Mat, Manetheren | B1–B3 | open |
-| C108 | Egwene, too, carries the old blood of Manetheren | Ch. 18 | B1 | reading |
+| C108 | Egwene, too, carries the old blood of Manetheren; her flash of understanding is the blood, not a memory of Eldrene | Ch. 18 | B1 | reading |
 | C109 | Women channelers are generally weaker in Earth and Fire | Ch. 18 | B1–B2 | open |
 | C110 | Shadar Logoth means "Shadow's Waiting" in the Old Tongue | Ch. 18 | B1, next chapter | open |
+| C111 | Fades are master swordsmen; few but a Warder or blademaster can face one | Ch. 18 | B1 | open |
+| C112 | The point of view widens beyond Rand later in Book 1 (Perrin's and Nynaeve's chapters) | Ch. 18 | B1, after Shadar Logoth | open |
 
 ## Book 2 to Book 4
 
