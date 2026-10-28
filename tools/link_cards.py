@@ -44,6 +44,7 @@ TITLES = {
     "EotW Ch. 15 — Strangers and Friends": "chapters/b01-eye-of-the-world/ch15-strangers-and-friends.md",
     "EotW Ch. 16 — The Wisdom": "chapters/b01-eye-of-the-world/ch16-the-wisdom.md",
     "EotW Ch. 17 — Watchers and Hunters": "chapters/b01-eye-of-the-world/ch17-watchers-and-hunters.md",
+    "EotW Ch. 18 — The Caemlyn Road": "chapters/b01-eye-of-the-world/ch18-the-caemlyn-road.md",
     "WoT — Baerlon": "world/baerlon.md",
     "WoT — Ba'alzamon": "world/baalzamon.md",
     "WoT Arc — Leaving Emond's Field (Ch. 1–10)": "arcs/b01-leaving-emonds-field.md",

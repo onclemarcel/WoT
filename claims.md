@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 17. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 18. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -19,7 +19,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C07 | A heron-mark blade marks a blademaster | Ch. 5, Ch. 8, Tam | B1 | confirmed, Ch. 8 (Lan: in some places the heron is the symbol of a master swordsman) |
 | C08 | Tam's sword is a blade made with the One Power, which never dulls | Ch. 5 | B1–B2 | open |
 | C09 | A Fade is not twenty feet tall, as the stories say | Ch. 5 | B1 | confirmed, Ch. 8 (Lan: stories make things larger than truth) |
-| C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6 | B1 | open (Ch. 8: Fades are "the brain that tells the Trolloc fists where to strike"; the rabble half is not yet shown) |
+| C10 | A Fade binds Trollocs to its will; without one they are a rabble | Ch. 6, Ch. 18 | B1 | confirmed, Ch. 18 (Lan beheads a Fade and every Trolloc around it falls writhing and howling) |
 | C11 | The Dark One reaches the boys through their dreams | Ch. 7 | B1 | confirmed, Ch. 9 for Rand; Ch. 15 for all three (Mat and Perrin had the same dream) |
 | C12 | The Dark One promises his chief servants escape from death | Ch. 7 | B1 | open |
 | C13 | The peddler, Padan Fain, is the Shadow's tool, and later his own | Ch. 2, Ch. 3, Padan Fain | B1, late | open (name confirmed, Ch. 3; Ch. 15: alive, afraid of Moiraine, asks where the party stays and for how long) |
@@ -33,7 +33,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C21 | The Two Rivers' borders: the White River to the south | Two Rivers | B1, Ch. 4 | confirmed, Ch. 4 |
 | C22 | No officer of Andor has come to the Two Rivers in living memory | Two Rivers | B1–B4 | open |
 | C23 | The false Dragon in Ghealdan (Logain) has a later role | Ch. 3, Ch. 13, Ghealdan | B1–B2 | open (Ch. 13: a big battle, Aes Sedai dead, marching toward Tear; Ch. 14: named Logain, the victor in Ghealdan; his later role not yet shown) |
-| C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8 | B1, late | open |
+| C52 | The Trollocs reached the Two Rivers unseen by a hidden road, the Ways | Ch. 8, Ch. 18 | B1, late | open (Ch. 18: Moiraine asks how five hundred Trollocs came here if they were not used at Emond's Field; no answer yet) |
 | C53 | Moiraine is matching the boys' ages to a birth date she is looking for | Ch. 8, Ch. 16 | B1 | confirmed in part, Ch. 16 (she asks Nynaeve whether any boy was born outside the Two Rivers; the date itself not yet stated) |
 | C54 | All three boys, Rand, Mat and Perrin, are ta'veren | Ch. 8 | B1–B2 | open |
 | C55 | The figure in the blood-red cloak is Ba'alzamon, and he visits all three boys in dreams | Ch. 9 | B1 | confirmed, Ch. 15 (the figure names himself in Ch. 14; all three boys dreamed him, with small differences) |
@@ -72,7 +72,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14, Min | B1, next chapters | confirmed, Ch. 15 ("My name is Min"; she sees images when she looks at people; Moiraine calls it "pieces of the Pattern") |
 | C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
 | C92 | Rand's fever before the Whitecloaks is saidin touched unknowingly | Ch. 15 | B1–B2 | open |
-| C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open |
+| C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open (Ch. 18: Moiraine calls Lan "last Lord of the Seven Towers", supporting the Malkier reading) |
 | C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain, Ch. 17 | B1, next chapters | open (Ch. 17: a Fade finds the Stag and Lion the next night; Moiraine wonders "how we were found"; who told it is not said) |
 | C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald, Ch. 17 | B1–B4 | confirmed in part, Ch. 17 (the grudge returns that same night at the Caemlyn Gate; the name Dain and his father not yet given) |
 | C96 | Bornhald's arc: Geofram's death at Falme and Byar's blame (B2); Dain leads the Children into the Two Rivers with Ordeith (B4); Ordeith's men kill Perrin's family; Dain testifies to it at Perrin's trial (B13) | Bornhald | B2–B13 | open |
@@ -80,12 +80,17 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C97 | Moiraine's question about birth outside the Two Rivers points to the prophecy of the Dragon's birth on the slopes of Dragonmount | Ch. 16 | B1, late | open |
 | C98 | Lan senses Trollocs through his Warder bond, not only Borderland training | Ch. 16 | B1–B2 | open |
 | C99 | Nynaeve's blush at Lan's praise is the start of their love story | Ch. 16 | B1 | open |
-| C100 | The Fade spared Rand because the Shadow wants him taken alive | Ch. 17 | B1–B2 | open |
+| C100 | The Fade spared Rand because the Shadow wants him taken alive | Ch. 17, Ch. 18 | B1–B2 | open (Ch. 18: the Trollocs carry catchpoles and hooks, not blades; why is not said) |
 | C101 | Fades travel through shadows | Ch. 17 | B1–B2 | open |
 | C102 | The Myrddraal's eyeless gaze paralyses with fear | Ch. 17 | B1 | open |
 | C103 | Moiraine's looming at the gate is an illusion woven with the Power | Ch. 17 | B1–B2 | open |
 | C104 | The scar-faced man at the Stag and Lion has a later role | Ch. 17 | B1 | open |
 | C105 | Rogosh Eagle-eye, Gaidal Cain and Buad of Albhain ride among the Heroes of the Horn at Falme | Tales and Legends | B2 | open |
+| C106 | Lan is the uncrowned king of Malkier, the Seven Towers | Ch. 18, Lan | B1, late | open |
+| C107 | Mat's war cry is the first sign of inherited memories of Manetheren's battles | Ch. 18, Mat, Manetheren | B1–B3 | open |
+| C108 | Egwene, too, carries the old blood of Manetheren | Ch. 18 | B1 | reading |
+| C109 | Women channelers are generally weaker in Earth and Fire | Ch. 18 | B1–B2 | open |
+| C110 | Shadar Logoth means "Shadow's Waiting" in the Old Tongue | Ch. 18 | B1, next chapter | open |
 
 ## Book 2 to Book 4
 

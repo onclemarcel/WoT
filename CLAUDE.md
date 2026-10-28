@@ -79,6 +79,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 15 — Strangers and Friends | 98f50345-aa34-4633-9a1e-3ca564480ebc | 61bedcc9-2d4d | chapters/b01-eye-of-the-world/ch15-strangers-and-friends.md |
 | EotW Ch. 16 — The Wisdom | 80de9762-5e10-4ad0-8c18-beb752164547 | b0f549a9-e020 | chapters/b01-eye-of-the-world/ch16-the-wisdom.md |
 | EotW Ch. 17 — Watchers and Hunters | ef579122-4646-41ee-9c5b-cb65181dc229 | 8ac67424-ed53 | chapters/b01-eye-of-the-world/ch17-watchers-and-hunters.md |
+| EotW Ch. 18 — The Caemlyn Road | b8a763fd-6c68-4fef-b14d-ffd4676a5a9b | 1f497f9a-a889 | chapters/b01-eye-of-the-world/ch18-the-caemlyn-road.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -137,5 +138,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–17 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 18.
+- Book 1, Chapters 1–18 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 19.
 - Open ideas: a card for Caemlyn (row exists in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

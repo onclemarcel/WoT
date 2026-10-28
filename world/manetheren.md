@@ -36,6 +36,7 @@ Chapter 9 gives the whole story in Moiraine's words, told to a mob in the inn ya
 - **Moiraine's story.** In Book 1 she tells the villagers who their ancestors were. It is the first time the Two Rivers is pushed to see itself as more than farms.
 - **The red eagle banner.** It is raised again when the Two Rivers defends itself in Book 4. A symbol turns a militia into a people.
 - **The Old Tongue.** Mat recalls Manetheren's battle cries through borrowed memories, so the past lives on in a person.
+- **The war cry (Ch. 18).** In the first battle Mat shouts "Carai an Caldazar! Carai an Ellisande! Al Ellisande!" without knowing why. Moiraine translates: "For the honor of the Red Eagle", the war cry of Manetheren, and "the Rose of the Sun", its last king's cry for Eldrene. "The blood of Arad's line is still strong in the Two Rivers." Rand and Perrin shout "Manetheren!". The party then takes refuge in Aridhol, once Manetheren's ally in the Trolloc Wars, now Shadar Logoth.
 - **Stubbornness.** The Two Rivers folk are famously stubborn, which the story presents as an inherited trait of a people who would not yield.
 
 ## Influence
@@ -51,4 +52,4 @@ Chapter 9 gives the whole story in Moiraine's words, told to a mob in the inn ya
 
 ## Sources
 
-The Chapter 9 section is checked against the text you supplied; quotes are kept short. The History bullets, Echoes and Influence are from memory of the books. Details most worth confirming: that Manetheren was one of the Ten Nations; that Eldrene was Aes Sedai and Aemon her Warder; the red eagle banner raised again in Book 4; and Mat's borrowed memories of its battles.
+The Chapter 9 section and the Chapter 18 bullet are checked against the text you supplied; quotes are kept short. The History bullets, Echoes and Influence are from memory of the books. Details most worth confirming: that Manetheren was one of the Ten Nations; that Eldrene was Aes Sedai and Aemon her Warder; the red eagle banner raised again in Book 4; and Mat's borrowed memories of its battles.

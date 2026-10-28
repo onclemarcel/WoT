@@ -17,7 +17,7 @@ Chapters 1 to 3 show Rand before anything has happened to him, and plant almost 
 - **His tools:** Tam's flame and the void, which he cannot hold while he thinks of the rider.
 - **His blind spot:** he calls the Dragon who saves mankind a fool's tale and says no one ever leaves the Two Rivers.
 
-## Book 1 so far (Chapters 4 to 17)
+## Book 1 so far (Chapters 4 to 18)
 
 In ten chapters Rand loses almost everything that defined him in Chapters 1 to 3: his home, his certainty about his father, and his place beside Egwene. What he gains, he mostly does not notice: a sword, a teacher, and a first touch of the Power. Unlike Egwene, he never chooses the road; it is chosen for him, and the book's question is whether that is true.
 
@@ -37,6 +37,7 @@ In ten chapters Rand loses almost everything that defined him in Chapters 1 to 3
 | 15 | Learns of the broken-backed rats and the shared dream; is read by Min; finds Padan Fain and promises not to tell Moiraine; laughs at three Whitecloaks and shows his heron-mark sword in a strange fever; agrees with Mat and Thom to keep quiet | The dream becomes fact; his body starts acting without him: tingling, heat, recklessness, then collapse. "Maybe the dreams are driving me crazy" |
 | 16 | Keeps Min's secret from his friends; sits between Moiraine and Nynaeve and says "We can't" first; presses Nynaeve on why she came; learns from her pause and her memory of Tam's return with Kari and a baby that he was born outside the Two Rivers | He speaks for the group for the first time ("You've grown"); the fever talk stops being a fever-dream. "I was born outside the Two Rivers" |
 | 17 | Dances with Nynaeve, Moiraine and a silent Egwene; meets a Fade alone in the hall, cannot move or scream, forgets his sword; flees Baerlon by night; tells Egwene "I'm sorry" | The Shadow spares him and claims him: "You are his". Fear, not lack of a blade, makes him helpless; he starts to feel responsible for the danger to others |
+| 18 | Counts the miles at every horn; finds Tam's sword in his fist and shouts "Manetheren!"; hacks through the Trolloc line, nearly dragged off by a hook; feels the staff's tingle that Lan does not | His first battle, a blur of "hairy faces and fear"; ashamed to hope the Trollocs want Mat, not him |
 
 **What Chapter 13 shows.** The quiet week turns Rand inward and backward.
 
@@ -129,4 +130,4 @@ Rand's signature inner sense is the void: an emptiness he enters to act without 
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 17 cards, all from the text you supplied; the Power in Chapter 11 is a reading the text has not yet named (claim C65). The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 18 cards, all from the text you supplied; the Power in Chapter 11 is a reading the text has not yet named (claim C65). The arc and everything after are from memory of the books; confirm book numbers for single events, especially in Books 5 to 12.
