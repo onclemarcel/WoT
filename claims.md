@@ -4,7 +4,7 @@ This register tracks every detail the cards state from memory and flag as "worth
 
 Status values: **open**; **confirmed, Ch. N** (the text agrees); **corrected, Ch. N** (the text disagrees, and the cards were fixed); **reading** (an interpretation the text will never settle); **checked, source** (confirmed outside the text, such as a wiki, for claims far ahead).
 
-Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 18. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
+Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked through Chapter 19. Rows are grouped by when the text should settle them, soonest first. "B1" means Book 1, *The Eye of the World*.
 
 ## Due soon (Book 1)
 
@@ -40,8 +40,8 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C56 | The dream's split mountain and island city are Dragonmount and Tar Valon | Ch. 9 | B1–B2 | open |
 | C57 | Eldrene was Aes Sedai and Aemon her Warder | Ch. 9, Manetheren | B1–B2 | open |
 | C58 | The Warder stories are true: fast healing, less need of food and sleep, sensing Shadowspawn | Ch. 9, Ch. 11 | B1 | open (Ch. 11: Lan needs no relief from fatigue, "not yet"; Ch. 16: sensing Shadowspawn confirmed: no Trolloc within a quarter mile without Lan "feeling the evil of it"; Ch. 17: Lan feels the Fade "fading" and stands guard all night unwearied; healing not yet shown) |
-| C59 | Manetheren was one of the Ten Nations | Manetheren | B1–B2 | open |
-| C60 | Trollocs fear deep water | Ch. 10 | B1, next chapters | open |
+| C59 | Manetheren was one of the Ten Nations | Manetheren, Ch. 19 | B1–B2 | open (Ch. 19: Aridhol, Manetheren's ally, was one of the Ten Nations; Manetheren itself not yet named one) |
+| C60 | Trollocs fear deep water | Ch. 10, Ch. 19 | B1, next chapters | confirmed, Ch. 19 (Lan: Trollocs and Myrddraal loathe deep water, Trollocs are terrified of it, neither can swim) |
 | C61 | A Draghkar finds prey for the Myrddraal and kills by a song and a kiss that takes the soul | Ch. 10 | B1 | open (Ch. 11: confirmed it reports to the Myrddraal and marks the party for it; the song and kiss not yet shown) |
 | C62 | Nynaeve follows the party | Ch. 10, Leaving Emond's Field | B1 | confirmed, Ch. 15 (she bullies Hightower into rowing her across and reaches the Stag and Lion) |
 | C63 | The prologue: Lews Therin kills his family, and Dragonmount rises where he dies | Leaving Emond's Field | B1, prologue | confirmed in part, Ch. 14 (Ba'alzamon's telling: Lews Therin killed his wife, children and all his blood, called down the Power, and Dragonmount rose as his tomb; the prologue itself was not pasted) |
@@ -72,13 +72,13 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C88 | The short-haired girl is Min, who sees images and auras around people | Ch. 14, Min | B1, next chapters | confirmed, Ch. 15 ("My name is Min"; she sees images when she looks at people; Moiraine calls it "pieces of the Pattern") |
 | C89 | Ba'alzamon's series: the duel over Falme and Rand's wound (B2), his death in the Heart of the Stone (B3), his return as Moridin, his end at Shayol Ghul (B14) | Ba'alzamon | B2–B14 | open |
 | C92 | Rand's fever before the Whitecloaks is saidin touched unknowingly | Ch. 15 | B1–B2 | open |
-| C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open (Ch. 18: Moiraine calls Lan "last Lord of the Seven Towers", supporting the Malkier reading) |
+| C93 | The meaning of Min's Ch. 15 viewings: Lan's seven towers and cradle sword (Malkier); Thom's man juggling fire; Perrin's broken crown and flowering trees; Mat's eye on a scale, ruby dagger and horn; Rand's laurel crown, beggar's staff, water on sand, bloody hand and white-hot iron, black rock wet with blood | Ch. 15 | B1–B14 | open (Ch. 18: Moiraine calls Lan "last Lord of the Seven Towers", supporting the Malkier reading; Ch. 19: Lan's cradle sword confirmed, "a sword placed in his infant hands") |
 | C94 | Fain asks where the party stays so as to bring the Shadow to it | Ch. 15, Padan Fain, Ch. 17 | B1, next chapters | open (Ch. 17: a Fade finds the Stag and Lion the next night; Moiraine wonders "how we were found"; who told it is not said) |
 | C95 | Chapter 15's Bornhald is Dain, son of Lord Captain Geofram Bornhald, and his grudge returns | Ch. 15, Children of the Light, Bornhald, Ch. 17 | B1–B4 | confirmed in part, Ch. 17 (the grudge returns that same night at the Caemlyn Gate; the name Dain and his father not yet given) |
 | C96 | Bornhald's arc: Geofram's death at Falme and Byar's blame (B2); Dain leads the Children into the Two Rivers with Ordeith (B4); Ordeith's men kill Perrin's family; Dain testifies to it at Perrin's trial (B13) | Bornhald | B2–B13 | open |
 | C91 | Min's arc: viewings of the boys in Book 1, the road to Falme (B2), Siuan's escape (B4), capture and Dumai's Wells (B6), Herid Fel's books, the compelled attack by Rand, Doomseer to Tuon (B14); her viewing of three women around Rand | Min | B1–B14 | open (Ch. 15: her viewings of the whole party confirmed; the rest far ahead) |
 | C97 | Moiraine's question about birth outside the Two Rivers points to the prophecy of the Dragon's birth on the slopes of Dragonmount | Ch. 16 | B1, late | open |
-| C98 | Lan senses Trollocs through his Warder bond, not only Borderland training | Ch. 16 | B1–B2 | open |
+| C98 | Lan senses Trollocs through his Warder bond, not only Borderland training | Ch. 16, Ch. 19 | B1–B2 | open (Ch. 19: the bond exists: Moiraine would know the minute and the way of Lan's death; whether it is how he senses Trollocs is not said) |
 | C99 | Nynaeve's blush at Lan's praise is the start of their love story | Ch. 16 | B1 | open |
 | C100 | The Fade spared Rand because the Shadow wants him taken alive | Ch. 17, Ch. 18 | B1–B2 | open (Ch. 18: the Trollocs carry catchpoles and hooks, not blades; why is not said) |
 | C101 | Fades travel through shadows | Ch. 17 | B1–B2 | open |
@@ -90,9 +90,16 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C107 | Mat's war cry is the first sign of inherited memories of Manetheren's battles | Ch. 18, Mat, Manetheren | B1–B3 | open |
 | C108 | Egwene, too, carries the old blood of Manetheren; her flash of understanding is the blood, not a memory of Eldrene | Ch. 18 | B1 | reading |
 | C109 | Women channelers are generally weaker in Earth and Fire | Ch. 18 | B1–B2 | open |
-| C110 | Shadar Logoth means "Shadow's Waiting" in the Old Tongue | Ch. 18 | B1, next chapter | open |
+| C110 | Shadar Logoth means "Shadow's Waiting" in the Old Tongue | Ch. 18, Ch. 19, Shadar Logoth | B1, next chapter | confirmed, Ch. 19 (Moiraine: "the Place Where the Shadow Waits, or more simply, Shadow's Waiting") |
 | C111 | Fades are master swordsmen; few but a Warder or blademaster can face one | Ch. 18 | B1 | open |
 | C112 | The point of view widens beyond Rand later in Book 1 (Perrin's and Nynaeve's chapters) | Ch. 18 | B1, Ch. 20–22 | checked, user (the party splits in Ch. 20; Nynaeve with Moiraine and Lan in Ch. 21; Perrin and Egwene in Ch. 22) |
+| C113 | Mat's dagger from Shadar Logoth is tainted and harms him over time | Ch. 19, Shadar Logoth | B1–B2 | open |
+| C114 | Padan Fain, following the party, meets Mordeth in Shadar Logoth and is changed | Shadar Logoth | B1, late–B2 | open |
+| C115 | Mat is Healed of the dagger in Tar Valon in Book 2, but not freed of it | Shadar Logoth | B2 | open |
+| C116 | Rand's Cleansing of saidin uses Shadar Logoth and destroys it (Book 9) | Shadar Logoth | B9 | open |
+| C117 | Mat kills Fain with the dagger at the Last Battle | Shadar Logoth | B14 | open |
+| C118 | Mordeth's rage at "Tar Valon" is fear of Aes Sedai | Ch. 19 | B1 | reading |
+| C119 | Something stronger than the Myrddraal is driving them | Ch. 19 | B1, next chapters | open |
 
 ## Book 2 to Book 4
 

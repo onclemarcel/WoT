@@ -80,6 +80,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | EotW Ch. 16 — The Wisdom | 80de9762-5e10-4ad0-8c18-beb752164547 | b0f549a9-e020 | chapters/b01-eye-of-the-world/ch16-the-wisdom.md |
 | EotW Ch. 17 — Watchers and Hunters | ef579122-4646-41ee-9c5b-cb65181dc229 | 8ac67424-ed53 | chapters/b01-eye-of-the-world/ch17-watchers-and-hunters.md |
 | EotW Ch. 18 — The Caemlyn Road | b8a763fd-6c68-4fef-b14d-ffd4676a5a9b | 1f497f9a-a889 | chapters/b01-eye-of-the-world/ch18-the-caemlyn-road.md |
+| EotW Ch. 19 — Shadow's Waiting | dbd38ba6-44d1-44f7-bf87-8e41813d8454 | b0ca9180-107f | chapters/b01-eye-of-the-world/ch19-shadows-waiting.md |
 | WoT Character — Rand | 7cdd511c-0de1-4c69-bf0b-44cacc3ce25e | 165c3ba5-0a92 | characters/rand.md |
 | WoT Character — Mat | 22ea6a69-5461-4268-a0fa-ce23935aed12 | 114b10cb-1e77 | characters/mat.md |
 | WoT Character — Perrin | 25cf1688-25f1-429b-a6dd-1542184d0e8b | 747663dc-5dc0 | characters/perrin.md |
@@ -108,6 +109,7 @@ Project id (the doc) / tab id (needed for `export`). Body node ids come from `re
 | WoT — Taren Ferry | ca193f86-f4e9-4a1d-a621-c38149bc44d0 | ab6ec96f-ef86 | world/taren-ferry.md |
 | WoT — Baerlon | 8b23ca4f-44f3-4ea5-b3ab-22497e3acda9 | fdbb3073-6323 | world/baerlon.md |
 | WoT — Ba'alzamon | 4f613ba7-8fd2-4f1b-b1e4-c82504a57bdf | 859a964d-cb33 | world/baalzamon.md |
+| WoT — Shadar Logoth | c4d64cab-d780-4aab-835a-b1f3938c41b8 | 6da82122-8d12 | world/shadar-logoth.md |
 
 Add a row here for every new card. The doc link is `https://claude.ai/code/artifact/<project id>`.
 
@@ -138,5 +140,5 @@ Add a row here for every new card. The doc link is `https://claude.ai/code/artif
 
 ## State of the study
 
-- Book 1, Chapters 1–18 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 19.
+- Book 1, Chapters 1–19 have cards, and an arc card sums up Chapters 1–10 (Leaving Emond's Field). Next: Chapter 20 (the party splits; Ch. 21 follows Nynaeve, Moiraine and Lan; Ch. 22 Perrin and Egwene).
 - Open ideas: a card for Caemlyn (row exists in the World Index), Tinkers, Cairhien; an arc card for Winternight; the Tales card grows with each chapter.

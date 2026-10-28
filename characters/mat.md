@@ -17,7 +17,7 @@ Chapters 1 to 3 give Mat complete on arrival, which makes the later change measu
 - **His instincts:** reckless (he goaded Bili Congar into naming the Dark One), yet sound when it counts (he is the one who decides Moiraine's coin must not be spent).
 - **His tell:** curiosity stronger than caution, the trait that will take him into the most dangerous places in the series.
 
-## Book 1 so far (Chapters 4 to 18)
+## Book 1 so far (Chapters 4 to 19)
 
 Mat changes least of the three boys so far, and that is the point. The joker of Chapters 1 to 3 keeps joking through a burned home and a flight by night, but the jokes thin out, the fear shows through, and by Chapter 13 his restlessness has found a direction: cities, Illian, the world. His distrust of Aes Sedai, his skill with a bow and his quick hands are all on the page already.
 
@@ -35,6 +35,7 @@ Mat changes least of the three boys so far, and that is the point. The joker of 
 | 14–15 | Nearly tells the bath attendant about Trollocs; has the Ba'alzamon dream and laughs it off; spots Fain; drops a cartload of barrels on three Whitecloaks with his sling; "I say we keep quiet" | Fear turns into pranks and into distrust of Moiraine: "Not her. Maybe him, but not her" |
 | 16–17 | Covers for Rand about Min; asks after his father; dances; stared at by a scar-faced man; "Are we ever going to be safe again?" | The joker starts asking serious questions |
 | 18 | Shouts "Carai an Caldazar! Carai an Ellisande! Al Ellisande!" without knowing the words; the only one unhorsed, a noose at his throat; Moiraine: the war cry of Manetheren, "the old blood still sings" | The past speaks through him; he scowls at the idea, and his friends wonder if he is the real target |
+| 19 | Broods over "some dead man" speaking through him; leads the escape into Shadar Logoth, "Free!"; wants treasure; tells Mordeth they go to Tar Valon; comes out of the treasure room clutching a dagger; joins the others in saying Mordeth gave them nothing | Greed and wanderlust lead the others into danger; he carries a piece of the city out with him |
 
 **What Chapter 13 shows.**
 
@@ -111,4 +112,4 @@ Mat's signature sense is luck: he feels it as dice tumbling in his head, which s
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 18 cards, all from the text you supplied. The arc and everything after are from memory of the books; confirm book numbers for single events.
+The starting point is checked against Chapters 1 to 3, and the Book 1 section against the Chapter 4 to 19 cards, all from the text you supplied. The arc and everything after are from memory of the books; confirm book numbers for single events.

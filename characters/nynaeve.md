@@ -24,6 +24,8 @@ Chapters 1 to 3 build Nynaeve's reputation before she appears, then show it in a
 
 **Chapter 17: she rides with them.** Nynaeve, who never dances at home, dances gracefully with Rand, and stays for one more dance after Moiraine leaves, "as if she had gained a point". She shares a room with Moiraine and Egwene. After the Fade, her face is "a mask of cool anger"; she joins the night flight to see them safely home: "I won't leave you alone with her sort." On the road she blames Moiraine for the burning inn and loses the argument, muttering "I would do something".
 
+**Chapters 18 and 19: the healer earns her place.** For two days she talks herbs at Moiraine, flatwort tea and andilay root, and gets a sidelong glance. She vouches for Lan's scouting: "I have followed his trail." After Moiraine's earthquake and wall of fire she rides beside her, a hand on her arm, and gives her a packet of herbs, "concern battling dislike". In Shadar Logoth she tends her: "I help anyone who needs my help, whether I like them or not", and tells Lan, "your sword cannot help her now, Lord of the Seven Towers, but my herbs can." Moiraine answers that her skills "will be more useful than I thought". No sign yet that she uses the Power.
+
 ## Arc
 
 | Book | Turning point | What shifts | Why |
@@ -86,4 +88,4 @@ Nynaeve's signature sense is a healer's: she reads bodies, herbs and weather, an
 
 ## Sources
 
-The starting point is checked against Chapters 1 to 3, with Chapters 13 and 15 to 17, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.
+The starting point is checked against Chapters 1 to 3, with Chapters 13 and 15 to 19, as you supplied them. The arc and everything after are from memory of the books; confirm book numbers, especially for her marriage, the breaking of her block and her Healing of stilling.

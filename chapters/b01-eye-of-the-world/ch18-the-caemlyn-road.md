@@ -1,10 +1,10 @@
 # EotW Ch. 18 — The Caemlyn Road
 
-Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 17 — Watchers and Hunters](ch17-watchers-and-hunters.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
+Up: [Wheel of Time — Story Map](../../story-map.md) · Previous: [EotW Ch. 17 — Watchers and Hunters](ch17-watchers-and-hunters.md) · Next: [EotW Ch. 19 — Shadow's Waiting](ch19-shadows-waiting.md) · Shadow thread: [WoT Thread — The Shadow](../../threads/shadow.md)
 
 Characters: [WoT Character — Rand](../../characters/rand.md) · [WoT Character — Moiraine](../../characters/moiraine.md) · [WoT Character — Lan](../../characters/lan.md) · [WoT Character — Nynaeve](../../characters/nynaeve.md) · [WoT Character — Egwene](../../characters/egwene.md) · [WoT Character — Mat](../../characters/mat.md) · [WoT Character — Perrin](../../characters/perrin.md) · [WoT Character — Thom](../../characters/thom.md)
 
-World: [WoT — Manetheren](../../world/manetheren.md) · [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — The Two Rivers](../../world/two-rivers.md)
+World: [WoT — Shadar Logoth](../../world/shadar-logoth.md) · [WoT — Manetheren](../../world/manetheren.md) · [WoT — Aes Sedai](../../world/aes-sedai.md) · [WoT — The Two Rivers](../../world/two-rivers.md)
 
 Tales: [WoT — Tales and Legends](../../world/tales-and-legends.md) · Pattern: [WoT Thread — The Pattern and Ta'veren](../../threads/pattern.md)
 
