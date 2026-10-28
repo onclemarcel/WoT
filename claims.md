@@ -92,7 +92,7 @@ Seeded from the Sources sections of the cards as of Book 1, Chapter 7; checked t
 | C109 | Women channelers are generally weaker in Earth and Fire | Ch. 18 | B1–B2 | open |
 | C110 | Shadar Logoth means "Shadow's Waiting" in the Old Tongue | Ch. 18 | B1, next chapter | open |
 | C111 | Fades are master swordsmen; few but a Warder or blademaster can face one | Ch. 18 | B1 | open |
-| C112 | The point of view widens beyond Rand later in Book 1 (Perrin's and Nynaeve's chapters) | Ch. 18 | B1, after Shadar Logoth | open |
+| C112 | The point of view widens beyond Rand later in Book 1 (Perrin's and Nynaeve's chapters) | Ch. 18 | B1, Ch. 20–22 | checked, user (the party splits in Ch. 20; Nynaeve with Moiraine and Lan in Ch. 21; Perrin and Egwene in Ch. 22) |
 
 ## Book 2 to Book 4
 
